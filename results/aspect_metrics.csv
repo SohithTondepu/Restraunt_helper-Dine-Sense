@@ -1,0 +1,2 @@
+sample_size,cohen_kappa_agreement,aspect_macro_f1,aspect_precision,aspect_recall,clause_sentiment_macro_f1,clause_sentiment_precision,clause_sentiment_recall
+500,0.852,0.7366,0.7442,0.7541,0.517,0.5505,0.5448

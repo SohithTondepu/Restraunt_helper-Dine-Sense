@@ -1,1 +1,34 @@
+# Python Environments
 venv/
+.venv/
+env/
+ENV/
+
+# Python Cache & Bytecode
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Heavy Deep Learning Model Weights (>100MB blocked by GitHub)
+*.pt
+*.bin
+*.safetensors
+*.h5
+models/distilbert_sentiment/model.safetensors
+models/distilbert_sentiment/pytorch_model.bin
+models/deberta_finetuned.pt
+
+# Offline local scripts
+create_notebooks.py
+src/evaluate_models.py
+
+# Temporary & Editor Artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

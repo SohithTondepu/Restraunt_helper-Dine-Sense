@@ -142,7 +142,7 @@ Run `streamlit run app.py` to launch the unified interactive platform:
 2. **💡 Complaint Clusters & Grounded Action Report:**
    * Left Column: Top SpaCy-extracted complaint clusters with frequency counts and verbatim evidence quotes.
    * Right Column: Grounded Executive Action Report with a **Prescriptive 30-Day Action Roadmap** and green numeric fact-verification pass badge.
-3. **📁 Batch Review Ingestion & Scoring (New):**
+3. **📁 Batch Review Ingestion & Scoring :**
    * Upload an external `.csv` file containing customer reviews.
    * Automatic column mapping for review text, restaurant names, and ratings.
    * Built-in 1-click **Sample CSV Template Download** and **Sample Demo Batch Loader** (5 realistic multi-aspect reviews across 2 venues).

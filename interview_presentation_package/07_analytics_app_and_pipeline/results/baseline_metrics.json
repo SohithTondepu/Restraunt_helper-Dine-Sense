@@ -1,0 +1,142 @@
+[
+  {
+    "Model": "Majority Class Floor",
+    "Architecture": "Heuristic Floor",
+    "Accuracy": 62.44,
+    "Macro_Precision": 0.2081,
+    "Macro_Recall": 0.3333,
+    "Macro_F1": 0.2563,
+    "F1_Negative": 0.0,
+    "F1_Neutral": 0.0,
+    "F1_Positive": 0.7688,
+    "Confusion_Matrix": [
+      [
+        0,
+        0,
+        368
+      ],
+      [
+        0,
+        0,
+        183
+      ],
+      [
+        0,
+        0,
+        916
+      ]
+    ]
+  },
+  {
+    "Model": "TF-IDF + Logistic Regression",
+    "Architecture": "Linear ML",
+    "Accuracy": 82.07,
+    "Macro_Precision": 0.715,
+    "Macro_Recall": 0.7353,
+    "Macro_F1": 0.7234,
+    "F1_Negative": 0.8262,
+    "F1_Neutral": 0.4384,
+    "F1_Positive": 0.9056,
+    "Confusion_Matrix": [
+      [
+        309,
+        44,
+        15
+      ],
+      [
+        51,
+        89,
+        43
+      ],
+      [
+        20,
+        90,
+        806
+      ]
+    ]
+  },
+  {
+    "Model": "TF-IDF + Linear SVM",
+    "Architecture": "Linear ML",
+    "Accuracy": 84.19,
+    "Macro_Precision": 0.7255,
+    "Macro_Recall": 0.7101,
+    "Macro_F1": 0.7139,
+    "F1_Negative": 0.8309,
+    "F1_Neutral": 0.3873,
+    "F1_Positive": 0.9235,
+    "Confusion_Matrix": [
+      [
+        317,
+        31,
+        20
+      ],
+      [
+        59,
+        61,
+        63
+      ],
+      [
+        19,
+        40,
+        857
+      ]
+    ]
+  },
+  {
+    "Model": "TF-IDF + Random Forest",
+    "Architecture": "Tree Ensemble",
+    "Accuracy": 83.16,
+    "Macro_Precision": 0.7403,
+    "Macro_Recall": 0.6635,
+    "Macro_F1": 0.6621,
+    "F1_Negative": 0.8025,
+    "F1_Neutral": 0.27,
+    "F1_Positive": 0.9138,
+    "Confusion_Matrix": [
+      [
+        319,
+        13,
+        36
+      ],
+      [
+        70,
+        32,
+        81
+      ],
+      [
+        38,
+        9,
+        869
+      ]
+    ]
+  },
+  {
+    "Model": "TF-IDF + XGBoost",
+    "Architecture": "Tree Ensemble",
+    "Accuracy": 83.44,
+    "Macro_Precision": 0.7376,
+    "Macro_Recall": 0.6701,
+    "Macro_F1": 0.6833,
+    "F1_Negative": 0.8103,
+    "F1_Neutral": 0.327,
+    "F1_Positive": 0.9126,
+    "Confusion_Matrix": [
+      [
+        299,
+        23,
+        46
+      ],
+      [
+        51,
+        43,
+        89
+      ],
+      [
+        20,
+        14,
+        882
+      ]
+    ]
+  }
+]

@@ -1,0 +1,13 @@
+{
+  "train_reviews": 1246,
+  "val_reviews": 266,
+  "test_reviews": 271,
+  "train_rows": 3959,
+  "val_rows": 906,
+  "test_rows": 907,
+  "label_map": {
+    "Negative": 0,
+    "Neutral": 1,
+    "Positive": 2
+  }
+}

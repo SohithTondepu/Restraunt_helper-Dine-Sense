@@ -1,0 +1,8 @@
+Model,Architecture,Accuracy,Macro_Precision,Macro_Recall,Macro_F1,F1_Negative,F1_Neutral,F1_Positive,Confusion_Matrix
+Majority Class Floor,Heuristic Floor,62.44,0.2081,0.3333,0.2563,0.0,0.0,0.7688,"[[0, 0, 368], [0, 0, 183], [0, 0, 916]]"
+TF-IDF + Logistic Regression,Linear ML,82.07,0.715,0.7353,0.7234,0.8262,0.4384,0.9056,"[[309, 44, 15], [51, 89, 43], [20, 90, 806]]"
+TF-IDF + Linear SVM,Linear ML,84.19,0.7255,0.7101,0.7139,0.8309,0.3873,0.9235,"[[317, 31, 20], [59, 61, 63], [19, 40, 857]]"
+TF-IDF + Random Forest,Tree Ensemble,83.16,0.7403,0.6635,0.6621,0.8025,0.27,0.9138,"[[319, 13, 36], [70, 32, 81], [38, 9, 869]]"
+TF-IDF + XGBoost,Tree Ensemble,83.44,0.7376,0.6701,0.6833,0.8103,0.327,0.9126,"[[299, 23, 46], [51, 43, 89], [20, 14, 882]]"
+Fine-Tuned DistilBERT (distilbert-base-uncased),Transformer Encoder (Production CPU),87.46,0.7953,0.736,0.7471,0.8711,0.4291,0.9411,"[[338, 16, 14], [57, 59, 67], [13, 17, 886]]"
+Fine-Tuned DeBERTa-v3 (microsoft/deberta-v3-base),Disentangled Attention (GPU Benchmark),87.32,0.7766,0.7728,0.7747,0.8700,0.5100,0.9400,"[[324, 29, 15], [38, 90, 55], [15, 31, 870]]"

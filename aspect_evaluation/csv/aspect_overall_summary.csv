@@ -1,0 +1,17 @@
+Metric,Value
+Total Clauses Evaluated,11631.0
+Total Evaluative Clauses (Annotated),6759.0
+Total Non-Evaluative Clauses (No Aspect Opinion),4872.0
+Overall Exact Match Ratio (All Clauses),0.7267
+Evaluative Exact Match Ratio (Annotated Only),0.8756
+Evaluative At-Least-One Match Recall,0.9244
+Non-Evaluative Precision (No Aspect Opinion Specificity),0.5201
+Macro F1-Score (5 Aspects),0.7912
+Macro Precision (5 Aspects),0.6913
+Macro Recall (5 Aspects),0.9357
+Micro F1-Score (5 Aspects),0.787
+Weighted F1-Score (5 Aspects),0.7865
+Average Jaccard Similarity,0.7401
+Hamming Loss,0.0639
+Total Execution Time (seconds),74.84
+Inference Throughput (clauses/sec),155.4

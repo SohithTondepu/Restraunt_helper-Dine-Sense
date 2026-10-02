@@ -1,0 +1,357 @@
+review_id,original_row_id,establishment_id,star_rating,rating_bin,review_char_length,review_word_count,length_bin,review_timestamp,year,reviewer_name,reviewer_metadata,picture_count,legacy_document_sentiment,review_text
+REV_00073,72,Beyond Flavours,5.0,High (4.0-5.0),146,26,Short (<150),5/14/2019 21:24,2019,Shopharsh29,1 Review,0,Positive,Had dinner at this place and the attendant was Papiya. The staff is very friendly and the ambiance is awesome. Good variety of food and beverages.
+REV_00129,128,Paradise,5.0,High (4.0-5.0),154,29,Medium (150-350),5/23/2019 13:56,2019,Ksj J,"1 Review , 5 Followers",0,Positive,"Ege biriyani is very good and
+Service is very good and
+Nice place in paradise gachibowli
+So I am happy next time visit again with my friends and family"
+REV_00209,208,Flechazo,5.0,High (4.0-5.0),153,26,Medium (150-350),5/21/2019 2:48,2019,Satyajit Ray,1 Review,0,Positive,This place Is very nice food was awasome guys are very good.we are visiting flehazo restaurant that's lovely place.i think this place is very good place.
+REV_00313,312,Shah Ghouse Hotel & Restaurant,3.0,Mid (3.0-3.5),16,3,Short (<150),5/19/2019 19:20,2019,Priya Dasoju,"1 Review , 1 Follower",0,Neutral,biryani was oily
+REV_00457,456,Over The Moon Brew Company,5.0,High (4.0-5.0),146,24,Short (<150),5/6/2019 23:21,2019,SAI KIRAN,"1 Review , 3 Followers",0,Positive,"Food and ambience is nice..
+Chiken chettinadu and Chicken pulao is toooo good so as beer and vodka....
+And I appreciate Kamal's quick sevice..👍👍"
+REV_00564,563,The Fisherman's Wharf,5.0,High (4.0-5.0),258,47,Medium (150-350),4/4/2019 17:04,2019,Shashidhar Naidu,"8 Reviews , 6 Followers",1,Positive,"I've been there with my girlfriend on a weekend, the ambiance was soulful. A bit expensive but the food was too good. The staff could be more professional and my girl enjoyed a lot i should say. Hitting the Gachibowli road for long ride? Do stop-by there...."
+REV_00641,640,eat.fit,5.0,High (4.0-5.0),201,33,Medium (150-350),4/1/2019 13:34,2019,Sharad,1 Review,0,Positive,"Great, hygienic and health food. Good packing.
+All the ingredients look and taste fresh. More importantly, you get what you see.
+I hope they maintain the veg non veg segregation.
+A little expensive."
+REV_00795,794,Shah Ghouse Spl Shawarma,5.0,High (4.0-5.0),17,2,Short (<150),9/10/2018 23:39,2018,Sunil Gorlakanti,"1 Review , 13 Followers",0,Positive,excellent service
+REV_00822,821,Hyper Local,3.0,Mid (3.0-3.5),507,92,Long (>350),5/4/2019 20:00,2019,Vibhor Dhote,"63 Reviews , 260 Followers",1,Neutral,"I and my friend went here to watch the IPL live screening and have some good time. One good thing was that they have 2+2 on drinks through Zomato gold. The food pretty decent too, but what I didn't like was that it didn't have good options in drinks, especially non-alcoholic. We eventually went for Masala coke as our second drink it turned out pretty bad. We asked them to exchange for another drink but they wouldn't take it back. Wasn't happy with the service.
+
+Also the live music there wasn't great."
+REV_00926,925,Cream Stone,3.0,Mid (3.0-3.5),141,25,Short (<150),3/13/2019 12:35,2019,Aashu,2 Reviews,0,Neutral,"Never disappoints me. Always up to my expectations. Great choices and I love the extra bits like the oreo's, m&m's etc to choose as toppings."
+REV_01074,1073,Sardarji's Chaats & More,4.0,High (4.0-5.0),227,42,Medium (150-350),10/19/2018 22:16,2018,Sidharth Singal,"135 Reviews , 255 Followers",0,Positive,one of the better places to go for north Indian style paranthas. Chat is also good not that great though if you want north Indian style. Have been here quite a number of times and always find it crowded. Has never disappointed.
+REV_01169,1168,Barbeque Nation,5.0,High (4.0-5.0),150,21,Medium (150-350),7/31/2018 23:43,2018,Abhiteja Ch,"87 Reviews , 285 Followers",0,Positive,"Amazing food and ambience.
+Starters were simply delicious.
+Desserts were also really good.
+Would definitely recommend everyone to visit this place."
+REV_01284,1283,Absolute Sizzlers,1.0,Low (1.0-2.5),280,55,Medium (150-350),3/9/2019 11:16,2019,Raj Patel,"24 Reviews , 60 Followers",0,Negative,"Had a lot of expectations when I read the ne for the first time. Was able to visit it after a month.
+What a disappointment it was. It's named sizzler but has nothing close to sizzler. You guys really need to work on the art of making sizzler. It looks like sizzler. It only looks"
+REV_01350,1349,The Lal Street - Bar Exchange,3.0,Mid (3.0-3.5),149,25,Short (<150),4/16/2019 12:32,2019,Sivapriya Sridhar,"63 Reviews , 90 Followers",2,Neutral,"Interesting cocktail menu, which a wide range of starters to try. There is a constant live screen showcasing the trading prices to drinks available ."
+REV_01427,1426,AB's - Absolute Barbecues,5.0,High (4.0-5.0),279,53,Medium (150-350),5/19/2019 15:58,2019,Sreenivasa Reddy,"1 Review , 3 Followers",0,Positive,"Nice food and nice service. Ambiance is also great. We wonder how you people manage all good food with good service. Great job. Keep it up. I liked all kind of non veg and veg crispy corns, that is my favourite.Special thanks to Ali and Mantu thanks for your good service for us."
+REV_01516,1515,KFC,4.0,High (4.0-5.0),166,34,Medium (150-350),3/5/2019 14:00,2019,Gourmetlove,"74 Reviews , 75 Followers",0,Positive,"Just like any other KFC. the place is my backup option plan in case i dont have anywhere to go to or no food at home! Cheap, tasty and especially good for cheat days."
+REV_01651,1650,NorFest - The Dhaba,5.0,High (4.0-5.0),535,100,Long (>350),8/16/2018 21:18,2018,Gaurav,"1 Review , 6 Followers",0,Positive,"Would you like to feast on North Indian food in Hyderabad? Are you a foodie or die hard fan of butter chicken? Go or order from NorFest, I was deffinitely vow after having sambhar or idli for couple of days when I ordered from this place. Big fan of them, tried their all outlet and I must say good pricing with awesome taste (Without curry leaves :)))) in Hyderabad (No Offence to south indian  food).
+Best part is that it will not hurt your wallet badly if you compare with Dhaba etd 1956 or other so called north indian restaurant."
+REV_01744,1743,Hotel Zara Hi-Fi,5.0,High (4.0-5.0),15,4,Short (<150),11/18/2018 16:35,2018,Reet Kaur,7 Reviews,0,Positive,too tasty it is
+REV_01800,1799,10 Downing Street,5.0,High (4.0-5.0),276,53,Medium (150-350),4/29/2019 22:20,2019,Jitu Prakash Rout,"3 Reviews , 2 Followers",1,Positive,i order Mexican veg salad what dressing giving i Don't no but this is not good very bad proper dressing is olive oil & mustard sauce but giving me tomoto sauce dressing services is good bikash shoo you gave good beer was a very good beer thanks for bikash but ambience is good
+REV_01902,1901,Pakwaan Grand,1.0,Low (1.0-2.5),142,31,Short (<150),2/24/2019 22:11,2019,"Moha,ed Jalaludeen",1 Review,1,Negative,"Worst thing I got 4 dinner, I ordered Full grill it was not all grilled unable to eat also Full like a flesh the worst grill in my life I hate"
+REV_02019,2018,13 Dhaba,1.0,Low (1.0-2.5),41,8,Short (<150),1/13/2019 13:17,2019,Himanshu Parekh,"2 Reviews , 1 Follower",0,Negative,did not give paratha as mentioned in menu
+REV_02132,2131,Jonathan's Kitchen - Holiday Inn Express & Suites,2.0,Low (1.0-2.5),1311,227,Long (>350),3/13/2019 21:45,2019,Suraj Soni,"11 Reviews , 3 Followers",0,Negative,"Writing this review for so called much hyped restaurant of Hyderabad- Jonathan's kitchen
+
+Went to celebrate my bday today..It was the worst food buffet I ever had in any above average costly restaurant.They charge so high for this shitty buffet.
+
+1. Ambience- Even a local resaturant also have some areas of decoration in their restaurant but they have it like a messy hall. No theme no decoration
+2. Service- No serving of starters, no serving of even water until u ask,no serving of even sauce at your table and waters think themself like heroes here.
+3. Food- The worst part of it..Some stale starters of chicken and fish. Veg ones you cant even chew corn items as they might be few days old.One chicken starter only had some taste. Main course is also pretty below average.Pasta is good.Pizza(so called best Hyderabadi pizza) was worse than a 50rs local shop pizza.
+Deserts- they put some sweets of local shops as deserts.
+Two juices as welcome drinks were Ok.
+
+I gave two stars rating because manager politely listened to all my complaints on food ambience and all and gave a delicous pudding cake to celebrate my bday.Thanks for that.
+
+They themself agreed that their lunch buffets are generally not that great we should try a la carte..Will do that if I will ever try to take this risk again😜"
+REV_02225,2224,B-Dubs,5.0,High (4.0-5.0),172,32,Medium (150-350),5/1/2019 23:09,2019,Karthik Goud Palnati,"3 Reviews , 11 Followers",1,Positive,It was nice experience here.chicken wings are really too taste and a very respectful service by sunny i like the way he interacted with us and x box gaming is mind blowing.
+REV_02328,2327,Amul,1.0,Low (1.0-2.5),652,117,Long (>350),8/7/2018 1:53,2018,Saketh Ram,"4 Reviews , 1 Follower",0,Negative,"The staff was very ill mannered and have no respect towards customers. 6 of us went there to dine in and ordered plenty. One of our friends brought butter milk from the next store and sat along with us. He could have told politely that outside food was not allowed. But he asked him to get out in a mannerless way. We cancelled the order and walked away.
+
+Management has to take this seriously and take action over such behaviour. Or train their staff properly.
+
+Profits should be inversely proportional to manners and hospitality. Not the other way around.
+
+I wouldn't suggest a visit to this place if you are not ok with this kind of treatment."
+REV_02422,2421,SKYHY,5.0,High (4.0-5.0),144,29,Short (<150),12/19/2018 23:28,2018,Madhup,"16 Reviews , 10 Followers",0,Positive,Went with friends here. The food is really good. Went on to the dance floor and it was a nice experience. The view from the roof is really nice.
+REV_02529,2528,Tiki Shack,1.0,Low (1.0-2.5),176,37,Medium (150-350),3/30/2019 23:30,2019,Madhumita Paul,"1 Review , 1 Follower",0,Negative,"Staff behavior are very bad. Our bill was 636, they took 836. When we reached home, we got to know. No one was picking the call . Dj was veryyyy bad. I wanted to give zero star"
+REV_02612,2611,Mustang Terrace Lounge,4.0,High (4.0-5.0),806,144,Long (>350),4/15/2019 7:47,2019,Surya Cena,"12 Reviews , 55 Followers",1,Positive,"Located in one of the prime locations of hyderabad, Mustang terrace lounge has an American Cowboy theme with some really good ambience providing both indoor and outdoor seating. The outdoor seating has an amazing view of the city especially at night time.
+Food is average to be honest. The french fries and nachos items could have been way better. Chicken tikka pizza was pretty bland. Chilli fish was really good though.
+My friends had sex on the beach cocktail and i had virgin mojito mocktail and i must say, both of them were amazing. I had the mint cooler too and i liked virgin mojito better. Definitely worth a try.
+The place has zomto gold on drinks which is great for people who’d like to drink. Overall it was a pretty good experience at this place with some decent food and the ipl screening."
+REV_02715,2714,"3B's - Buddies, Bar & Barbecue",1.0,Low (1.0-2.5),143,24,Short (<150),5/13/2019 13:17,2019,Akshay Jaladi,"1 Review , 6 Followers",0,Negative,Worst maintenance(PFA) and pathetic service. They literally throw food in your plate. Everyone was so busy. They took 15min to print a bill 😂😂.
+REV_02819,2818,Behrouz Biryani,4.0,High (4.0-5.0),471,93,Long (>350),11/26/2018 17:27,2018,Aditya Kumar,"12 Reviews , 2 Followers",1,Positive,"First impression when i looked at the box i was like Awee! 😯 The food was packed very well and the Gulab jamun in the box has truly surprised me! I had ordered chicken biryani for lunch, this order was a delivery one.
+As I’m a native from Hyd I like the biryani to be having dum and spicy. The biryani was less spicey but was good. If few more pieces of meat were added, it would have been great.
+A bit pricey though. I will definitely try the mutton biryani next time!"
+REV_02912,2911,Hunger Maggi Point,3.0,Mid (3.0-3.5),923,176,Long (>350),12/14/2018 10:33,2018,Ashok Prabhakaran,"119 Reviews , 469 Followers",1,Neutral,"I used to spot this shop opposite to the DLF IT park while coming back from work during my stay in Hyderabad. Always crowded with majority of the IT people nearby and all other food delivery agents waiting to take parcel. Got to know that they are also delivering till the wee hours of the night.
+
+I was wanting to order from here once for that taste of Maggi. Who doesn't like a fancy maggi noodles? So one fine night, ordered for a Corn Masala Cheese Butter Maggi through Zomato.  That was the most fanciest name I could find on their menu. 
+
+The delivery was smooth and the packing was okayish in a plastic box along with a plastic spoon and fork. The maggi was somewhat soggy and some what semi gravyish which I am not that big a fan of. It could have been a bit drier. But the taste was really good and one could feel all the butter & cheese in the maggi.  Good cost effective outlet for the love of Maggi Noodles."
+REV_03067,3066,Pot Pourri,3.0,Mid (3.0-3.5),356,64,Long (>350),1/8/2019 19:16,2019,Sai Chaitanya,"30 Reviews , 91 Followers",2,Neutral,"We were there with so much hunger. At a speed start we have ordered “Miriyala Natukodi vepudu” and “Mamsam Pulav”. Miriyala Natukodi vepudu was ok! But quantity was pretty good. Mamsam pulav was very good to taste and the spiciness was perfect and quantity was very high. I felt oil is high in both orderes.
+
+Ambience was ok! And service was not so fast!"
+REV_03108,3107,Pista House,1.0,Low (1.0-2.5),1691,302,Long (>350),11/16/2018 20:56,2018,Girish Reddy,"6 Reviews , 4 Followers",0,Negative,"Went for a team lunch. The place is opposite Care Hospital.
+
+Ambiance
+
+This place has normal ambiance as all the other Irani hotels. The problem is that there are a lot of Swiggy delivery boys and they waiting outside the door to collect their parcels. We felt bad sitting there while they were peering inside in the hot sun and us eating there.
+
+Food quality
+
+We ordered three items
+
+1. Devils Chicken
+: Chewy chicken coated. This was the best dish of the lot
+
+2. Tandoori Chicken
+: fully burnt, coated with ghee to hide the bad quality
+
+3. Premium Biryani: This was really bad. When people go to a Irani style hotel, there are some expectations. We like Biriyani dum cooked. This particular Biriyani costed 650 and came in a slightly large bowl. Please be careful as this can only serve 3 people. The Rice was passable and the Biriyani was fully mixed..... Not the layering like it is supposed to be. It textured like a pulao with the masala . The chicken manchuri in it was cold and the coating had fallen off... You can tell that is was stale. The Chicken pieces were only bones. the mutton pieces were not existent.
+
+This looks like a outlet which is run by fake people.
+
+Biryani and food items in traditional hotels like Paradise, Shah Ghouse, Mehfil, Shahdab, Bawarchi are really good. The tandoori chicken will normally be crisp on the outside and tender on the inside.
+
+The service took a long time in coming. It looks like they are short of staff. People will go there by the name and feel bad. I feel the Pista house owners should look into quality and quantity issues. This outlet is making a fast buck in the Hitech area where floating population is heavy."
+REV_03218,3217,Marsala Food Company,2.0,Low (1.0-2.5),190,35,Medium (150-350),3/27/2019 1:17,2019,Tummy Monster,"22 Reviews , 89 Followers",0,Negative,They're just degrading the quality of mandi day by day.. really need to take a look into this and improve on both quality and quantity of pieces instead of just increasing prices in the menu
+REV_03272,3271,Club Rogue,3.0,Mid (3.0-3.5),305,57,Medium (150-350),5/18/2019 23:29,2019,Ashok Reddy,"9 Reviews , 9 Followers",0,Neutral,"You like crowd?!
+like really big crowd ?! Then this is the place you should go!! Also drinks are so cheap here!
+
+Service was okay for me, nothing worth mentioning!
+Music wasn’t that good! Just loud!
+Not so great food!
+
+You got the good and bad about this place!!
+you decide whether to go or not :)"
+REV_03420,3419,Mazzo - Marriott Executive Apartments,4.0,High (4.0-5.0),461,78,Long (>350),3/7/2019 10:10,2019,T R L,"48 Reviews , 19 Followers",0,Positive,"Hyderabad's best rooftop as of now. With an unparalleled ambience, Mazzo is hands down the prettiest pool side eatery I have visited in town. Evenings here are absolutely beautiful, sunrises and sunsets are magical. Open 24/7 this rooftop will have you falling in love all around the year.
+
+Ive tried their Sunday brunch. And it's an experience you don't want to miss. I won't exaggerate, the food isn't out of this world. It's decent. A respectable salad bar"
+REV_03504,3503,Green Bawarchi Restaurant,3.0,Mid (3.0-3.5),14,3,Short (<150),9/30/2018 13:20,2018,Ashok Kumar,4 Reviews,0,Neutral,good and tasty
+REV_03627,3626,Banana Leaf Multicuisine Restaurant,1.0,Low (1.0-2.5),39,7,Short (<150),6/15/2018 23:36,2018,Shampa Gorai,2 Reviews,0,Negative,food was bad..and very less in quantity
+REV_03711,3710,Kritunga Restaurant,5.0,High (4.0-5.0),21,3,Short (<150),7/23/2018 14:27,2018,Rameshatmp,"2 Reviews , 1 Follower",0,Positive,very quick delivery..
+REV_03745,3744,The Glass Onion,2.0,Low (1.0-2.5),715,125,Long (>350),4/29/2019 18:31,2019,Gautam,"4 Reviews , 3 Followers",0,Negative,"We visited the restaurant yesterday. We got outside table as all insides were reserved. Being 42 degrees outside, they only had fans running in such upscale restaurant and mist fans. They are charging 1400 RS for buffet and is considered upscale restaurant. Quite amazed on how upscale restaurants cannot afford coolers. Felt bad for waiters also as they were fully sweating and running around..I had same experience few months back. We went in th evening and it rained. We took the outside seating due to nice weather plus all the water was gushing inside and they had nothing to prevent that. I liked the food here but if management can't simply think abt service, I am sure we can figure out other places to eat."
+REV_03913,3912,Deli 9 Bistro,4.0,High (4.0-5.0),231,45,Medium (150-350),10/11/2018 0:54,2018,Ahmedconstruction2017,"46 Reviews , 720 Followers",3,Positive,"The best part about this place was the ambiance, music was cool with very friendly staff. Was there with a friend and ordered a lamb burger which was small in size, and not worth the amount but at the same time it was really tasty!"
+REV_03965,3964,Frio Bistro,5.0,High (4.0-5.0),1061,206,Long (>350),1/7/2019 20:07,2019,Tejaswini Sharma,"43 Reviews , 42 Followers",2,Positive,"Well if atall I am in Gachibowli area in lunch times or dinner times...my mind like a magnet asks me to get into this cozy bistro. Each thin slices of pizza wid toppings of olive oil and chilli flakes is all you need for your mid day motivation.
+Have been to this place couple of times and Everytime tried something new in veg. But pizza has been a constant one. The Spanish rice too has a very authentic taste and was in competition to the pizza to give ultimate pleasure to tell taste buds. These two dishes have been my favorite and most recommend tough have tried other dishes as well.
+A friendly staff and zomato gold is a value addition to this place.
+Review#2 my regular visits to this place made me increase the rating from 4 to 5.
+I have been to pizza events where the restaurants where claiming that it's the best pizza in town or money back .
+Tough I did claim the money back as I feel the best pizza in town is what you get here.
+Zomato gold is always an add on benifit .
+Every time I go to this place...I come out happy tummy n happy soul .."
+REV_04097,4096,Karachi Bakery,1.0,Low (1.0-2.5),11,2,Short (<150),7/15/2018 19:45,2018,Shiva Rolla,"1 Review , 7 Followers",0,Negative,Worst taste
+REV_04152,4151,Karachi Cafe,3.0,Mid (3.0-3.5),201,35,Medium (150-350),9/16/2018 17:10,2018,Purnima Khanna,"29 Reviews , 79 Followers",1,Neutral,"Ordered red sacuce pasta and got white sauce pasta by mistake .
+
+Rate
+Pasta 5/2.5
+
+However delivery was quite quick ordered from swiggy and also got a refund same time for delivering wrong order ."
+REV_04235,4234,The Foodie Monster Kitchen,4.0,High (4.0-5.0),217,36,Medium (150-350),10/15/2018 0:21,2018,Rahul Gupta,"145 Reviews , 674 Followers",0,Positive,"Loved it.
+
+The shwarmas, the fries, the garlic bread and all the amazing dips that they serve are lip-smacking!! 
+
+After eating his full course, one still craves to eat more... That's how tasty it is. 
+
+Cheers!!"
+REV_04327,4326,La La Land - Bar & Kitchen,1.0,Low (1.0-2.5),299,56,Medium (150-350),2/6/2019 14:55,2019,Anudeep Adiraju,"2 Reviews , 26 Followers",0,Negative,"The food's really below average. Although they've put a lot of items on their menu, all of them lack quality and flavour. The service is not at all good. Nobody's even around you to take your orders or your feedbacks. If you are planning to go to this place for food, it's really a horrible idea.👎👎👎"
+REV_04412,4411,Owm Nom Nom,1.0,Low (1.0-2.5),421,79,Long (>350),2/16/2019 10:10,2019,Sushma Thodety,"2 Reviews , 1 Follower",0,Negative,"Ordered chicken lollipop as a starter..but received them as burnt,salty and wet instead of dry snack. Egg fried rice was ok. Chicken kadai curry was not tasty at all .Chicken seems to be old stock. Veg rolls looked like Dosa roll instead. Rolls should be crispy with stuff not coming out. Didn't like the food at all . I'm not gonna order it from here again. Price also on the higher side but food is not worth the price."
+REV_04504,4503,Ulavacharu,5.0,High (4.0-5.0),768,140,Long (>350),3/6/2019 3:18,2019,Darshana Krishnadas,"21 Reviews , 17 Followers",0,Positive,"A lot of people suggested this place for some real spicy food. Had been there twice and in fact the first time I went there I knew that whenever I have guests at home I need to bring them here. Nicely done interiors - the antique door and the idol at the entrance, very beautiful and welcoming.
+Coming the food this tile we we're welcomed with some ghee Mysore pak (yummy). The staff is really helpful in giving suggestions so we ordered a chicken, fish and mutton biryani /pulao. Delicious , full of masalas and tasty. Nothing to complain about the food. Bamboo chicken was the star dish , it just melts in your mouth.
+So it's a place for some really fine dining. On Fridays and weekends do make a reservation, the have some crazy waiting .
+Definitely recommended."
+REV_04677,4676,Shanghai Chef 2,5.0,High (4.0-5.0),204,33,Medium (150-350),6/16/2018 21:52,2018,Aparna Saha,"3 Reviews , 4 Followers",3,Positive,First of all just love the ambience and food was absolutely good...specially the crab meat soup...just wow...only the thing is thai raosted chiken is filled with a heavy coconut cream ..otherwise its good
+REV_04726,4725,Udipi's Upahar,5.0,High (4.0-5.0),34,6,Short (<150),7/24/2018 13:55,2018,S M,"1 Review , 1 Follower",0,Positive,thank thank you for your services.
+REV_04777,4776,Mathura Vilas,1.0,Low (1.0-2.5),828,151,Long (>350),4/17/2019 17:53,2019,Pankaj Mittal,"4 Reviews , 4 Followers",0,Negative,"I found this place pathetic. Went yesterday, most of the dishes we ordered were not available. The excuse waiter gave was that one of the chefs is on leave. I wonder if business stops for them if one the chef is not available.
+I read on zomato reviews that their thali is good. And restaurant's menu on zomato mentioned that thali is available in dinner as well, but on reaching restaurant I found out they are not serving thali in dinner now. I travelled 9km to visit this restaurant.
+
+Food was pathetic as well. Tanduri roti that we ordered was made of maida. And the dishes were either too oily or just bad.
+
+Overall this place is very bad and doesn't deserve a visit at all. There are plenty of restaurants all around Hyderabad which are much better than this for half the rate.
+
+Avoid this restaurant at all cost !!!"
+REV_04901,4900,Gal Punjab Di,3.0,Mid (3.0-3.5),185,27,Medium (150-350),2/2/2019 19:49,2019,Ankit Singla,"24 Reviews , 17 Followers",0,Neutral,"not too good.. but OkOk. have better option nearby. need better option for punjabi food...
+world seems really small everywhere you get punjabi food
+#punjabi #stereotypicalfood #boring"
+REV_04979,4978,Hitech Bawarchi Food Zone,4.0,High (4.0-5.0),20,3,Short (<150),1/12/2019 20:32,2019,Ayesha,"2 Reviews , 1 Follower",0,Positive,Little less quantity
+REV_05070,5069,Biryanis And More,4.0,High (4.0-5.0),2629,422,Long (>350),3/4/2019 20:03,2019,Vamshi Puli,"59 Reviews , 611 Followers",22,Positive,"Do follow us on Instagram: forkandspoonstoryhyd
+
+
+Biryani and more, a new outlet in Gachibowli is fine-dine restaurant.
+It has recently opened and serves varieties of biryani and other food dishes.
+This restaurant is on the ground floor and can be easily spotted by the crowd passing by the road.
+I’ve been here for a dinner session.
+The ambience of this place is quite good with bright lights all over the place.
+It was a weekend and there was a pretty good amount of crowd at that time.
+We started with mocktails.
+They had many varieties of mocktails,out which we ordered the sparkling blue,ginger cola,mango lassi,ginger lemon and ginger mojito.
+All the mocktails were of different colours making them very appealing for us to drink.
+Almost all the mocktails had mint,lemon and ice which was refreshing!
+The mango lassi was too sweet.
+Then we were served with soups,
+Veg lemon coriander soup
+Chicken manchow soup
+The veg lemon coriander soup was served hot with parboiled broccoli.
+The chicken manchow soup was full of flavour and was served with crispy fried noodles,it tasted delicious.
+We were then served with starters,
+Apollo fish:
+The fish was well cooked and soft but had so much of salt in it.
+Tender chicken:
+This was something very tasty,the chicken was soft,tender and with good amount of spice.
+Bangla kodi:
+It is one of the most popular dishes,it was crispy,light and was well presented with coriander garnish.
+The chilli prawns:
+The prawns were juicy,spicy and had great flavour.
+Crispy veg and corn 65 were other vegetarian starters which we had.
+They also were good but not that great.
+Next we were served with main course:
+They served us different types of curry’s with Indian breads.
+The chicken chetinadu,its a spicy chicken curry which was too good.
+The other curry’s were chicken tikka masala,tomato cashew nut and ulvacharu chicken.
+The ulvacharu chicken,a chicken curry with horse gram soup was outstanding and finger licking good.
+
+Biryanis:
+We were then served biryani.
+avakai chicken biryani
+Afghani chicken biryani
+
+Avakai chicken biryani is a authentic Andhra dish,it had a wonderful taste still haunting.
+Afghani chicken biryani is very different from other biryani,it had unique flavour.
+It was served with egg omelet above the biryani .
+We ended up our meal with deserts,
+Qubani ka meetha,gulab jamun and junnu.
+The deserts were not that great and had disappointed me.
+Overall the restaurant has good biryani’s and I would suggest everyone to visit this place especially for avakai chicken biryani.
+
+Do follow us on Instagram:forkandspoonstoryhyd"
+REV_05236,5235,Diners Pavilion,4.0,High (4.0-5.0),226,38,Medium (150-350),6/17/2018 11:43,2018,Md Pervez Nawaz,"6 Reviews , 81 Followers",2,Positive,"I ordered Chilly Oyster Wings- Chicken, Grilled Chicken Teriyaki & Fusilli, Rosemary Chicken n Parmesan Cream Pasta. Food was quite good. Service was also nice. Ambience is good. Fifa was played on the screen when I was there."
+REV_05340,5339,Asian Meal Box,3.0,Mid (3.0-3.5),13,2,Short (<150),9/15/2018 21:11,2018,B.malla Reddy,4 Reviews,0,Neutral,avarage taste
+REV_05384,5383,Cafe Eclat,5.0,High (4.0-5.0),154,25,Medium (150-350),12/2/2018 5:52,2018,Sandeep Srivastava,"20 Reviews , 123 Followers",0,Positive,"Superb quality, service and ambience.. can customise their dishes, fresh bakery and healthy salad items just makes the best place for any kind of outing.."
+REV_05475,5474,Feast - Sheraton Hyderabad Hotel,1.0,Low (1.0-2.5),801,148,Long (>350),2/25/2019 0:45,2019,Manju Verma,"2 Reviews , 18 Followers",0,Negative,"I dont even want to beg 1 star , today for dinner we visited this place And the food sounds pretty old which they were just keep on reheating. Inspite of many varities hardly it was worth. My family got Diarrhea I had to wake up till this late night to take care of kids who are suffered with Diarrhea and all thanks to This disgusting restaurant.
+
+Updating after 12 hours - Now we all four members are down with Diarrhea including me and keep vomiting. FEAST tats really disgusting you guys are serving stale and contaminated food on this high cost. Hate to visit ur restaurant. That was our last visit to this stale food restaurant. LOOKS ALL OF YOUR GOOD REVIEWS ARE PAID REVIEWS. MY BAD I VISITED YOU ON BASED OF ZOOMATO REVIEWS. if anyone think its a fake comment confirm with me on 9704669785."
+REV_05566,5565,Being Hungry,5.0,High (4.0-5.0),186,34,Medium (150-350),9/25/2018 21:47,2018,Akarsh Arya,"2 Reviews , 1 Follower",0,Positive,"This place serves delicious food with proper blend of spices . I prefer non veg food and the taste is truly amazing . Pocket friendly , good food quantity and appreciable staff service ."
+REV_05639,5638,Tempteys,5.0,High (4.0-5.0),58,10,Short (<150),10/14/2018 18:05,2018,Rinkal Mistry,1 Review,0,Positive,Very smooth delivery and timing. Happy with the service :)
+REV_05785,5784,KS Bakers,3.5,Mid (3.0-3.5),168,22,Medium (150-350),12/10/2017 22:48,2017,Jameel Ali,"21 Reviews , 13 Followers",0,Neutral,"chocolate truffle is great here!
+Ferrerro rocher pastry melts in your mouth like lava...
+Pleasant place....sets the mood for a cake
+
+
+yummmmmyyyyyyyyyyyyyyyyyyyyyy"
+REV_05863,5862,PourHouse7,1.0,Low (1.0-2.5),285,55,Medium (150-350),3/31/2019 2:00,2019,Food Lover,"1 Review , 1 Follower",0,Negative,"Don't have zero rate here, one I m giving bcoz they welcomed me nice way, but food was sucks here, we had three starters which were not good at all, chicken starter was smelling may be they use stock or stale chic. Not come again here, very bad experience. Total wasting of money .
+😡😡"
+REV_05948,5947,Prism Club & Kitchen,3.0,Mid (3.0-3.5),2845,522,Long (>350),3/31/2019 14:36,2019,Sugandha Saxena,"150 Reviews , 2135 Followers",17,Neutral,"Prism is touted to be the owner of a huge club space, and rightly so.
+
+The place is located somewhere in Financial District, after you take a turn from the Lemon Tree hotel. I pretty much had no clue about where I was exactly, and the almost stranded road is of not much help. Until you suddenly see the big lit up sign with the word Prism inscribed on it, though conveniently covered by the bushes around it. Another 100m or so, you reach their parking yard, and finally the enter the premises after it.
+
+A huge velvety door opens into this big sized covered arena (for a lack of better word), that tell you that it can never get overcrowded on the dance floor. The place has high tables next to the dance area, and then some couches on the far side. There is a beautifully lit up staircase, that leads to a more relaxed lounge kind of seating.
+
+And that is just one part of it. They have an outdoor seating, where the projector is put up for the match screening, and doubles up as the smoking zone. Apart from this, they have a pool, which would be apt for a private gathering.
+
+I am no club expert, but their light system is sure one of their USP. The DJ played majorly Bollywood that evening (it was a Wednesday), and did a decent enough job.
+
+While the place is all decked up pretty well, the food on offer didn't impress me much.
+
+🔸STARTERS
+
+🔹Burmese Roll with sweet chilli dip: A bit too oily, they were okay to munch on. They could have done with a bit more filling, though.
+
+🔹Punjabi Paneer Tikka with mint dip: Failed to impress. The paneer was too rubbery in some places, and in others, too charred. The lingering taste was merely of chilli, and nothing else.
+
+🔸MAINS
+
+🔹Prism Special Veggie Lover Pizza🌟: The dish that fared best with me. It was thin crust and had a good amount of cheese. For the price, it may seem a bit costly, but quite worth it, as compared to other dishes.
+
+🔹Spaghetti: Their take of spaghetti aglio olio, with mushrooms and black olive toppings. This was also decent.
+
+🔹Penne Alfredo: This was just regular, nothing good or bad. And this also goes for the accompanying garlic bread.
+
+I didn't find the Indian mains anything great, and needs to be improved a lot.
+
+The dessert was another downer. Chocolate Truffle was all goey and just cream.
+
+From the mocktails section, I chose the safest bet Go Crazy. It was a twist on the oreo shake, with the inclusion of KitKat, but it wasn't great either. Lacked the comfort of a regular oreo shake.
+
+If you are looking for a party place, that has a happening setup, good crowd and amazing ambience, this is your best bet. But for the food, it is better you stick with safe bets such as pizzas and pastas. They would give you the best value for money. The alcohol is also a little pricey, but you wouldn't mind that in a place like this."
+REV_06090,6089,Shree Santosh Dhaba Family Restaurant,4.0,High (4.0-5.0),146,27,Short (<150),7/10/2018 14:14,2018,Abhishekdesai.166,"9 Reviews , 3 Followers",0,Positive,The Santosh Dhaba is one of the reliable place for north Indian food. The food here is somewhat oily but it tastes delicious. Should visit it once
+REV_06123,6122,Dine O China,5.0,High (4.0-5.0),221,32,Medium (150-350),1/15/2019 13:00,2019,Mahee.rhce,1 Review,0,Positive,"We tried chicken hot n sour soup, chilli garlic chicken,singapore fish as starters and chicken fried rice with Schezwan chicken..Food was very delicious.. Good Ambience.. Nice staff..
+I highly recommend this Restaurant.."
+REV_06254,6253,Hyderabad Chefs,1.0,Low (1.0-2.5),140,24,Short (<150),7/18/2018 21:17,2018,Deepika Deepu,"6 Reviews , 5 Followers",0,Negative,Ordered food was not delivered. we ordered fried piece biryani though bill States the same but it was normal dum biryani that was delivered.
+REV_06351,6350,Komatose - Holiday Inn Express & Suites,5.0,High (4.0-5.0),146,22,Short (<150),6/19/2018 19:34,2018,Sriker Kammisetty,"2 Reviews , 4 Followers",0,Positive,Great place with nice ambience...Cocktail's was amazing!!! Mouth watering food with neat service. Nice place to hangout with friends & family too.
+REV_06442,6441,Aromas@11SIX,3.0,Mid (3.0-3.5),485,87,Long (>350),8/8/2018 8:36,2018,Sandeep Sanu,"3 Reviews , 2 Followers",0,Neutral,"If you have no value for money then this restaurant is good to waste your money. Reason for giving 3* is due to veg curries which were told be good by my vegan friends. But, we, non-veg guys were totally disappointed for non-veg curries. It's got no taste at all. Chilli chicken gravy was like saucy-saucy. No spicy at all. Butter rotis were thicker than it usually has to be. It tasted like wheat flour and not maida.
+
+Service- Good
+Taste- Below average
+Ambiance- Good
+Cost- High"
+REV_06534,6533,Yum Yum Tree - The Arabian Food Court,3.0,Mid (3.0-3.5),593,96,Long (>350),8/16/2018 18:33,2018,Mixxtures_TastyTwist,"27 Reviews , 194 Followers",4,Neutral,"This is an Arabian themed Restaurant and is located near QCity, Gachibowli and is exclusively known for its MANDI. 🍛🍚
+
+They have different varieties of Mandi and the restro is designed very well with eye catching Ambience.🐪🐫🐪🐫
+
+Taste is quite different from other places of Hyderabad where we enjoy Biryani. But yes, The Biryani tasted equally good.😊😊😊
+
+For my surprise Veg Biryani is served with French Fries and some patties which tasted good as well.
+
+Food -4/5
+Ambience - 5/5
+Value for money - 3.5/5
+Service -4/5
+
+Thank you for a different experience..!!
+
+MUST TRY PLACE..!!"
+REV_06572,6571,The Tilt Bar Republic,5.0,High (4.0-5.0),152,25,Medium (150-350),5/20/2019 13:00,2019,Mazhar Ahmed,"2 Reviews , 1 Follower",0,Positive,"Wanted to listen her again n again .. Sonalin Priyadarshini has very good voice.. such a talented girl,.. really appreciate .. nice place nice lightning"
+REV_06755,6754,The Indi Grill,5.0,High (4.0-5.0),143,27,Short (<150),4/24/2019 14:04,2019,Anupam Ajmani,"5 Reviews , 66 Followers",0,Positive,"Great place and great food. Came for lunch with my team, enjoyed every bit. Staff is very nice and polite. We’ll come again for sure. Thank you"
+REV_06813,6812,Urban Asia - Kitchen & Bar,3.0,Mid (3.0-3.5),536,99,Long (>350),1/2/2019 11:45,2019,Nikhil Chauhan,"2 Reviews , 2 Followers",0,Neutral,"Great food. Esp the Know Suey. Starters were good as well. Service by the attendants was poor. Delayed orders after multiple follow ups. Great ambience. Mild music. Mild air conditioning. Very clean. Definitely try the fried prawns as part of the starters. Wasabi needs to be more like the real wasabi. They need to serve the sushi along with the wasabi and soy sauce provided in small bowls - the bowls we're missing. And you had to ask for the wasabi as well. Should be part of the table sauces, etc. Good to go there once in a while."
+REV_06898,6897,Eat India Company,4.0,High (4.0-5.0),964,183,Long (>350),2/1/2019 5:58,2019,Rohit Rao,"54 Reviews , 71 Followers",7,Positive,"Eat India Company (EIC). So this is a very interesting place. You go there, and first impressions very good. When you are seated, you get 3 menu cards, 4 actually. Besides EIC, you are also given the menu of Urban Asia and Tiki Shack. It's all in one place. Now dont be surprised if you go there to have in Urban Asia and are given all three menu cards. HAHA!
+
+Ok. So there was buffet at the EIC. I scanned thru it and they had very good options. There were number of options. Very intriguing. Though i had À la cart. 
+
+Ambience is very good. You want to go and see whats on every wall, it's interesting. Lighting is good, you get to see what you are eating (i've seen some dont have enough lighting. Not talking about Dialogue in the dark here, hehe). 
+
+Taste was good, as in ok. I've tasted better biryanis at other places. All and all it was a good experience. Nothing like WOW or Very different. It's a good place, your regular go out and have good food."
+REV_07067,7066,Labonel,4.5,High (4.0-5.0),325,63,Medium (150-350),10/27/2016 21:38,2016,Subhash Chandra,"130 Reviews , 530 Followers",0,Positive,Hands down the best cup cakes and brownies in Hyderabad. They don't compromise on quality and you can feel that in the rich flavors and amazing taste. We had even ordered a cake from their for one of our directors birthday and good did that cake fly after it was cut. Pricing is a bit on the higher side but totally worth it.
+REV_07086,7085,Driven Cafe,3.0,Mid (3.0-3.5),313,51,Medium (150-350),1/26/2019 12:34,2019,Subhendu Khan,"12 Reviews , 27 Followers",0,Neutral,"The interior arrangement and design suits the name 'driven', many bike models along with bike related stuffs. Location wise it's placed at good and well communicated area. Coffee collections are remarkable. I have a good experience ans would suggest if you are around the place then visit once along with friends."
+REV_07231,7230,Faasos,3.0,Mid (3.0-3.5),202,37,Medium (150-350),8/19/2018 22:01,2018,Soumi Mukherjee,"55 Reviews , 123 Followers",0,Neutral,I hace tried faasos a multiple times. I got two wraps through a food review programme. The cheesy melt paneer wrap wasn't cheesy at all. The jumbo chicken wrap was good quantity wise but was very spicy.
+REV_07310,7309,Royal Spicy Restaurant,3.0,Mid (3.0-3.5),7,1,Short (<150),8/10/2018 2:39,2018,Gopalreddymudem,"1 Review , 1 Follower",0,Neutral,average
+REV_07435,7434,The Old Madras Baking Company,4.0,High (4.0-5.0),204,38,Medium (150-350),6/23/2018 15:40,2018,Pallavi K,"44 Reviews , 25 Followers",0,Positive,I have been here twice and both the times for breakfast.... and I must say I love what they cook. Their bakery is fresh and a pure delight. Size of sandwiches is huge. omelettes are interesting and tasty.
+REV_07478,7477,Squeeze @ The Lime,5.0,High (4.0-5.0),159,25,Medium (150-350),10/15/2018 21:29,2018,Rajubabu Kankipati,"3 Reviews , 1 Follower",0,Positive,"It's very nice experiance. Very good environment
+Food is good. Simply supebb, arrangement is very nice. Very friendly environment. Whole our had enjoyed a lot"
+REV_07583,7582,Khaan Saab,2.0,Low (1.0-2.5),493,91,Long (>350),3/26/2019 15:53,2019,Kalyan Moturi,"58 Reviews , 58 Followers",2,Negative,"It was a bad experience on a saturday night after the DJ snake event we were all starving, we ended up this place. We ordered mutton kheema, Mutton biryani and subz veg biryani which was in lucknowi style and not at all good. Those who prefer hydrabadi style biryani please stay out of this place. Ambience is also not at all good when compared to Bankara Hills Khaan Saab. Not a place to visit again, so guys think more than twice before visiting this place. 
+Service 3
+Food 2
+Ambience 2.5"
+REV_07733,7732,Olive Garden,3.0,Mid (3.0-3.5),19,4,Short (<150),7/4/2018 19:48,2018,Abhishek Kumar,"19 Reviews , 1 Follower",0,Neutral,gajar halwa was bad
+REV_07796,7795,Tandoori Food Works,4.0,High (4.0-5.0),364,60,Long (>350),9/10/2018 15:03,2018,Vaibhav Mehta,"36 Reviews , 76 Followers",0,Positive,"Some great Indian food delivered at my doorstep.
+
+The Paneer Jahangiri is an absolute favourite with me & my dad being Paneer enthusiasts. Soft and tenddr Paneer and the gravy tasted more of Spinach than colored cream.
+
+Kulchas surprisingly were hot, with a good layering of Masala and were extremely filling. All in all a good little home delivery experience!"
+REV_07870,7869,Delhi-39,3.0,Mid (3.0-3.5),37,8,Short (<150),6/9/2018 18:01,2018,Pragya Gupta,"1 Review , 8 Followers",0,Neutral,food was very oily and not much tasty
+REV_08010,8009,Al Saba Restaurant,3.0,Mid (3.0-3.5),376,66,Long (>350),11/24/2017 12:01,2017,Nadeem Shaikh,"22 Reviews , 10 Followers",0,Neutral,"Usually visit this restaurant on Fridays for lunch with office buddies. The place is packed almost always at lunch time. The food is mostly try your luck kind of a thing can be extremely tasty one day or totally bland at times specially their mutton biryani and tandoori items .
+Good value for money but surely needs to improve on customer service and consistency on quality."
+REV_08066,8065,GD's,5.0,High (4.0-5.0),590,111,Long (>350),9/29/2018 23:13,2018,Sthiti Chakraborty,"118 Reviews , 771 Followers",0,Positive,"Ordered cosmic and galaxy burgers from this place, the taste was distinctly different and delicious is an understatement. The chicken was tandoori style and not a patty so that was one new thing. It was juicy, cheesy and the bread was also fresh. This is the first Indianised burger I had and I am in love with it. The galaxy one of too much for one, it is that filling. The cosmic is also same to taste but can be finished by one. The packaging was good and simple, and the burgers were moderately warm when they were delivered. It was a very good experience😋 please give this place a try."
+REV_08213,8212,T Grill,4.0,High (4.0-5.0),163,28,Medium (150-350),10/1/2017 0:06,2017,Ajay,"84 Reviews , 131 Followers",0,Positive,"Great value for money spent. Natural ambience, felt happy spending the time.
+
+Ambience - 5
+Food - 4
+Photographic location - 4
+
+Loved it👌
+
+#Eat what you can"
+REV_08253,8252,Momos Delight,1.0,Low (1.0-2.5),69,13,Short (<150),10/8/2018 1:34,2018,Abhishek Kumar,"11 Reviews , 6 Followers",0,Negative,"if there was minus rating, I would have given that.
+Momos were cold."
+REV_08313,8312,The Chocolate Room,2.0,Low (1.0-2.5),254,48,Medium (150-350),5/21/2019 14:47,2019,Foodoholic,"7 Reviews , 6 Followers",0,Negative,"In general my experience with the chocolate room was not up to the mark.
+I had oreo cookie shake and KitKat shake at two separate visits. Both tasted bland and I couldnt quite get the crispyness of oreo and flavour of the KitKat.
+I hope they improve .."
+REV_08407,8406,American Wild Wings,5.0,High (4.0-5.0),800,144,Long (>350),5/25/2019 16:02,2019,Karthik Sreeram,1 Review,0,Positive,"found them on Zomato website, a very interesting to say that this restaurant carved a niche in serving juicy  chicken wings with wide spread of 10 to 12 sauces especially Texas BBQ, Spicy garlic too yummy and spicy like Original hot and Amazon wild comes in to top of mind. Did ordered their bulk wings of 20 pieces and chicken drum sticks tossed with theses sauces were amazing. Dyna pasta served here  with white sauce is a perfect balance with a little spicy. Over all they have apt combination of mojitos like lemonade and strawberry one can have a very good combo. Biryanis served here us very special like Wings Biryani and drum sticks have a large quantity matched quality as well. over all its a best and only to discover a new taste of their popular chicken wings at a very reasonable place."
+REV_08507,8506,Domino's Pizza,5.0,High (4.0-5.0),52,9,Short (<150),9/30/2018 22:40,2018,Sai Teja,"2 Reviews , 8 Followers",0,Positive,on time delivery.! and great pizzas. thanks Zomato 🤗
+REV_08619,8618,Mohammedia Shawarma,2.0,Low (1.0-2.5),20,3,Short (<150),8/14/2018 1:52,2018,Johnson Bunny,"2 Reviews , 2 Followers",0,Negative,below average taste.
+REV_08694,8693,Arena Eleven,4.0,High (4.0-5.0),689,124,Long (>350),5/1/2019 9:29,2019,Akshay,"64 Reviews , 104 Followers",5,Positive,"Was here few days back. The place was so busy and full. Had to wait a few minutes to get a table.
+
+Staff were friendly and patient, got a table we requested.
+
+Coming to the food ordered Chicken Nasheman Tikka, Stuffed Tangdi Kebab and Fish Tikka for starters. All tasted good. Tried Pina Colada Mocktail which was fine but don't go with spicy food.For Maindish we were suggested to take Sizzling Chicken Tikka Biryani and was tatsy as suggested.
+Ambaince was good with outdoor and indoor seating.
+
+P.S. They may take quite a time for the dishes but don't get frustrated just sit back and enjoy the IPL screening on all the walls. Good thing is that you don't have to turn your head."
+REV_08836,8835,Cascade - Radisson Hyderabad Hitec City,3.5,Mid (3.0-3.5),211,38,Medium (150-350),8/27/2017 23:25,2017,Preethi P,"32 Reviews , 20 Followers",0,Neutral,The place is amazing. The food is of huge variety. The view and cleanliness are appreciated. The live music is very entertaining. Food of all sorts are available. Best place for foodies. A must try in that area.
+REV_08937,8936,Collage - Hyatt Hyderabad Gachibowli,5.0,High (4.0-5.0),168,30,Medium (150-350),7/19/2017 14:59,2017,Abdull Ghan,"1 Review , 2 Followers",0,Positive,Awesome hotel.. service is state of the art.. really enjoyed my stay here.. I was personally received by Chef Amit patra a wound full chef who made our stay worthwhile.
+REV_08985,8984,Zing's Northeast Kitchen,3.0,Mid (3.0-3.5),354,64,Long (>350),2/2/2019 13:11,2019,Narresh Tellakulla,"12 Reviews , 5 Followers",3,Neutral,"Been here with friends for lunch, the moment we entered in to the restaurant you will feel as if your in some eastern states. we ordered drumsticks, chicken teriyaki and OM chicken rice. The drumsticks were good with sauce and best part was chicken teriyaki it was delicious and tasty and the OM rice was okay. Overall food was good and service was okay."
+REV_09142,9141,Dunkin' Donuts,4.0,High (4.0-5.0),171,30,Medium (150-350),8/1/2017 3:33,2017,Simran Tantia,"97 Reviews , 271 Followers",0,Positive,I really liked the donuts. Specially all the chocolate ones. Its in spar market in kondapur. I really nice place to have donuts. Apart from donuts they also serve burgers.
+REV_09188,9187,Desi Bytes,1.0,Low (1.0-2.5),223,40,Medium (150-350),7/7/2018 22:39,2018,Aditya Jain,"3 Reviews , 198 Followers",0,Negative,"Worst ever litti choka i had. It was literally stinking. Will never recommend anyone in future. Dont even deserve 1 star.
+Food was not properly cooked and oil used was of very poor quality. Will prefer mess food over this."
+REV_09237,9236,Hyderabadi Daawat,1.0,Low (1.0-2.5),224,45,Medium (150-350),5/13/2019 20:13,2019,Lekkala Konda Reddy,"1 Review , 37 Followers",0,Negative,I have ordered Paya shobha soup the worst ever that i have ever eaten they have added some veg soup and added some pieces of mutton do you ever think this is paya soup anfI doubt they have got the order from some other place
+REV_09396,9395,Zega - Sheraton Hyderabad Hotel,5.0,High (4.0-5.0),256,47,Medium (150-350),7/28/2018 22:05,2018,Naga Shankar,"1 Review , 18 Followers",0,Positive,"We come here at least twice a week. The staff are super friendly. Thanks to Sai . Sai your awesome man thanks for your superb service. The ambience is really amazing. Mohit is amazing chef, we are fan of English sorted vegetables dish. Nice place to relax."
+REV_09439,9438,Triptify,1.0,Low (1.0-2.5),41,7,Short (<150),4/7/2019 15:35,2019,Ashish Jain,3 Reviews,0,Negative,"not cooked properly, no paneer in paratha"
+REV_09629,9628,Chinese Pavilion,3.0,Mid (3.0-3.5),1030,192,Long (>350),6/5/2016 0:08,2016,Abhishek Mahajan,"53 Reviews , 54 Followers",0,Neutral,"Madhumathi Mahajan Well to start with nice courteous servers and staff. Excellent serving time, all items arrived on time infact for a change had folks asking if we want to hold a little while before getting next dish out? These things matter a lot when u r paying to eat out.
+
+Now food - Jade chicken soup, nice spinach based creamy stuff, gud way to start the meal. Accompanied by house salad of cabbage and cucumber kimchi, nice dressing but cabbage cut could have been good. Fish cakes were good, loved it and accompanying sauces were awesome. Main course was Mix XO rice of chicken and prawn, well that was the downer. Nothing exciting abt it, maybe shld have coupled with a curry but then Nash, fried rice u shld be able to enjoy dry. Desert - blue berry cheesecake, so here is where me and wifey differ, I thght it was worth it, she says the base wasn't crunchy engh. So try and rate yourself.
+
+Last ambience - was warm n eye soothing.
+
+Oh and I forgot, the orange pekoe tea, the best I had in lat few months. Have it"

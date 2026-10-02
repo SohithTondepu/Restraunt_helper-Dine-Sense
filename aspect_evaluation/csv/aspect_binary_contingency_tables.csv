@@ -1,0 +1,6 @@
+Aspect,TP (Present in Ref & Pred),"FN (Present in Ref, Absent in Pred)","FP (Absent in Ref, Present in Pred)",TN (Absent in Ref & Pred),Support (TP + FN),Negative_Support (FP + TN),Total_Clauses (N),Precision,Recall,F1-Score,Specificity
+Food,1825,276,2996,6534,2101,9530,11631,0.3786,0.8686,0.5273,0.6856
+Service,648,35,1290,9658,683,10948,11631,0.3344,0.9488,0.4945,0.8822
+Price / Value,281,2,372,10976,283,11348,11631,0.4303,0.9929,0.6004,0.9672
+Ambience,494,39,809,10289,533,11098,11631,0.3791,0.9268,0.5381,0.9271
+General Experience,609,749,741,9532,1358,10273,11631,0.4511,0.4485,0.4498,0.9279

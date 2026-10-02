@@ -1,0 +1,38 @@
+[
+  {
+    "Model": "Logistic Regression",
+    "Accuracy (%)": 94.16,
+    "Macro-F1 (%)": 83.63,
+    "Weighted-F1 (%)": 94.48,
+    "Negative F1 (%)": 89.24,
+    "Neutral F1 (%)": 64.86,
+    "Positive F1 (%)": 96.77
+  },
+  {
+    "Model": "Linear SVM",
+    "Accuracy (%)": 93.27,
+    "Macro-F1 (%)": 81.09,
+    "Weighted-F1 (%)": 93.4,
+    "Negative F1 (%)": 86.47,
+    "Neutral F1 (%)": 60.61,
+    "Positive F1 (%)": 96.19
+  },
+  {
+    "Model": "Random Forest",
+    "Accuracy (%)": 89.64,
+    "Macro-F1 (%)": 74.03,
+    "Weighted-F1 (%)": 89.58,
+    "Negative F1 (%)": 76.38,
+    "Neutral F1 (%)": 51.72,
+    "Positive F1 (%)": 93.99
+  },
+  {
+    "Model": "XGBoost",
+    "Accuracy (%)": 92.94,
+    "Macro-F1 (%)": 82.02,
+    "Weighted-F1 (%)": 93.36,
+    "Negative F1 (%)": 86.79,
+    "Neutral F1 (%)": 63.29,
+    "Positive F1 (%)": 95.98
+  }
+]

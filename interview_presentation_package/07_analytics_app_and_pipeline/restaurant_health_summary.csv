@@ -1,0 +1,101 @@
+Restaurant,Overall_Health,Average_Stars,Total_Reviews,Food_Score,Food_Status,Food_Mentions,Service_Score,Service_Status,Service_Mentions,Price_Score,Price_Status,Price_Mentions,Ambience_Score,Ambience_Status,Ambience_Mentions
+Paradise,91.2,4.7,100,90.2,Excellent,154,95.7,Excellent,102,82.3,Excellent,7,93.6,Excellent,36
+B-Dubs,89.6,4.81,100,90.7,Excellent,93,94.9,Excellent,106,72.5,Satisfactory,10,93.3,Excellent,34
+The Indi Grill,89.4,4.6,100,91.1,Excellent,177,93.6,Excellent,130,84.2,Excellent,18,81.8,Excellent,56
+AB's - Absolute Barbecues,88.8,4.88,100,90.6,Excellent,119,96.4,Excellent,125,72.9,Satisfactory,1,84.8,Excellent,32
+"3B's - Buddies, Bar & Barbecue",84.9,4.76,100,85.8,Excellent,119,92.4,Excellent,121,76.9,Excellent,15,75.5,Excellent,22
+Flechazo,84.0,4.66,100,80.9,Excellent,168,87.8,Excellent,127,85.4,Excellent,13,83.4,Excellent,56
+Over The Moon Brew Company,83.7,4.34,100,89.1,Excellent,124,84.1,Excellent,112,66.9,Satisfactory,12,85.4,Excellent,85
+American Wild Wings,81.6,3.97,77,76.4,Excellent,311,79.3,Excellent,73,92.5,Excellent,30,89.2,Excellent,47
+Zega - Sheraton Hyderabad Hotel,81.4,4.45,100,80.0,Excellent,166,83.6,Excellent,115,77.3,Excellent,22,85.1,Excellent,90
+Squeeze @ The Lime,80.3,3.82,98,80.9,Excellent,171,80.9,Excellent,77,77.3,Excellent,22,80.6,Excellent,24
+The Fisherman's Wharf,79.6,4.22,100,79.2,Excellent,219,80.4,Excellent,95,66.8,Satisfactory,39,92.1,Excellent,142
+Beyond Flavours,77.0,4.28,100,74.9,Satisfactory,181,75.3,Excellent,137,78.0,Excellent,16,85.2,Excellent,87
+Feast - Sheraton Hyderabad Hotel,76.5,4.22,100,74.5,Satisfactory,174,86.2,Excellent,112,59.9,Satisfactory,29,79.0,Excellent,48
+Cascade - Radisson Hyderabad Hitec City,76.1,4.26,100,74.5,Satisfactory,241,83.6,Excellent,136,62.5,Satisfactory,18,79.0,Excellent,60
+NorFest - The Dhaba,76.0,4.03,100,77.7,Excellent,332,74.3,Satisfactory,52,71.9,Satisfactory,40,79.3,Excellent,27
+Banana Leaf Multicuisine Restaurant,75.9,3.68,98,67.0,Satisfactory,165,80.0,Excellent,58,82.0,Excellent,54,85.3,Excellent,47
+Gal Punjab Di,75.0,3.6,99,74.5,Satisfactory,290,67.4,Satisfactory,89,76.2,Excellent,27,90.0,Excellent,61
+Barbeque Nation,74.9,4.12,100,75.4,Excellent,205,80.6,Excellent,148,75.5,Excellent,18,61.3,Satisfactory,60
+KS Bakers,74.9,3.96,100,76.8,Excellent,187,66.5,Satisfactory,58,89.0,Excellent,60,72.4,Satisfactory,19
+PourHouse7,74.2,3.86,100,77.4,Excellent,327,69.8,Satisfactory,128,68.5,Satisfactory,24,80.0,Excellent,118
+GD's,74.1,3.95,99,70.7,Satisfactory,190,74.6,Satisfactory,27,72.4,Satisfactory,19,83.8,Excellent,5
+Hyderabadi Daawat,74.1,3.83,100,71.2,Satisfactory,428,77.5,Excellent,111,60.2,Satisfactory,33,88.8,Excellent,54
+Driven Cafe,74.0,3.77,99,68.9,Satisfactory,116,76.5,Excellent,53,62.5,Satisfactory,26,93.8,Excellent,93
+Tempteys,73.9,3.82,93,73.9,Satisfactory,74,73.3,Satisfactory,31,71.1,Satisfactory,11,78.0,Excellent,16
+10 Downing Street,73.3,3.8,100,75.1,Excellent,162,63.9,Satisfactory,77,74.7,Satisfactory,43,85.7,Excellent,125
+Deli 9 Bistro,73.0,3.82,100,73.1,Satisfactory,224,74.9,Satisfactory,81,53.5,Critical Alert,20,88.7,Excellent,58
+Mazzo - Marriott Executive Apartments,72.4,4.19,100,74.2,Satisfactory,203,69.3,Satisfactory,134,62.1,Satisfactory,27,84.3,Excellent,136
+Yum Yum Tree - The Arabian Food Court,71.5,3.55,99,70.5,Satisfactory,197,68.8,Satisfactory,74,63.4,Satisfactory,24,87.5,Excellent,56
+Marsala Food Company,71.4,3.46,100,72.3,Satisfactory,416,66.1,Satisfactory,146,71.6,Satisfactory,36,79.5,Excellent,93
+Chinese Pavilion,71.4,3.75,100,67.8,Satisfactory,337,76.3,Excellent,101,54.4,Critical Alert,38,88.2,Excellent,68
+Arena Eleven,71.3,4.12,85,76.4,Excellent,271,59.3,Satisfactory,123,63.2,Satisfactory,32,89.6,Excellent,97
+Karachi Cafe,71.1,3.7,98,73.6,Satisfactory,160,61.4,Satisfactory,73,62.2,Satisfactory,35,93.0,Excellent,75
+The Tilt Bar Republic,71.1,3.85,100,76.0,Excellent,235,67.4,Satisfactory,112,55.1,Satisfactory,22,81.5,Excellent,101
+Udipi's Upahar,71.0,3.94,87,75.7,Excellent,51,69.2,Satisfactory,36,76.9,Excellent,15,56.0,Satisfactory,18
+Biryanis And More,70.8,3.65,91,77.0,Excellent,261,60.0,Satisfactory,84,67.4,Satisfactory,23,79.5,Excellent,37
+Amul,70.6,3.77,86,74.7,Satisfactory,43,59.9,Satisfactory,29,75.8,Excellent,10,76.1,Excellent,6
+Hyper Local,70.3,3.64,100,74.4,Satisfactory,214,68.2,Satisfactory,118,49.7,Critical Alert,33,84.4,Excellent,105
+Cream Stone,69.9,3.85,100,77.9,Excellent,59,60.3,Satisfactory,52,66.8,Satisfactory,18,71.2,Satisfactory,18
+Frio Bistro,69.8,3.61,100,68.6,Satisfactory,288,65.5,Satisfactory,123,63.8,Satisfactory,34,87.7,Excellent,65
+Khaan Saab,69.5,3.8,100,70.3,Satisfactory,233,70.1,Satisfactory,119,47.2,Critical Alert,35,88.3,Excellent,77
+The Glass Onion,69.5,3.83,100,71.7,Satisfactory,220,62.7,Satisfactory,120,60.5,Satisfactory,32,86.0,Excellent,157
+Olive Garden,69.1,3.73,93,68.9,Satisfactory,187,68.0,Satisfactory,75,69.1,Satisfactory,44,71.6,Satisfactory,43
+The Foodie Monster Kitchen,68.4,3.57,99,63.8,Satisfactory,135,68.1,Satisfactory,55,64.7,Satisfactory,18,85.1,Excellent,16
+Dine O China,68.1,3.37,100,64.3,Satisfactory,200,69.7,Satisfactory,63,59.4,Satisfactory,15,83.9,Excellent,30
+The Old Madras Baking Company,68.0,3.62,99,72.3,Satisfactory,138,56.7,Satisfactory,60,74.6,Satisfactory,23,72.2,Satisfactory,53
+Cafe Eclat,67.9,3.59,100,68.3,Satisfactory,191,72.4,Satisfactory,57,42.6,Critical Alert,64,83.1,Excellent,52
+Komatose - Holiday Inn Express & Suites,66.1,3.69,100,71.1,Satisfactory,120,57.0,Satisfactory,114,55.7,Satisfactory,19,81.5,Excellent,112
+13 Dhaba,65.9,3.45,98,66.2,Satisfactory,161,58.3,Satisfactory,60,83.5,Excellent,17,62.5,Satisfactory,14
+Urban Asia - Kitchen & Bar,65.9,3.65,100,69.8,Satisfactory,333,56.8,Satisfactory,147,57.4,Satisfactory,34,82.2,Excellent,80
+SKYHY,65.7,3.37,100,65.2,Satisfactory,109,60.4,Satisfactory,100,57.7,Satisfactory,26,85.3,Excellent,81
+Prism Club & Kitchen,65.4,4.21,100,72.9,Satisfactory,119,59.3,Satisfactory,90,46.5,Critical Alert,41,76.4,Excellent,163
+Jonathan's Kitchen - Holiday Inn Express & Suites,65.3,3.54,100,72.1,Satisfactory,302,59.7,Satisfactory,159,43.9,Critical Alert,30,80.1,Excellent,96
+Karachi Bakery,65.1,3.67,82,59.2,Satisfactory,48,67.9,Satisfactory,25,75.7,Excellent,14,64.4,Satisfactory,8
+Tiki Shack,63.9,3.48,100,71.1,Satisfactory,113,46.0,Critical Alert,122,59.6,Satisfactory,30,84.7,Excellent,123
+Absolute Sizzlers,63.6,3.62,100,59.3,Satisfactory,155,62.6,Satisfactory,97,60.5,Satisfactory,27,80.2,Excellent,36
+Being Hungry,63.3,3.38,81,60.1,Satisfactory,108,59.9,Satisfactory,29,74.3,Satisfactory,13,67.5,Satisfactory,0
+The Lal Street - Bar Exchange,63.2,3.45,100,70.7,Satisfactory,149,47.8,Critical Alert,117,59.2,Satisfactory,37,77.7,Excellent,119
+Mustang Terrace Lounge,62.9,3.31,100,70.6,Satisfactory,101,51.5,Critical Alert,122,48.3,Critical Alert,31,80.1,Excellent,114
+Hyderabad Chefs,62.9,3.59,76,59.0,Satisfactory,66,66.2,Satisfactory,22,83.8,Excellent,5,45.5,Critical Alert,9
+Triptify,61.9,3.52,98,59.7,Satisfactory,112,63.4,Satisfactory,35,73.8,Satisfactory,5,53.1,Critical Alert,7
+Shanghai Chef 2,61.7,3.06,100,58.4,Satisfactory,254,57.2,Satisfactory,97,65.9,Satisfactory,32,75.2,Excellent,60
+Labonel,61.5,3.92,100,78.5,Excellent,70,33.9,Critical Alert,58,51.1,Critical Alert,72,81.9,Excellent,15
+Aromas@11SIX,61.2,3.35,93,61.8,Satisfactory,210,64.0,Satisfactory,62,48.6,Critical Alert,39,66.4,Satisfactory,37
+Sardarji's Chaats & More,60.7,3.25,100,61.4,Satisfactory,134,55.9,Satisfactory,35,70.8,Satisfactory,28,58.1,Satisfactory,12
+Momos Delight,60.5,3.64,94,59.0,Satisfactory,99,52.4,Critical Alert,32,74.3,Satisfactory,13,67.0,Satisfactory,6
+Royal Spicy Restaurant,60.2,3.41,78,54.2,Critical Alert,88,56.9,Satisfactory,22,72.1,Satisfactory,8,70.8,Satisfactory,4
+Diners Pavilion,59.5,3.32,100,60.2,Satisfactory,240,49.5,Critical Alert,132,61.3,Satisfactory,38,76.0,Excellent,83
+Dunkin' Donuts,59.4,3.09,99,62.7,Satisfactory,120,58.5,Satisfactory,64,49.3,Critical Alert,14,62.2,Satisfactory,43
+Shah Ghouse Spl Shawarma,59.1,3.41,99,57.6,Satisfactory,125,58.0,Satisfactory,37,75.7,Excellent,14,49.0,Critical Alert,7
+Eat India Company,58.8,3.26,100,62.3,Satisfactory,209,49.2,Critical Alert,136,53.6,Critical Alert,33,74.0,Satisfactory,80
+Pista House,58.8,3.23,100,64.7,Satisfactory,246,44.4,Critical Alert,114,69.0,Satisfactory,26,61.5,Satisfactory,33
+La La Land - Bar & Kitchen,58.6,3.19,100,62.6,Satisfactory,173,44.5,Critical Alert,115,60.7,Satisfactory,36,73.7,Satisfactory,98
+Ulavacharu,58.5,3.23,100,67.3,Satisfactory,228,49.9,Critical Alert,96,35.8,Critical Alert,31,74.8,Satisfactory,61
+Pot Pourri,58.5,3.32,100,56.9,Satisfactory,234,51.0,Critical Alert,130,55.2,Satisfactory,31,80.8,Excellent,66
+Desi Bytes,58.1,2.85,93,52.6,Critical Alert,105,60.9,Satisfactory,35,52.1,Critical Alert,13,73.0,Satisfactory,14
+Al Saba Restaurant,57.2,3.11,92,62.9,Satisfactory,114,54.6,Critical Alert,57,53.4,Critical Alert,21,51.0,Critical Alert,31
+Collage - Hyatt Hyderabad Gachibowli,56.5,3.41,100,56.3,Satisfactory,230,56.2,Satisfactory,129,37.2,Critical Alert,35,77.2,Excellent,81
+Shah Ghouse Hotel & Restaurant,55.8,3.21,100,62.6,Satisfactory,213,43.5,Critical Alert,89,68.2,Satisfactory,19,49.6,Critical Alert,28
+Faasos,55.6,3.02,99,63.3,Satisfactory,197,49.0,Critical Alert,59,36.2,Critical Alert,25,67.5,Satisfactory,0
+T Grill,55.5,3.17,100,53.9,Critical Alert,234,50.9,Critical Alert,96,52.6,Critical Alert,29,72.2,Satisfactory,80
+Zing's Northeast Kitchen,55.2,3.65,100,61.0,Satisfactory,345,42.6,Critical Alert,145,69.3,Satisfactory,41,50.6,Critical Alert,56
+Kritunga Restaurant,54.8,3.1,78,48.7,Critical Alert,116,51.0,Critical Alert,31,76.1,Excellent,6,57.2,Satisfactory,14
+Hunger Maggi Point,53.2,3.1,99,48.5,Critical Alert,107,54.9,Critical Alert,43,62.1,Satisfactory,23,53.4,Critical Alert,6
+Behrouz Biryani,52.5,2.83,100,55.0,Satisfactory,234,39.3,Critical Alert,57,57.7,Satisfactory,26,67.0,Satisfactory,6
+Club Rogue,52.5,2.88,100,68.9,Satisfactory,71,27.9,Critical Alert,156,49.8,Critical Alert,45,60.6,Satisfactory,140
+Tandoori Food Works,51.6,3.17,94,53.1,Critical Alert,168,49.7,Critical Alert,36,39.5,Critical Alert,20,63.7,Satisfactory,5
+Mathura Vilas,51.4,2.82,100,54.8,Critical Alert,210,40.1,Critical Alert,158,40.4,Critical Alert,38,76.2,Excellent,48
+The Chocolate Room,51.0,2.78,96,51.9,Critical Alert,96,41.3,Critical Alert,54,38.7,Critical Alert,27,80.5,Excellent,29
+eat.fit,50.8,3.2,100,55.0,Satisfactory,261,50.6,Critical Alert,55,46.7,Critical Alert,29,44.3,Critical Alert,6
+Green Bawarchi Restaurant,50.1,3.07,72,48.2,Critical Alert,83,42.2,Critical Alert,35,72.1,Satisfactory,8,48.9,Critical Alert,6
+KFC,47.6,2.67,90,45.7,Critical Alert,92,33.4,Critical Alert,65,61.5,Satisfactory,7,66.9,Satisfactory,15
+Delhi-39,46.2,2.87,95,51.2,Critical Alert,108,27.2,Critical Alert,24,68.0,Satisfactory,11,49.0,Critical Alert,8
+Asian Meal Box,46.0,2.58,100,42.3,Critical Alert,211,41.8,Critical Alert,39,48.0,Critical Alert,27,62.5,Satisfactory,2
+Pakwaan Grand,43.8,2.67,98,45.5,Critical Alert,165,38.2,Critical Alert,47,63.2,Satisfactory,13,31.2,Critical Alert,9
+Hitech Bawarchi Food Zone,43.7,2.83,87,36.2,Critical Alert,94,49.6,Critical Alert,28,53.1,Critical Alert,7,42.2,Critical Alert,3
+Owm Nom Nom,39.0,3.02,84,38.7,Critical Alert,116,32.3,Critical Alert,58,39.9,Critical Alert,16,52.0,Critical Alert,14
+Mohammedia Shawarma,38.3,2.65,84,34.1,Critical Alert,62,53.1,Critical Alert,23,20.8,Critical Alert,16,37.5,Critical Alert,4
+Shree Santosh Dhaba Family Restaurant,34.2,2.59,86,32.8,Critical Alert,89,27.3,Critical Alert,22,31.2,Critical Alert,9,54.7,Critical Alert,3
+Domino's Pizza,34.2,2.92,91,27.3,Critical Alert,55,34.5,Critical Alert,57,43.8,Critical Alert,5,42.2,Critical Alert,3
+Hotel Zara Hi-Fi,31.1,2.32,97,24.0,Critical Alert,151,25.3,Critical Alert,32,43.8,Critical Alert,21,48.6,Critical Alert,4

@@ -1,0 +1,9 @@
+Category,TP,FP,FN,TN,Precision,Recall,F1-Score,Support
+Food,4821,0,0,6810,1.0,1.0,1.0,4821
+Service,1938,0,0,9693,1.0,1.0,1.0,1938
+Price / Value,653,0,0,10978,1.0,1.0,1.0,653
+Ambience,1303,0,0,10328,1.0,1.0,1.0,1303
+General Experience,1350,0,0,10281,1.0,1.0,1.0,1350
+No Aspect Opinion,2811,0,0,8820,1.0,1.0,1.0,2811
+Macro Average (5 Aspects),10065,0,0,,1.0,1.0,1.0,10065
+Micro Average (5 Aspects),10065,0,0,,1.0,1.0,1.0,10065

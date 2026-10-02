@@ -1,0 +1,57 @@
+[
+  {
+    "Model": "Linear SVM",
+    "Val_Macro_F1": 0.7556,
+    "Test_Accuracy": 0.9019,
+    "Test_Macro_F1": 0.7936,
+    "Test_Weighted_F1": 0.902,
+    "Negative_F1": 0.815,
+    "Neutral_F1": 0.6234,
+    "Positive_F1": 0.9425,
+    "Training_Time_s": 0.3
+  },
+  {
+    "Model": "XGBoost",
+    "Val_Macro_F1": 0.7154,
+    "Test_Accuracy": 0.8936,
+    "Test_Macro_F1": 0.7997,
+    "Test_Weighted_F1": 0.8993,
+    "Negative_F1": 0.826,
+    "Neutral_F1": 0.6383,
+    "Positive_F1": 0.9349,
+    "Training_Time_s": 11.8
+  },
+  {
+    "Model": "Logistic Regression",
+    "Val_Macro_F1": 0.7786,
+    "Test_Accuracy": 0.8983,
+    "Test_Macro_F1": 0.7811,
+    "Test_Weighted_F1": 0.9015,
+    "Negative_F1": 0.8229,
+    "Neutral_F1": 0.5783,
+    "Positive_F1": 0.942,
+    "Training_Time_s": 1.2
+  },
+  {
+    "Model": "Random Forest",
+    "Val_Macro_F1": 0.6642,
+    "Test_Accuracy": 0.8132,
+    "Test_Macro_F1": 0.6985,
+    "Test_Weighted_F1": 0.8188,
+    "Negative_F1": 0.665,
+    "Neutral_F1": 0.5526,
+    "Positive_F1": 0.8778,
+    "Training_Time_s": 2.4
+  },
+  {
+    "Model": "DistilBERT",
+    "Val_Macro_F1": 0.7434,
+    "Test_Accuracy": 0.8886,
+    "Test_Macro_F1": 0.7755,
+    "Test_Weighted_F1": 0.8984,
+    "Negative_F1": 0.7975,
+    "Neutral_F1": 0.5974,
+    "Positive_F1": 0.9317,
+    "Training_Time_s": 612.2
+  }
+]

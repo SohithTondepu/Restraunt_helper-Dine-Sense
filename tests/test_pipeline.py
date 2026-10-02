@@ -58,13 +58,82 @@ class TestPipeline(unittest.TestCase):
         self.assertIn('Service', aspects)
 
     def test_semantic_embedding_aspect_matching(self):
-        # Implicit metaphor test: "cost an arm and a leg" -> Price
+        # Implicit metaphor test: "cost an arm and a leg" -> Price / Value
         aspect_price = match_aspect_hybrid("It cost an arm and a leg")
-        self.assertIn('Price', aspect_price)
+        self.assertIn('Price / Value', aspect_price)
 
         # Direct service mention -> Service
         aspect_service = match_aspect_hybrid("The waiter was attentive and polite")
         self.assertIn('Service', aspect_service)
+
+    def test_five_category_explicit_keywords(self):
+        # 1. Food
+        self.assertEqual(match_aspect_hybrid("The biryani was excellent"), {'Food'})
+        # 2. Service
+        self.assertEqual(match_aspect_hybrid("The staff were friendly"), {'Service'})
+        # 3. Price / Value
+        self.assertEqual(match_aspect_hybrid("The pricing was very expensive"), {'Price / Value'})
+        # 4. Ambience
+        self.assertEqual(match_aspect_hybrid("The decor and lighting were beautiful"), {'Ambience'})
+        # 5. General Experience
+        self.assertEqual(match_aspect_hybrid("Must visit!"), {'General Experience'})
+        self.assertEqual(match_aspect_hybrid("I would definitely come back"), {'General Experience'})
+
+    def test_general_experience_statements(self):
+        self.assertIn('General Experience', match_aspect_hybrid("Must visit!"))
+        self.assertIn('General Experience', match_aspect_hybrid("I would definitely come back"))
+        self.assertIn('General Experience', match_aspect_hybrid("Overall, a wonderful dining experience"))
+        self.assertIn('General Experience', match_aspect_hybrid("I highly recommend this restaurant"))
+        self.assertIn('General Experience', match_aspect_hybrid("Worst experience of my life"))
+        self.assertIn('General Experience', match_aspect_hybrid("We loved this place"))
+
+    def test_no_match_clauses(self):
+        # Factual, procedural, and contextual clauses must preserve no-match behaviour
+        self.assertEqual(match_aspect_hybrid("Visited yesterday at 8 PM"), set())
+        self.assertEqual(match_aspect_hybrid("We arrived at 9 PM yesterday"), set())
+        self.assertEqual(match_aspect_hybrid("6 of us went there to dine in"), set())
+        self.assertEqual(match_aspect_hybrid("Do follow us on Instagram"), set())
+        # Generic sentiment words alone must NOT be classified as General Experience
+        self.assertEqual(match_aspect_hybrid("It was good"), set())
+        self.assertEqual(match_aspect_hybrid("Just fine"), set())
+        self.assertEqual(match_aspect_hybrid("Terrible"), set())
+        self.assertEqual(match_aspect_hybrid("Nice and fine"), set())
+
+    def test_ambiguous_term_slow(self):
+        # Service latency: slow service / staff
+        self.assertEqual(match_aspect_hybrid("The service was slow"), {'Service'})
+        self.assertEqual(match_aspect_hybrid("The staff was very slow"), {'Service'})
+        self.assertEqual(match_aspect_hybrid("It was so slow"), {'Service'})
+        # Ambiguous slow: music/ambience should NOT trigger Service
+        self.assertEqual(match_aspect_hybrid("The music was slow and peaceful"), {'Ambience'})
+        # Ambiguous slow: food cooking should NOT trigger Service
+        self.assertEqual(match_aspect_hybrid("We ordered slow cooked mutton"), {'Food'})
+        # Multi-aspect with slow cooked food and slow service
+        res = match_aspect_hybrid("Slow cooked pork, but the waiter was slow")
+        self.assertIn('Food', res)
+        self.assertIn('Service', res)
+
+    def test_multi_aspect_clauses(self):
+        # Co-occurring aspects within a single clause
+        res_food_amb = match_aspect_hybrid("Great food and lovely ambience")
+        self.assertEqual(res_food_amb, {'Food', 'Ambience'})
+
+        # Review with multiple aspects across clauses
+        review = "The food was delicious, but the place is a must visit."
+        findings = extract_aspects_from_review(review)
+        detected_aspects = {f['aspect'] for f in findings}
+        self.assertIn('Food', detected_aspects)
+        self.assertIn('General Experience', detected_aspects)
+
+    def test_minilm_semantic_fallback_five_categories(self):
+        # Tier 2 MiniLM fallback for implicit concepts
+        self.assertEqual(match_aspect_hybrid("The place was deafening"), {'Ambience'})
+        self.assertEqual(match_aspect_hybrid("It cost an arm and a leg"), {'Price / Value'})
+        self.assertEqual(match_aspect_hybrid("A truly memorable evening at this restaurant"), {'General Experience'})
+        self.assertEqual(match_aspect_hybrid("We had an absolute blast dining here"), {'General Experience'})
+        # Verify MiniLM does NOT indiscriminately assign General Experience
+        self.assertEqual(match_aspect_hybrid("It was okay"), set())
+        self.assertEqual(match_aspect_hybrid("6 of us went there to dine in"), set())
 
     def test_health_scoring_edge_cases(self):
         # Empty count edge case shrinks to prior (global prior 0.35 -> ~67.5)

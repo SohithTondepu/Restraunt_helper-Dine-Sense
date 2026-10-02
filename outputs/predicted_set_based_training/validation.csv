@@ -1,0 +1,907 @@
+review_id,clause_id,star_rating,predicted_aspect,sentiment,aspect_conditioned_text
+REV_00019,REV_00019_C01,5.0,Service,Positive,Aspect: Service [SEP] Polite and friendly staff
+REV_00019,REV_00019_C02,5.0,Ambience,Positive,Aspect: Ambience [SEP] Nice ambience and good spread of menu
+REV_00019,REV_00019_C02,5.0,Food,Positive,Aspect: Food [SEP] Nice ambience and good spread of menu
+REV_00019,REV_00019_C03,5.0,Food,Positive,Aspect: Food [SEP] Drinks are awesome
+REV_00019,REV_00019_C04,5.0,Service,Positive,Aspect: Service [SEP] Service is very good by manav
+REV_00041,REV_00041_C02,5.0,General Experience,Positive,Aspect: General Experience [SEP] And I can for a fact say that it’s probably the best place I’ve eaten a buffet at in Hyderabad period
+REV_00041,REV_00041_C03,5.0,Service,Positive,Aspect: Service [SEP] Especially id like to thank Shurvo and Papiya for their amazing service
+REV_00041,REV_00041_C04,5.0,General Experience,Positive,Aspect: General Experience [SEP] Double metha was just too good
+REV_00078,REV_00078_C03,5.0,Food,Positive,Aspect: Food [SEP] Food was very good
+REV_00078,REV_00078_C04,5.0,Ambience,Positive,Aspect: Ambience [SEP] the ambience was also very nice
+REV_00078,REV_00078_C05,5.0,General Experience,Positive,Aspect: General Experience [SEP] Loved everything.❤
+REV_00086,REV_00086_C01,5.0,Food,Positive,Aspect: Food [SEP] This is the place I really recommend this restaurant to the food lover specifically the continental food lover
+REV_00086,REV_00086_C01,5.0,General Experience,Positive,Aspect: General Experience [SEP] This is the place I really recommend this restaurant to the food lover specifically the continental food lover
+REV_00086,REV_00086_C02,5.0,Food,Positive,Aspect: Food [SEP] pasta and sizzlers are so yummy that I cant stop myself to choose only this restaurant rather than other
+REV_00090,REV_00090_C01,1.0,General Experience,Negative,Aspect: General Experience [SEP] Had a very bad experience here
+REV_00090,REV_00090_C04,1.0,Food,Positive,Aspect: Food [SEP] I guess the food was not served fresh
+REV_00090,REV_00090_C04,1.0,Service,Positive,Aspect: Service [SEP] I guess the food was not served fresh
+REV_00101,REV_00101_C01,5.0,Ambience,Positive,Aspect: Ambience [SEP] Paradise Biryani is really good service also good staff friendly ambiance nice I had chicken Biryani and mutton Biryani both are good thank you
+REV_00101,REV_00101_C01,5.0,Food,Positive,Aspect: Food [SEP] Paradise Biryani is really good service also good staff friendly ambiance nice I had chicken Biryani and mutton Biryani both are good thank you
+REV_00101,REV_00101_C01,5.0,Service,Positive,Aspect: Service [SEP] Paradise Biryani is really good service also good staff friendly ambiance nice I had chicken Biryani and mutton Biryani both are good thank you
+REV_00113,REV_00113_C02,5.0,Service,Positive,Aspect: Service [SEP] Very excellent service rendered
+REV_00113,REV_00113_C03,5.0,Food,Positive,Aspect: Food [SEP] Dishes are very tasty
+REV_00113,REV_00113_C04,5.0,General Experience,Positive,Aspect: General Experience [SEP] Like to visit again and will recommend to friends
+REV_00129,REV_00129_C01,5.0,General Experience,Positive,Aspect: General Experience [SEP] Ege biriyani is very good
+REV_00129,REV_00129_C02,5.0,Service,Positive,Aspect: Service [SEP] Service is very good and
+REV_00129,REV_00129_C03,5.0,General Experience,Positive,Aspect: General Experience [SEP] Nice place in paradise gachibowli
+REV_00129,REV_00129_C04,5.0,General Experience,Positive,Aspect: General Experience [SEP] So I am happy next time visit again with my friends and family
+REV_00186,REV_00186_C01,5.0,Food,Positive,Aspect: Food [SEP] Good food
+REV_00186,REV_00186_C02,5.0,Food,Positive,Aspect: Food [SEP] egg friend rice was nice and also chicken Tikka masala was awesome
+REV_00186,REV_00186_C03,5.0,Food,Positive,Aspect: Food [SEP] And service was great we enjoyed the food
+REV_00186,REV_00186_C03,5.0,Service,Positive,Aspect: Service [SEP] And service was great we enjoyed the food
+REV_00186,REV_00186_C04,5.0,General Experience,Positive,Aspect: General Experience [SEP] people's are very nice
+REV_00197,REV_00197_C02,5.0,Food,Positive,Aspect: Food [SEP] Murg Musalam taste was good
+REV_00197,REV_00197_C03,5.0,Service,Positive,"Aspect: Service [SEP] Service was awesome, they were too respectable"
+REV_00197,REV_00197_C04,5.0,Ambience,Positive,Aspect: Ambience [SEP] Good ambiance
+REV_00228,REV_00228_C02,5.0,Service,Positive,Aspect: Service [SEP] Sabir is very good at service
+REV_00228,REV_00228_C04,5.0,Service,Positive,Aspect: Service [SEP] staff is very professional polite and friendly
+REV_00246,REV_00246_C01,5.0,Service,Positive,Aspect: Service [SEP] Good Service
+REV_00266,REV_00266_C01,5.0,Service,Positive,"Aspect: Service [SEP] Had great fun with kids, family exceptional hospitality especially Ranjit"
+REV_00266,REV_00266_C02,5.0,Food,Positive,Aspect: Food [SEP] Good variety food
+REV_00266,REV_00266_C03,5.0,Price / Value,Positive,Aspect: Price / Value [SEP] worth place to have buffet with family
+REV_00266,REV_00266_C04,5.0,Price / Value,Positive,Aspect: Price / Value [SEP] priced good
+REV_00423,REV_00423_C02,5.0,Food,Negative,"Aspect: Food [SEP] The Japanese fried chicken, the kung pao chicken and the beautiful ice cold brewed beer ( we loved the Weizen Bock beer) are the best"
+REV_00423,REV_00423_C03,5.0,Service,Positive,Aspect: Service [SEP] Ask for Kamal who is simply the sweetest and the best server at the place
+REV_00523,REV_00523_C01,5.0,Ambience,Positive,Aspect: Ambience [SEP] A very good to place to Dineout with friends
+REV_00523,REV_00523_C03,5.0,Ambience,Positive,Aspect: Ambience [SEP] Awesome ambience with sweet live music and delicious food
+REV_00523,REV_00523_C03,5.0,Food,Positive,Aspect: Food [SEP] Awesome ambience with sweet live music and delicious food
+REV_00523,REV_00523_C06,5.0,General Experience,Positive,Aspect: General Experience [SEP] it was worth visiting this place
+REV_00523,REV_00523_C06,5.0,Price / Value,Positive,Aspect: Price / Value [SEP] it was worth visiting this place
+REV_00523,REV_00523_C07,5.0,Service,Positive,Aspect: Service [SEP] Staffs were very polite and friendly and provided a very good service to us
+REV_00566,REV_00566_C01,4.0,Ambience,Positive,"Aspect: Ambience [SEP] The ambiance and setup, basically the theme is just superb"
+REV_00566,REV_00566_C06,4.0,Price / Value,Negative,Aspect: Price / Value [SEP] A bit expensive
+REV_00566,REV_00566_C07,4.0,Price / Value,Positive,Aspect: Price / Value [SEP] but worth it
+REV_00597,REV_00597_C01,5.0,Ambience,Positive,Aspect: Ambience [SEP] Ambience is really good
+REV_00597,REV_00597_C04,5.0,Food,Positive,"Aspect: Food [SEP] Coming to food, recommend trying only Goan cuisine"
+REV_00597,REV_00597_C04,5.0,General Experience,Positive,"Aspect: General Experience [SEP] Coming to food, recommend trying only Goan cuisine"
+REV_00597,REV_00597_C05,5.0,Food,Positive,Aspect: Food [SEP] Didn’t feel the Buffet was special or so
+REV_00597,REV_00597_C06,5.0,General Experience,Positive,Aspect: General Experience [SEP] their Ala Carte is real good
+REV_00597,REV_00597_C09,5.0,Food,Positive,Aspect: Food [SEP] Butter Garlic crabs are good too
+REV_00597,REV_00597_C10,5.0,Price / Value,Negative,Aspect: Price / Value [SEP] slightly on the expensive side
+REV_00597,REV_00597_C11,5.0,Food,Positive,Aspect: Food [SEP] Goan chicken curries are well made and taste good with plain steamed rice
+REV_00597,REV_00597_C12,5.0,Food,Negative,Aspect: Food [SEP] Chicken Vindalho if you are looking for spicy or Chicken Xacuti if you want something less hot
+REV_00690,REV_00690_C02,4.0,Food,Positive,"Aspect: Food [SEP] Strongly recommended to try everything on the menu as it is healthy, fresh and hygienic everytime its ordered"
+REV_00690,REV_00690_C02,4.0,General Experience,Positive,"Aspect: General Experience [SEP] Strongly recommended to try everything on the menu as it is healthy, fresh and hygienic everytime its ordered"
+REV_00690,REV_00690_C04,4.0,Food,Positive,"Aspect: Food [SEP] Every dish comes properly labelled with it's nutritional value, so you know what you're having"
+REV_00690,REV_00690_C04,4.0,Price / Value,Positive,"Aspect: Price / Value [SEP] Every dish comes properly labelled with it's nutritional value, so you know what you're having"
+REV_00701,REV_00701_C01,4.0,Food,Positive,"Aspect: Food [SEP] The biryani here is very delicious, one should must have this biryani if they visit Hyderabad"
+REV_00765,REV_00765_C03,4.0,Food,Positive,Aspect: Food [SEP] The way the chicken taste is just amazing
+REV_00765,REV_00765_C05,4.0,General Experience,Positive,"Aspect: General Experience [SEP] but if you are looking for an amazing shawarma experience, you must try this"
+REV_00810,REV_00810_C01,1.0,General Experience,Negative,Aspect: General Experience [SEP] Pathetic restuarant
+REV_00810,REV_00810_C09,1.0,Ambience,Negative,Aspect: Ambience [SEP] It was over crowded no space to dance so people were dancing near our table and drinks spell off 3 4 times
+REV_00810,REV_00810_C12,1.0,General Experience,Negative,Aspect: General Experience [SEP] Horrible experience
+REV_00904,REV_00904_C03,5.0,General Experience,Positive,Aspect: General Experience [SEP] It was so good
+REV_00918,REV_00918_C01,4.0,Food,Positive,Aspect: Food [SEP] Very good concept and unique flavours
+REV_00918,REV_00918_C02,4.0,Food,Positive,"Aspect: Food [SEP] My personal favourite is fruit exotica and tiramisu , would certainly again and again just to have these two flavours"
+REV_00918,REV_00918_C03,4.0,Service,Positive,Aspect: Service [SEP] Eagerly waiting for season special Alphonso ice cream
+REV_00922,REV_00922_C03,5.0,General Experience,Positive,Aspect: General Experience [SEP] just fell in love with this plc
+REV_00926,REV_00926_C01,3.0,General Experience,Positive,Aspect: General Experience [SEP] Never disappoints me
+REV_00926,REV_00926_C02,3.0,General Experience,Positive,Aspect: General Experience [SEP] Always up to my expectations
+REV_00926,REV_00926_C03,3.0,Food,Positive,"Aspect: Food [SEP] Great choices and I love the extra bits like the oreo's, m&m's etc to choose as toppings"
+REV_00927,REV_00927_C01,5.0,General Experience,Positive,Aspect: General Experience [SEP] Good place to order ice cream
+REV_00927,REV_00927_C01,5.0,Service,Positive,Aspect: Service [SEP] Good place to order ice cream
+REV_00941,REV_00941_C01,5.0,General Experience,Positive,Aspect: General Experience [SEP] I am a huge fan of Cream Stone's Death by Chocolate ice cream
+REV_00941,REV_00941_C04,5.0,General Experience,Positive,Aspect: General Experience [SEP] The packing is always so amazing
+REV_00963,REV_00963_C01,5.0,General Experience,Positive,Aspect: General Experience [SEP] Best place for ice cream in the area
+REV_00963,REV_00963_C02,5.0,Ambience,Positive,Aspect: Ambience [SEP] The ambience is also nice
+REV_00963,REV_00963_C05,5.0,Food,Positive,Aspect: Food [SEP] the quality is good
+REV_00977,REV_00977_C03,5.0,Food,Positive,Aspect: Food [SEP] The taste was really good and in every bite i could feel the crunch of the nuts
+REV_00989,REV_00989_C01,5.0,General Experience,Positive,Aspect: General Experience [SEP] good
+REV_01042,REV_01042_C02,1.0,General Experience,Negative,Aspect: General Experience [SEP] very bad
+REV_01042,REV_01042_C07,1.0,Food,Negative,Aspect: Food [SEP] Taste was very bad
+REV_01112,REV_01112_C01,1.0,General Experience,Negative,"Aspect: General Experience [SEP] Had a worst experience today at BarbQ Nation , gachhibowli, hyderabad"
+REV_01112,REV_01112_C02,1.0,Food,Positive,Aspect: Food [SEP] Taste is not as good as remaining branches
+REV_01118,REV_01118_C02,3.0,Ambience,Positive,Aspect: Ambience [SEP] We were asked several times to give excellent rating by various attendants which was quiet annoying
+REV_01118,REV_01118_C04,3.0,Food,Neutral,Aspect: Food [SEP] food & variety served was average and wasn't upto standard w
+REV_01118,REV_01118_C04,3.0,Service,Neutral,Aspect: Service [SEP] food & variety served was average and wasn't upto standard w
+REV_01118,REV_01118_C07,3.0,Price / Value,Positive,"Aspect: Price / Value [SEP] In short, it wasn't value for money"
+REV_01118,REV_01118_C08,3.0,Price / Value,Positive,"Aspect: Price / Value [SEP] I think it would be better to choose Absolute Barbecue over Barbecue Nation, as customer you get value for money"
+REV_01122,REV_01122_C01,5.0,Food,Positive,Aspect: Food [SEP] Kirak Bole tho kirak Hyderabadi language just loved it had a nice time enjoyed the food mainly pan Kulfi loved iiiittttttttttttttttttttttttttt
+REV_01185,REV_01185_C07,4.0,General Experience,Positive,Aspect: General Experience [SEP] The paneers were too soft for the skewers and kept dropping into the fire
+REV_01185,REV_01185_C08,4.0,Food,Positive,Aspect: Food [SEP] The corn fried were very good
+REV_01185,REV_01185_C09,4.0,Food,Positive,Aspect: Food [SEP] Food was excellent especially the sweet corn soup
+REV_01185,REV_01185_C10,4.0,Food,Positive,Aspect: Food [SEP] Desserts we very good
+REV_01296,REV_01296_C02,5.0,General Experience,Positive,Aspect: General Experience [SEP] absolute sizzlers best sizzlers restaurant in Hyderabad
+REV_01296,REV_01296_C03,5.0,Food,Positive,Aspect: Food [SEP] Today lunch we visited this place food was delicious
+REV_01296,REV_01296_C04,5.0,Service,Positive,Aspect: Service [SEP] service is simply amazing
+REV_01296,REV_01296_C05,5.0,Ambience,Positive,Aspect: Ambience [SEP] Nice ambiance
+REV_01296,REV_01296_C06,5.0,General Experience,Positive,Aspect: General Experience [SEP] This place highly recommend 😍
+REV_01347,REV_01347_C01,5.0,Ambience,Positive,Aspect: Ambience [SEP] It's a good place with bollywood /mix music
+REV_01347,REV_01347_C01,5.0,General Experience,Positive,Aspect: General Experience [SEP] It's a good place with bollywood /mix music
+REV_01347,REV_01347_C02,5.0,General Experience,Positive,Aspect: General Experience [SEP] Good place for basic chill scenes with friends
+REV_01347,REV_01347_C03,5.0,Food,Positive,"Aspect: Food [SEP] it had a decent dance floor, good food and drinks"
+REV_01400,REV_01400_C01,5.0,Food,Positive,Aspect: Food [SEP] It was excellent experience spiced thank Krishna and monaj excellent food and service I am full happy enjoy the food and service thanks and team
+REV_01400,REV_01400_C01,5.0,General Experience,Positive,Aspect: General Experience [SEP] It was excellent experience spiced thank Krishna and monaj excellent food and service I am full happy enjoy the food and service thanks and team
+REV_01400,REV_01400_C01,5.0,Service,Positive,Aspect: Service [SEP] It was excellent experience spiced thank Krishna and monaj excellent food and service I am full happy enjoy the food and service thanks and team
+REV_01412,REV_01412_C01,5.0,Food,Positive,Aspect: Food [SEP] Very good and delicious food I have ever ate in Hyderabad
+REV_01412,REV_01412_C02,5.0,General Experience,Positive,Aspect: General Experience [SEP] @ Punkaj u have done a very good work and u r excellent in ur communication
+REV_01427,REV_01427_C01,5.0,Food,Positive,Aspect: Food [SEP] Nice food and nice service
+REV_01427,REV_01427_C01,5.0,Service,Positive,Aspect: Service [SEP] Nice food and nice service
+REV_01427,REV_01427_C02,5.0,Ambience,Positive,Aspect: Ambience [SEP] Ambiance is also great
+REV_01427,REV_01427_C03,5.0,Food,Positive,Aspect: Food [SEP] We wonder how you people manage all good food with good service
+REV_01427,REV_01427_C03,5.0,Service,Positive,Aspect: Service [SEP] We wonder how you people manage all good food with good service
+REV_01427,REV_01427_C04,5.0,General Experience,Positive,Aspect: General Experience [SEP] Great job
+REV_01427,REV_01427_C05,5.0,General Experience,Positive,Aspect: General Experience [SEP] Keep it up
+REV_01427,REV_01427_C06,5.0,Food,Positive,"Aspect: Food [SEP] I liked all kind of non veg and veg crispy corns, that is my favourite"
+REV_01427,REV_01427_C07,5.0,Service,Positive,Aspect: Service [SEP] Special thanks to Ali and Mantu thanks for your good service for us
+REV_01504,REV_01504_C02,3.0,Food,Negative,Aspect: Food [SEP] But the chicken piece was not good and i was confused to find out which piece of chicken is that
+REV_01504,REV_01504_C03,3.0,Food,Positive,Aspect: Food [SEP] So please look for a good piece of chicken when people ordering through online or else KFC will start loosing customers
+REV_01510,REV_01510_C01,1.0,Food,Negative,"Aspect: Food [SEP] I have ordered zinger box meal, the chicken inside is raw for the piece and the burger"
+REV_01510,REV_01510_C02,1.0,Ambience,Negative,Aspect: Ambience [SEP] I Don't recommend that this KFC is hygiene in cooking
+REV_01510,REV_01510_C02,1.0,Food,Negative,Aspect: Food [SEP] I Don't recommend that this KFC is hygiene in cooking
+REV_01510,REV_01510_C02,1.0,General Experience,Negative,Aspect: General Experience [SEP] I Don't recommend that this KFC is hygiene in cooking
+REV_01534,REV_01534_C03,4.0,Service,Positive,Aspect: Service [SEP] Smokly grill is my favorite 😊😄 service was delay because of Saturday rush that's fine
+REV_01534,REV_01534_C04,4.0,Ambience,Positive,Aspect: Ambience [SEP] Maintenance is clean ✌️
+REV_01534,REV_01534_C05,4.0,General Experience,Positive,Aspect: General Experience [SEP] Overall KFC is best and hope will visit again 👍
+REV_01554,REV_01554_C02,1.0,General Experience,Negative,Aspect: General Experience [SEP] Disappointed
+REV_01608,REV_01608_C01,4.0,Food,Positive,Aspect: Food [SEP] A really good meal at a reasonable price
+REV_01608,REV_01608_C01,4.0,Price / Value,Positive,Aspect: Price / Value [SEP] A really good meal at a reasonable price
+REV_01608,REV_01608_C02,4.0,Food,Positive,Aspect: Food [SEP] The quantity was perfect
+REV_01608,REV_01608_C07,4.0,Food,Negative,Aspect: Food [SEP] The only part in the meal that disappointed me was the shikanji
+REV_01630,REV_01630_C01,5.0,Food,Positive,"Aspect: Food [SEP] Best butter chicken i have ever had❤️ if u are looking for authentic north indian food in good price, this is the best place"
+REV_01630,REV_01630_C01,5.0,Price / Value,Positive,"Aspect: Price / Value [SEP] Best butter chicken i have ever had❤️ if u are looking for authentic north indian food in good price, this is the best place"
+REV_01655,REV_01655_C02,3.0,Ambience,Negative,"Aspect: Ambience [SEP] Ambience was good, went on a weekday, very less crowded"
+REV_01655,REV_01655_C03,3.0,General Experience,Positive,Aspect: General Experience [SEP] Ordered special veg dum pulao
+REV_01655,REV_01655_C05,3.0,Food,Positive,Aspect: Food [SEP] Masala levels were good that adds spicyness
+REV_01667,REV_01667_C01,3.0,Service,Positive,Aspect: Service [SEP] Loved the service
+REV_01667,REV_01667_C02,3.0,Ambience,Positive,"Aspect: Ambience [SEP] although their other outlet in Madhapur has more seating available, this place is going to be worth when you visit in a group of 4-5 people"
+REV_01667,REV_01667_C02,3.0,Price / Value,Positive,"Aspect: Price / Value [SEP] although their other outlet in Madhapur has more seating available, this place is going to be worth when you visit in a group of 4-5 people"
+REV_01694,REV_01694_C04,1.0,Food,Negative,Aspect: Food [SEP] The afghani chicken was bad
+REV_01694,REV_01694_C05,1.0,General Experience,Positive,Aspect: General Experience [SEP] Only the omlet in it was good
+REV_01694,REV_01694_C06,1.0,Food,Negative,Aspect: Food [SEP] Chicken pieces were horrible
+REV_01700,REV_01700_C01,4.0,Food,Neutral,"Aspect: Food [SEP] Taste is average ,quality is good ,quantity can be increased a bit as per price"
+REV_01700,REV_01700_C01,4.0,Price / Value,Neutral,"Aspect: Price / Value [SEP] Taste is average ,quality is good ,quantity can be increased a bit as per price"
+REV_01702,REV_01702_C01,5.0,Ambience,Positive,Aspect: Ambience [SEP] It’s a good restaurant and immediately deliver it and self pick up is within five minutes it’s ready to Zara hi-fi restaurant it’s a good restaurant and nice delivery good quality and maintain is this restaurant is very clean and fastest delivery to accept and et cetera et cetera
+REV_01702,REV_01702_C01,5.0,Food,Positive,Aspect: Food [SEP] It’s a good restaurant and immediately deliver it and self pick up is within five minutes it’s ready to Zara hi-fi restaurant it’s a good restaurant and nice delivery good quality and maintain is this restaurant is very clean and fastest delivery to accept and et cetera et cetera
+REV_01702,REV_01702_C01,5.0,General Experience,Positive,Aspect: General Experience [SEP] It’s a good restaurant and immediately deliver it and self pick up is within five minutes it’s ready to Zara hi-fi restaurant it’s a good restaurant and nice delivery good quality and maintain is this restaurant is very clean and fastest delivery to accept and et cetera et cetera
+REV_01702,REV_01702_C01,5.0,Service,Positive,Aspect: Service [SEP] It’s a good restaurant and immediately deliver it and self pick up is within five minutes it’s ready to Zara hi-fi restaurant it’s a good restaurant and nice delivery good quality and maintain is this restaurant is very clean and fastest delivery to accept and et cetera et cetera
+REV_01806,REV_01806_C01,4.0,Ambience,Positive,"Aspect: Ambience [SEP] It's in the other side of the SLN Terminus , out door seating is great , ambeince is good"
+REV_01806,REV_01806_C03,4.0,Food,Positive,Aspect: Food [SEP] Food was good
+REV_01806,REV_01806_C04,4.0,Price / Value,Positive,"Aspect: Price / Value [SEP] Ladies night on Thursday , worth the visit"
+REV_01932,REV_01932_C04,3.0,Price / Value,Positive,Aspect: Price / Value [SEP] It is totally worth the money spent
+REV_01932,REV_01932_C05,3.0,Food,Positive,Aspect: Food [SEP] Taste was good
+REV_01932,REV_01932_C06,3.0,Food,Positive,Aspect: Food [SEP] Chicken would have been bit tender
+REV_01932,REV_01932_C09,3.0,General Experience,Positive,Aspect: General Experience [SEP] good
+REV_01932,REV_01932_C10,3.0,Ambience,Negative,Aspect: Ambience [SEP] Ambience- bad
+REV_01952,REV_01952_C01,5.0,Food,Positive,Aspect: Food [SEP] Nice food and biriyani here is really yummieee 😍😍
+REV_02011,REV_02011_C01,5.0,Food,Positive,"Aspect: Food [SEP] Best north Indian food in Hyderabad, aloo and panner kulcha is good lassi was good Rajma rice"
+REV_02011,REV_02011_C02,5.0,Food,Positive,Aspect: Food [SEP] Sarso ka saag makki ki roti is good
+REV_02067,REV_02067_C01,1.0,General Experience,Positive,Aspect: General Experience [SEP] I am giving a bad rating not to the restaurant
+REV_02067,REV_02067_C03,1.0,Food,Positive,Aspect: Food [SEP] Everytime I order food the instructions are not properly relayed to the restaurant and I end up getting something which I can't eat(for example spicy or with onions)
+REV_02067,REV_02067_C03,1.0,Service,Positive,Aspect: Service [SEP] Everytime I order food the instructions are not properly relayed to the restaurant and I end up getting something which I can't eat(for example spicy or with onions)
+REV_02067,REV_02067_C05,1.0,Service,Negative,Aspect: Service [SEP] very bad delivery service by zomato
+REV_02093,REV_02093_C01,4.0,General Experience,Positive,Aspect: General Experience [SEP] Been to this place twice-once with friends and ordered ala carte and other with collegues for a buffet- loved both the experiences
+REV_02093,REV_02093_C02,4.0,Food,Positive,Aspect: Food [SEP] The food here is really good
+REV_02093,REV_02093_C03,4.0,Food,Positive,"Aspect: Food [SEP] Unlike others, I will start with the dessert-love their creme brule the best and followed by their baked cheesecakes"
+REV_02093,REV_02093_C04,4.0,Food,Positive,"Aspect: Food [SEP] Have tried their chickn burgers, pizzas and thai cuisine as well--i loved the burgers the best, followed by Thai curry"
+REV_02093,REV_02093_C05,4.0,General Experience,Negative,Aspect: General Experience [SEP] Buffet was less impressive than ala carte
+REV_02132,REV_02132_C03,2.0,Food,Negative,Aspect: Food [SEP] It was the worst food buffet I ever had in any above average costly restaurant
+REV_02132,REV_02132_C03,2.0,Price / Value,Negative,Aspect: Price / Value [SEP] It was the worst food buffet I ever had in any above average costly restaurant
+REV_02132,REV_02132_C04,2.0,Price / Value,Positive,Aspect: Price / Value [SEP] They charge so high for this shitty buffet
+REV_02132,REV_02132_C06,2.0,Ambience,Positive,Aspect: Ambience [SEP] Ambience- Even a local resaturant also have some areas of decoration in their restaurant
+REV_02132,REV_02132_C07,2.0,Ambience,Negative,Aspect: Ambience [SEP] they have it like a messy hall
+REV_02132,REV_02132_C08,2.0,General Experience,Negative,Aspect: General Experience [SEP] No theme no decoration
+REV_02132,REV_02132_C10,2.0,Ambience,Negative,"Aspect: Ambience [SEP] Service- No serving of starters, no serving of even water until u ask,no serving of even sauce at your table"
+REV_02132,REV_02132_C10,2.0,Food,Negative,"Aspect: Food [SEP] Service- No serving of starters, no serving of even water until u ask,no serving of even sauce at your table"
+REV_02132,REV_02132_C10,2.0,Service,Negative,"Aspect: Service [SEP] Service- No serving of starters, no serving of even water until u ask,no serving of even sauce at your table"
+REV_02132,REV_02132_C11,2.0,General Experience,Negative,Aspect: General Experience [SEP] waters think themself like heroes here
+REV_02132,REV_02132_C13,2.0,Food,Negative,Aspect: Food [SEP] Food- The worst part of it
+REV_02132,REV_02132_C14,2.0,Food,Negative,Aspect: Food [SEP] Some stale starters of chicken and fish
+REV_02132,REV_02132_C15,2.0,Food,Negative,Aspect: Food [SEP] Veg ones you cant even chew corn items as they might be few days old
+REV_02132,REV_02132_C16,2.0,Food,Neutral,Aspect: Food [SEP] One chicken starter only had some taste
+REV_02132,REV_02132_C17,2.0,General Experience,Negative,Aspect: General Experience [SEP] Main course is also pretty below average
+REV_02132,REV_02132_C18,2.0,Food,Positive,Aspect: Food [SEP] Pasta is good
+REV_02132,REV_02132_C19,2.0,Food,Negative,Aspect: Food [SEP] Pizza(so called best Hyderabadi pizza) was worse than a 50rs local shop pizza
+REV_02132,REV_02132_C21,2.0,Food,Neutral,Aspect: Food [SEP] Two juices as welcome drinks were Ok
+REV_02132,REV_02132_C22,2.0,Ambience,Positive,Aspect: Ambience [SEP] I gave two stars rating because manager politely listened to all my complaints on food ambience and all
+REV_02132,REV_02132_C22,2.0,Food,Positive,Aspect: Food [SEP] I gave two stars rating because manager politely listened to all my complaints on food ambience and all
+REV_02132,REV_02132_C22,2.0,Service,Positive,Aspect: Service [SEP] I gave two stars rating because manager politely listened to all my complaints on food ambience and all
+REV_02132,REV_02132_C23,2.0,Food,Positive,Aspect: Food [SEP] gave a delicous pudding cake to celebrate my bday
+REV_02132,REV_02132_C25,2.0,General Experience,Positive,Aspect: General Experience [SEP] They themself agreed that their lunch buffets are generally not that great we should try a la carte
+REV_02183,REV_02183_C01,5.0,General Experience,Positive,Aspect: General Experience [SEP] The best place to be if you want to see some sport screening
+REV_02183,REV_02183_C02,5.0,Ambience,Positive,Aspect: Ambience [SEP] What I really liked about the place is they have round about 42 screens and no matter where you sit you will have 5-6 screens which will be clearly visible
+REV_02183,REV_02183_C05,5.0,General Experience,Positive,Aspect: General Experience [SEP] It was really a great experience
+REV_02183,REV_02183_C07,5.0,Food,Positive,Aspect: Food [SEP] Everything was really delicious
+REV_02183,REV_02183_C08,5.0,Food,Positive,Aspect: Food [SEP] Portion were quite good for two
+REV_02183,REV_02183_C10,5.0,Price / Value,Positive,Aspect: Price / Value [SEP] worth it
+REV_02183,REV_02183_C11,5.0,Service,Positive,Aspect: Service [SEP] Service is excellent
+REV_02183,REV_02183_C12,5.0,Service,Positive,Aspect: Service [SEP] staff is very warm and friendly
+REV_02205,REV_02205_C02,1.0,Food,Positive,Aspect: Food [SEP] The wings are small in size and very shrivelled and the sauces are not that great too
+REV_02205,REV_02205_C03,1.0,Food,Negative,Aspect: Food [SEP] The Jalapeño poppers we undercooked and nachos were very bland
+REV_02205,REV_02205_C04,1.0,General Experience,Positive,Aspect: General Experience [SEP] They just have ps4 games and thats the only decent reason to spend any time there
+REV_02226,REV_02226_C01,5.0,Food,Positive,Aspect: Food [SEP] my all time favorite chicken wings (thai curry) and ultimate nachos
+REV_02226,REV_02226_C05,5.0,Service,Positive,Aspect: Service [SEP] servers are pretty friendly which everyone hopes
+REV_02287,REV_02287_C02,4.0,Food,Positive,Aspect: Food [SEP] It has all good ice cream and I ate death by chocolate in this their hot brownie and on that hot chocolate sauce was their and scooped with 3 icecreams and it is around 170rs
+REV_02287,REV_02287_C06,4.0,Food,Positive,Aspect: Food [SEP] They gave more in quantity and 3scoops were to much to me
+REV_02287,REV_02287_C07,4.0,Food,Positive,Aspect: Food [SEP] Food 5/5
+REV_02287,REV_02287_C08,4.0,Ambience,Negative,Aspect: Ambience [SEP] Ambience 2/5
+REV_02422,REV_02422_C02,5.0,Food,Positive,Aspect: Food [SEP] The food is really good
+REV_02422,REV_02422_C04,5.0,General Experience,Positive,Aspect: General Experience [SEP] it was a nice experience
+REV_02422,REV_02422_C05,5.0,Ambience,Positive,Aspect: Ambience [SEP] The view from the roof is really nice
+REV_02446,REV_02446_C01,1.0,General Experience,Negative,Aspect: General Experience [SEP] Very bad place to hang on
+REV_02446,REV_02446_C03,1.0,Price / Value,Positive,Aspect: Price / Value [SEP] They don't allow entry to stags on the dance floor also and despite of so high prices haven't given any discount even not corporate discount too
+REV_02617,REV_02617_C01,4.0,General Experience,Positive,"Aspect: General Experience [SEP] Already been to this place twice, absolutely love the rooftop"
+REV_02617,REV_02617_C03,4.0,Ambience,Positive,"Aspect: Ambience [SEP] It's really windy up there and has a great ambiance, would highly recommend for a date or for hanging out with friends"
+REV_02617,REV_02617_C03,4.0,General Experience,Positive,"Aspect: General Experience [SEP] It's really windy up there and has a great ambiance, would highly recommend for a date or for hanging out with friends"
+REV_02617,REV_02617_C04,4.0,Service,Negative,Aspect: Service [SEP] The only problem is the service is pretty slow which is probably because there isn't enough staff
+REV_02665,REV_02665_C01,5.0,Service,Positive,Aspect: Service [SEP] The service is awesome
+REV_02665,REV_02665_C04,5.0,Service,Positive,Aspect: Service [SEP] Pavan took a great care of us with his pleasent hospitality
+REV_02681,REV_02681_C01,5.0,General Experience,Positive,Aspect: General Experience [SEP] Great dining experience with my family at 3bs gochibowli
+REV_02681,REV_02681_C03,5.0,Service,Positive,Aspect: Service [SEP] Mainly service by giving and Sarah was really very nice
+REV_02717,REV_02717_C01,2.0,Price / Value,Negative,Aspect: Price / Value [SEP] Not worth it at all
+REV_02717,REV_02717_C04,2.0,Service,Negative,Aspect: Service [SEP] The service was extremely poor and slow
+REV_02717,REV_02717_C09,2.0,Food,Negative,Aspect: Food [SEP] asked for cold water
+REV_02717,REV_02717_C14,2.0,Food,Positive,Aspect: Food [SEP] The starters were extremely spicy and contained extreme amounts of garlic
+REV_02717,REV_02717_C18,2.0,General Experience,Positive,Aspect: General Experience [SEP] Mushroom wasn't good
+REV_02717,REV_02717_C19,2.0,Food,Negative,Aspect: Food [SEP] spicy and nothing less
+REV_02717,REV_02717_C21,2.0,Food,Positive,Aspect: Food [SEP] Chicken was toooo spicy
+REV_02717,REV_02717_C24,2.0,Food,Negative,Aspect: Food [SEP] was oily and under cooked
+REV_02717,REV_02717_C25,2.0,Food,Negative,Aspect: Food [SEP] Potato Cooked with its skin was again oily and totally bad
+REV_02717,REV_02717_C29,2.0,Food,Positive,Aspect: Food [SEP] Biryani tasted like a spicy pulihora
+REV_02717,REV_02717_C32,2.0,General Experience,Positive,Aspect: General Experience [SEP] Icecream was good
+REV_02717,REV_02717_C34,2.0,General Experience,Negative,Aspect: General Experience [SEP] horrible
+REV_02879,REV_02879_C04,4.0,Food,Positive,Aspect: Food [SEP] It also tasted really good and was cooked properly
+REV_02879,REV_02879_C05,4.0,Food,Positive,Aspect: Food [SEP] They had good amount of egg and chicken in both the dishes
+REV_02879,REV_02879_C06,4.0,Food,Positive,Aspect: Food [SEP] The quantity was really good and it is worth the money
+REV_02879,REV_02879_C06,4.0,Price / Value,Positive,Aspect: Price / Value [SEP] The quantity was really good and it is worth the money
+REV_02900,REV_02900_C01,3.0,General Experience,Positive,Aspect: General Experience [SEP] They are preparing good Maggi and their test of Maggi is also good
+REV_02900,REV_02900_C02,3.0,Food,Negative,"Aspect: Food [SEP] their prices are costly then other Maggi points, also the quality is good"
+REV_02900,REV_02900_C02,3.0,Price / Value,Negative,"Aspect: Price / Value [SEP] their prices are costly then other Maggi points, also the quality is good"
+REV_02911,REV_02911_C01,5.0,General Experience,Positive,Aspect: General Experience [SEP] I would highly recommend you to order Maggie at late nights
+REV_02911,REV_02911_C01,5.0,Service,Positive,Aspect: Service [SEP] I would highly recommend you to order Maggie at late nights
+REV_02911,REV_02911_C03,5.0,Food,Positive,Aspect: Food [SEP] Tasty 😋
+REV_02914,REV_02914_C01,1.0,Food,Negative,"Aspect: Food [SEP] As this Maggi point located at a demanding place, they least bothered about the food ordered online and send us the poor quality food"
+REV_02914,REV_02914_C02,1.0,Price / Value,Negative,Aspect: Price / Value [SEP] Better not to order online and do if you wanna waste your money
+REV_02914,REV_02914_C02,1.0,Service,Negative,Aspect: Service [SEP] Better not to order online and do if you wanna waste your money
+REV_02968,REV_02968_C01,3.0,General Experience,Positive,Aspect: General Experience [SEP] I had bad experience here with Masala Papad
+REV_02968,REV_02968_C07,3.0,Food,Positive,"Aspect: Food [SEP] Apart from this, rest of the food was good"
+REV_03044,REV_03044_C01,4.0,Food,Positive,"Aspect: Food [SEP] Very tasty food with reasonable price and great service ,drinks also available very nice place to spend some time to your friends and families with lavish dishes"
+REV_03044,REV_03044_C01,4.0,General Experience,Positive,"Aspect: General Experience [SEP] Very tasty food with reasonable price and great service ,drinks also available very nice place to spend some time to your friends and families with lavish dishes"
+REV_03044,REV_03044_C01,4.0,Price / Value,Positive,"Aspect: Price / Value [SEP] Very tasty food with reasonable price and great service ,drinks also available very nice place to spend some time to your friends and families with lavish dishes"
+REV_03044,REV_03044_C01,4.0,Service,Positive,"Aspect: Service [SEP] Very tasty food with reasonable price and great service ,drinks also available very nice place to spend some time to your friends and families with lavish dishes"
+REV_03108,REV_03108_C05,1.0,Service,Positive,Aspect: Service [SEP] The problem is that there are a lot of Swiggy delivery boys and they waiting outside the door to collect their parcels
+REV_03108,REV_03108_C06,1.0,General Experience,Negative,Aspect: General Experience [SEP] We felt bad sitting there
+REV_03108,REV_03108_C12,1.0,Food,Negative,Aspect: Food [SEP] : Chewy chicken coated
+REV_03108,REV_03108_C16,1.0,Food,Negative,"Aspect: Food [SEP] : fully burnt, coated with ghee to hide the bad quality"
+REV_03108,REV_03108_C18,1.0,Food,Negative,Aspect: Food [SEP] Premium Biryani: This was really bad
+REV_03108,REV_03108_C26,1.0,Food,Negative,Aspect: Food [SEP] The chicken manchuri in it was cold and the coating had fallen off
+REV_03108,REV_03108_C27,1.0,Food,Negative,Aspect: Food [SEP] You can tell that is was stale
+REV_03108,REV_03108_C31,1.0,Food,Positive,"Aspect: Food [SEP] Biryani and food items in traditional hotels like Paradise, Shah Ghouse, Mehfil, Shahdab, Bawarchi are really good"
+REV_03108,REV_03108_C32,1.0,Food,Positive,Aspect: Food [SEP] The tandoori chicken will normally be crisp on the outside and tender on the inside
+REV_03108,REV_03108_C35,1.0,General Experience,Negative,Aspect: General Experience [SEP] People will go there by the name and feel bad
+REV_03108,REV_03108_C36,1.0,Food,Positive,Aspect: Food [SEP] I feel the Pista house owners should look into quality and quantity issues
+REV_03108,REV_03108_C37,1.0,Service,Negative,Aspect: Service [SEP] This outlet is making a fast buck in the Hitech area where floating population is heavy
+REV_03133,REV_03133_C07,2.0,General Experience,Negative,Aspect: General Experience [SEP] Lot of expectations were disappointed
+REV_03157,REV_03157_C03,3.0,Food,Positive,Aspect: Food [SEP] Tastes good
+REV_03157,REV_03157_C04,3.0,Service,Positive,Aspect: Service [SEP] Deliver was quick and
+REV_03164,REV_03164_C03,5.0,Food,Positive,Aspect: Food [SEP] The food was delicious and quite easy on pockets
+REV_03164,REV_03164_C04,5.0,Ambience,Positive,"Aspect: Ambience [SEP] The place is divided into two sections, inside there is a private eating space good for families"
+REV_03164,REV_03164_C05,5.0,Food,Positive,Aspect: Food [SEP] The quality and quantity of the food was satisfying
+REV_03164,REV_03164_C06,5.0,Food,Positive,Aspect: Food [SEP] The dessert range in the bakery section was yummy and delicious
+REV_03164,REV_03164_C07,5.0,Service,Positive,Aspect: Service [SEP] The staff was friendly and super-fast
+REV_03168,REV_03168_C04,4.0,Food,Positive,Aspect: Food [SEP] The quantity of this restaurant is very nice and fulfilling
+REV_03168,REV_03168_C05,4.0,Food,Positive,Aspect: Food [SEP] This place is good for people considering less spicy option
+REV_03168,REV_03168_C09,4.0,Food,Negative,Aspect: Food [SEP] it tasted good with mint chutney otherwise quite bland
+REV_03168,REV_03168_C11,4.0,Food,Positive,Aspect: Food [SEP] I ordered special chicken curry in main course
+REV_03168,REV_03168_C13,4.0,General Experience,Positive,Aspect: General Experience [SEP] It was good not very awesome
+REV_03168,REV_03168_C14,4.0,Ambience,Positive,Aspect: Ambience [SEP] Ambience was decent
+REV_03172,REV_03172_C01,4.0,General Experience,Positive,Aspect: General Experience [SEP] I liked the place
+REV_03172,REV_03172_C04,4.0,Food,Positive,Aspect: Food [SEP] We had Mutton juicy mandi
+REV_03172,REV_03172_C05,4.0,General Experience,Positive,Aspect: General Experience [SEP] Liked it
+REV_03199,REV_03199_C02,2.0,Food,Positive,"Aspect: Food [SEP] No fresh food, all the deserts are from previous day"
+REV_03199,REV_03199_C03,2.0,Service,Positive,Aspect: Service [SEP] Service is pathetic and no friendly environment
+REV_03257,REV_03257_C01,1.0,Food,Negative,Aspect: Food [SEP] food is not good
+REV_03257,REV_03257_C02,1.0,Food,Negative,Aspect: Food [SEP] we ordered mandi it is worst and mutton is not cooked well
+REV_03257,REV_03257_C04,1.0,Food,Negative,Aspect: Food [SEP] and ordered basil chicken it is also cold and not good
+REV_03257,REV_03257_C05,1.0,General Experience,Negative,Aspect: General Experience [SEP] overall a horrible experience going there
+REV_03279,REV_03279_C01,4.0,Ambience,Positive,"Aspect: Ambience [SEP] Good place, good vibe"
+REV_03279,REV_03279_C01,4.0,General Experience,Positive,"Aspect: General Experience [SEP] Good place, good vibe"
+REV_03279,REV_03279_C04,4.0,Food,Positive,Aspect: Food [SEP] The food's good too
+REV_03287,REV_03287_C01,1.0,Service,Positive,Aspect: Service [SEP] Whole club is a friendly place for smokers which becomes a problem for people who don't smoke
+REV_03287,REV_03287_C11,1.0,Food,Negative,"Aspect: Food [SEP] I couldn't enjoy at all, came from there when it was too much for me, now i have got this itching in my throat and cold just because of all that cigarette smoke"
+REV_03333,REV_03333_C02,3.0,Ambience,Positive,Aspect: Ambience [SEP] The ambience is good ( okayish
+REV_03333,REV_03333_C05,3.0,General Experience,Positive,Aspect: General Experience [SEP] Sitting is good
+REV_03333,REV_03333_C06,3.0,Ambience,Positive,Aspect: Ambience [SEP] Dedicated Dance floor with good Hindi new and old songs to garnish upon
+REV_03333,REV_03333_C09,3.0,Price / Value,Negative,Aspect: Price / Value [SEP] Have pint prices slightly towards higher side
+REV_03408,REV_03408_C01,4.0,Ambience,Positive,Aspect: Ambience [SEP] You will love the ambience as soon as you step in
+REV_03408,REV_03408_C02,4.0,Food,Positive,Aspect: Food [SEP] Good collection of cocktails and food make this place a must visit among others in Hyderabad
+REV_03408,REV_03408_C02,4.0,General Experience,Positive,Aspect: General Experience [SEP] Good collection of cocktails and food make this place a must visit among others in Hyderabad
+REV_03408,REV_03408_C03,4.0,General Experience,Positive,Aspect: General Experience [SEP] A great romantic getaway
+REV_03412,REV_03412_C02,5.0,Ambience,Positive,Aspect: Ambience [SEP] A wonderful place to spend an evening with your family and loved ones
+REV_03412,REV_03412_C04,5.0,Service,Positive,Aspect: Service [SEP] The staff is very helpful and understanding and will help you with anything you ask them for
+REV_03412,REV_03412_C05,5.0,Price / Value,Positive,Aspect: Price / Value [SEP] The place is managed by Nithin and his courtesy and nature of serving the customer is just worth to note
+REV_03415,REV_03415_C01,4.0,Ambience,Positive,Aspect: Ambience [SEP] The place is pretty beautiful with serene ambience with a poolside sitting
+REV_03415,REV_03415_C02,4.0,Food,Positive,Aspect: Food [SEP] The food was also pretty good
+REV_03415,REV_03415_C03,4.0,Food,Negative,Aspect: Food [SEP] was disappointed with the biryani served as it wasn't hot
+REV_03415,REV_03415_C03,4.0,Service,Negative,Aspect: Service [SEP] was disappointed with the biryani served as it wasn't hot
+REV_03415,REV_03415_C05,4.0,Service,Positive,Aspect: Service [SEP] The service staff were also very friendly
+REV_03415,REV_03415_C06,4.0,General Experience,Positive,Aspect: General Experience [SEP] Would definitely recommend if you are looking for a nice and a calm dinner with the loved ones
+REV_03445,REV_03445_C01,5.0,General Experience,Positive,"Aspect: General Experience [SEP] Visited this place first time yesterday and being a rainy day can not get place next to pool,still it’s awesome place and loved it and recommended this to my office colleagues as well"
+REV_03457,REV_03457_C01,4.0,Ambience,Positive,Aspect: Ambience [SEP] The ambience is extremely beautiful and so are the service levels with the staff being healthily courteous and interactive
+REV_03457,REV_03457_C01,4.0,Service,Positive,Aspect: Service [SEP] The ambience is extremely beautiful and so are the service levels with the staff being healthily courteous and interactive
+REV_03478,REV_03478_C11,3.0,Food,Positive,Aspect: Food [SEP] Biryani was nice
+REV_03478,REV_03478_C12,3.0,Food,Positive,Aspect: Food [SEP] little spicy
+REV_03478,REV_03478_C14,3.0,Price / Value,Positive,Aspect: Price / Value [SEP] Pocket friendly
+REV_03478,REV_03478_C14,3.0,Service,Positive,Aspect: Service [SEP] Pocket friendly
+REV_03478,REV_03478_C16,3.0,Food,Positive,Aspect: Food [SEP] Food 4/5
+REV_03478,REV_03478_C17,3.0,Ambience,Negative,Aspect: Ambience [SEP] Ambience 2/5
+REV_03478,REV_03478_C18,3.0,Service,Neutral,Aspect: Service [SEP] Service 3/5
+REV_03478,REV_03478_C19,3.0,Price / Value,Positive,Aspect: Price / Value [SEP] Value for money 4/5
+REV_03503,REV_03503_C01,1.0,Food,Negative,"Aspect: Food [SEP] Taste less food,not well perpred & egg shell had mixed in food so please check once"
+REV_03503,REV_03503_C02,1.0,Food,Positive,"Aspect: Food [SEP] preparing and quality is also not nice ,this is the reason"
+REV_03528,REV_03528_C01,3.0,General Experience,Neutral,Aspect: General Experience [SEP] average
+REV_03587,REV_03587_C01,4.0,Ambience,Positive,"Aspect: Ambience [SEP] Friendly staff, delicious food, cozy place and also pocket friendly 🤟🤟"
+REV_03587,REV_03587_C01,4.0,Food,Positive,"Aspect: Food [SEP] Friendly staff, delicious food, cozy place and also pocket friendly 🤟🤟"
+REV_03587,REV_03587_C01,4.0,Price / Value,Positive,"Aspect: Price / Value [SEP] Friendly staff, delicious food, cozy place and also pocket friendly 🤟🤟"
+REV_03587,REV_03587_C01,4.0,Service,Positive,"Aspect: Service [SEP] Friendly staff, delicious food, cozy place and also pocket friendly 🤟🤟"
+REV_03587,REV_03587_C04,4.0,Food,Positive,Aspect: Food [SEP] Desserts are really yummy and should definitely give a try
+REV_03642,REV_03642_C03,1.0,General Experience,Negative,Aspect: General Experience [SEP] It is the worst thing I have ever eaten on this planet
+REV_03642,REV_03642_C04,1.0,Ambience,Negative,"Aspect: Ambience [SEP] The chicken is undercooked, The rice is giving a weird smell"
+REV_03642,REV_03642_C04,1.0,Food,Negative,"Aspect: Food [SEP] The chicken is undercooked, The rice is giving a weird smell"
+REV_03642,REV_03642_C08,1.0,Food,Negative,Aspect: Food [SEP] it's too spicy and oily
+REV_03683,REV_03683_C01,5.0,Service,Positive,Aspect: Service [SEP] delivery good
+REV_03742,REV_03742_C04,2.0,Food,Negative,Aspect: Food [SEP] The pickled carrot was stale and had fungus
+REV_03745,REV_03745_C06,2.0,Service,Negative,Aspect: Service [SEP] Felt bad for waiters also as they were fully sweating and running around
+REV_03745,REV_03745_C09,2.0,Ambience,Positive,Aspect: Ambience [SEP] We took the outside seating due to nice weather plus all the water was gushing inside and they had nothing to prevent that
+REV_03745,REV_03745_C10,2.0,Food,Positive,Aspect: Food [SEP] I liked the food here
+REV_03805,REV_03805_C02,5.0,General Experience,Positive,Aspect: General Experience [SEP] It is a best place to go
+REV_03805,REV_03805_C05,5.0,Ambience,Positive,"Aspect: Ambience [SEP] The food is amazing,Soothing music,Lovely ambience and highly recommend for continental and tandoori cuisine"
+REV_03805,REV_03805_C05,5.0,Food,Positive,"Aspect: Food [SEP] The food is amazing,Soothing music,Lovely ambience and highly recommend for continental and tandoori cuisine"
+REV_03805,REV_03805_C05,5.0,General Experience,Positive,"Aspect: General Experience [SEP] The food is amazing,Soothing music,Lovely ambience and highly recommend for continental and tandoori cuisine"
+REV_03805,REV_03805_C06,5.0,Service,Negative,Aspect: Service [SEP] Service was slow for us
+REV_03814,REV_03814_C03,2.0,Food,Negative,"Aspect: Food [SEP] First time when the dish came, it was burnt"
+REV_03814,REV_03814_C05,2.0,Food,Negative,Aspect: Food [SEP] but the taste was same like burnt
+REV_03814,REV_03814_C06,2.0,Food,Positive,Aspect: Food [SEP] The only dish we liked was cheese broccoli
+REV_03834,REV_03834_C04,5.0,Ambience,Positive,Aspect: Ambience [SEP] Sat on the corner and loved the view it looks vintage
+REV_03834,REV_03834_C05,5.0,Ambience,Positive,Aspect: Ambience [SEP] Beautiful ambience
+REV_03834,REV_03834_C06,5.0,Food,Positive,"Aspect: Food [SEP] Coming to food, ordered lemon corainder soup, nachos and fried rice which tasted good"
+REV_03863,REV_03863_C01,4.0,Food,Positive,Aspect: Food [SEP] Amazing nachos and a really good tenderloin burger
+REV_03863,REV_03863_C02,4.0,Ambience,Positive,Aspect: Ambience [SEP] The ambience is really nice and cozy
+REV_03863,REV_03863_C03,4.0,Service,Positive,Aspect: Service [SEP] Service is quick and polite
+REV_03863,REV_03863_C04,4.0,Food,Positive,Aspect: Food [SEP] Veg menu is limited and a few more starter will be great
+REV_03913,REV_03913_C01,4.0,Ambience,Positive,"Aspect: Ambience [SEP] The best part about this place was the ambiance, music was cool with very friendly staff"
+REV_03913,REV_03913_C01,4.0,Service,Positive,"Aspect: Service [SEP] The best part about this place was the ambiance, music was cool with very friendly staff"
+REV_03913,REV_03913_C03,4.0,Price / Value,Negative,Aspect: Price / Value [SEP] and not worth the amount
+REV_03913,REV_03913_C04,4.0,Food,Positive,Aspect: Food [SEP] at the same time it was really tasty
+REV_03958,REV_03958_C04,1.0,Food,Neutral,"Aspect: Food [SEP] This was ok, what wasn't was delivery of chicken"
+REV_03958,REV_03958_C04,1.0,Service,Neutral,"Aspect: Service [SEP] This was ok, what wasn't was delivery of chicken"
+REV_04028,REV_04028_C01,5.0,Food,Positive,Aspect: Food [SEP] Loved this bakery for its amazing variety of biscuits cookies n variety of pastry plus there tit bits
+REV_04028,REV_04028_C03,5.0,Price / Value,Positive,Aspect: Price / Value [SEP] USP of the chain is its reasonable pricing
+REV_04028,REV_04028_C04,5.0,Price / Value,Positive,Aspect: Price / Value [SEP] So affordable that I was surprised that how we are paying so much in Bangalore in any decent bakery
+REV_04028,REV_04028_C05,5.0,General Experience,Positive,Aspect: General Experience [SEP] must visit in case u r in Hyderabad
+REV_04034,REV_04034_C06,1.0,Service,Positive,Aspect: Service [SEP] In not less than 5 mins the cue extended till 5 people waiting for the billing
+REV_04124,REV_04124_C01,4.0,Ambience,Positive,"Aspect: Ambience [SEP] Looking for a nice evening Chai and something to go with it , this can be one really good option"
+REV_04124,REV_04124_C02,4.0,Food,Positive,Aspect: Food [SEP] Located in Gachibowli just off the main raod it's a nice small cafe
+REV_04124,REV_04124_C09,4.0,General Experience,Positive,Aspect: General Experience [SEP] good
+REV_04124,REV_04124_C14,4.0,General Experience,Positive,Aspect: General Experience [SEP] Overall a nice place can be visited at leasure
+REV_04124,REV_04124_C16,4.0,Food,Positive,Aspect: Food [SEP] Food 4.5
+REV_04124,REV_04124_C17,4.0,Ambience,Positive,Aspect: Ambience [SEP] Ambiance 4
+REV_04124,REV_04124_C18,4.0,Price / Value,Positive,Aspect: Price / Value [SEP] Value for money 4
+REV_04140,REV_04140_C03,5.0,Ambience,Positive,Aspect: Ambience [SEP] Excellent place ambience and tasty food
+REV_04140,REV_04140_C03,5.0,Food,Positive,Aspect: Food [SEP] Excellent place ambience and tasty food
+REV_04140,REV_04140_C04,5.0,Food,Positive,Aspect: Food [SEP] Their rolls are yummy and keem pav is a must try dish
+REV_04192,REV_04192_C01,4.0,Food,Positive,Aspect: Food [SEP] delicious
+REV_04200,REV_04200_C01,5.0,Food,Positive,Aspect: Food [SEP] Rice bowls and shawarmas are very good
+REV_04200,REV_04200_C02,5.0,Food,Positive,Aspect: Food [SEP] and tasty i had a chicken sabbha shawarama and iron monster rice bowl it had very tastey
+REV_04200,REV_04200_C03,5.0,Food,Positive,Aspect: Food [SEP] Nice restaurant amazing rice bowls delicious food
+REV_04222,REV_04222_C02,5.0,Food,Positive,Aspect: Food [SEP] waffle was very tasty and shawarma i loved it
+REV_04227,REV_04227_C01,4.0,Food,Positive,Aspect: Food [SEP] A good place to have value for money food
+REV_04227,REV_04227_C01,4.0,General Experience,Positive,Aspect: General Experience [SEP] A good place to have value for money food
+REV_04227,REV_04227_C01,4.0,Price / Value,Positive,Aspect: Price / Value [SEP] A good place to have value for money food
+REV_04227,REV_04227_C02,4.0,Ambience,Positive,"Aspect: Ambience [SEP] the staff is quick to respond and polite , what I didn't like was the hygiene as some kind of foul smell was in the restaurant also the lights are not up to the mark which needs to be improved and the temperature inside was kind of hot even in winter"
+REV_04227,REV_04227_C02,4.0,Service,Positive,"Aspect: Service [SEP] the staff is quick to respond and polite , what I didn't like was the hygiene as some kind of foul smell was in the restaurant also the lights are not up to the mark which needs to be improved and the temperature inside was kind of hot even in winter"
+REV_04227,REV_04227_C03,4.0,Food,Positive,"Aspect: Food [SEP] When it comes to food it is very good with good cost and tasty , we had desi shawarma , Peri Peri and chilli garlic shawarma regular size , all of them were really tasty , their other options are also a must try"
+REV_04227,REV_04227_C03,4.0,Price / Value,Positive,"Aspect: Price / Value [SEP] When it comes to food it is very good with good cost and tasty , we had desi shawarma , Peri Peri and chilli garlic shawarma regular size , all of them were really tasty , their other options are also a must try"
+REV_04278,REV_04278_C01,1.0,Food,Negative,Aspect: Food [SEP] food was cool and waste of money late delivary
+REV_04278,REV_04278_C01,1.0,Price / Value,Negative,Aspect: Price / Value [SEP] food was cool and waste of money late delivary
+REV_04326,REV_04326_C01,3.0,Food,Positive,Aspect: Food [SEP] The foods are awesome
+REV_04338,REV_04338_C19,1.0,Price / Value,Positive,Aspect: Price / Value [SEP] they didnt even had courtesy to make it up to their 3 huge mistakes back to back by any discounts which they could do LEAST
+REV_04343,REV_04343_C05,4.0,Food,Positive,Aspect: Food [SEP] for main course we ordered punjabi kukkad n garlic naan n that was delicious too
+REV_04343,REV_04343_C09,4.0,General Experience,Positive,Aspect: General Experience [SEP] seevice was great as well
+REV_04360,REV_04360_C01,4.0,Ambience,Positive,"Aspect: Ambience [SEP] went to this place for lunch buffet its quit busy, its small place with good ambiance and food"
+REV_04360,REV_04360_C01,4.0,Food,Positive,"Aspect: Food [SEP] went to this place for lunch buffet its quit busy, its small place with good ambiance and food"
+REV_04360,REV_04360_C03,4.0,Service,Positive,Aspect: Service [SEP] service 4/5
+REV_04360,REV_04360_C04,4.0,Ambience,Positive,Aspect: Ambience [SEP] Ambiance 4/5
+REV_04360,REV_04360_C05,4.0,Service,Positive,Aspect: Service [SEP] service 4/5
+REV_04399,REV_04399_C02,1.0,General Experience,Negative,Aspect: General Experience [SEP] The worst ever experience which I have ever faced
+REV_04564,REV_04564_C01,4.0,Ambience,Positive,Aspect: Ambience [SEP] Been there with the hype by waiting for 30 mins nearly for the table meanwhile looking at the authentic theme on a Sunday for lunch and management finally provided us a table and we have ordered few items in which ulavacharu biryani is yummy
+REV_04564,REV_04564_C01,4.0,Food,Positive,Aspect: Food [SEP] Been there with the hype by waiting for 30 mins nearly for the table meanwhile looking at the authentic theme on a Sunday for lunch and management finally provided us a table and we have ordered few items in which ulavacharu biryani is yummy
+REV_04564,REV_04564_C01,4.0,Service,Positive,Aspect: Service [SEP] Been there with the hype by waiting for 30 mins nearly for the table meanwhile looking at the authentic theme on a Sunday for lunch and management finally provided us a table and we have ordered few items in which ulavacharu biryani is yummy
+REV_04568,REV_04568_C02,3.0,Food,Positive,Aspect: Food [SEP] the food was yummy yummy I say
+REV_04568,REV_04568_C04,3.0,General Experience,Positive,Aspect: General Experience [SEP] It was nice
+REV_04568,REV_04568_C06,3.0,General Experience,Negative,"Aspect: General Experience [SEP] Coming to ragi sankati , it has disappointed me a bit"
+REV_04568,REV_04568_C07,3.0,Food,Positive,Aspect: Food [SEP] I expected it to be more tasty
+REV_04568,REV_04568_C08,3.0,General Experience,Negative,Aspect: General Experience [SEP] it was not bad
+REV_04568,REV_04568_C09,3.0,Food,Positive,Aspect: Food [SEP] Over all you can enjoy there with yummy food
+REV_04577,REV_04577_C01,2.0,Ambience,Positive,Aspect: Ambience [SEP] The moment you enter the restaurant the ambience is good
+REV_04577,REV_04577_C02,2.0,General Experience,Positive,Aspect: General Experience [SEP] We ordered Godavari royalla vepudu that was good
+REV_04577,REV_04577_C03,2.0,Food,Positive,Aspect: Food [SEP] Then we ordered Gadwal kodi pulao was ok their sambar rice was so sour more of citrus taste that was not at all acceptable
+REV_04583,REV_04583_C02,3.0,Food,Positive,"Aspect: Food [SEP] Food was so delicious, only if you like Chinese flavor, else don't visit"
+REV_04583,REV_04583_C04,3.0,Price / Value,Positive,Aspect: Price / Value [SEP] Different kind of soups and dimsums are available at reasonable prices
+REV_04583,REV_04583_C05,3.0,General Experience,Positive,Aspect: General Experience [SEP] Great place to hangout
+REV_04610,REV_04610_C03,1.0,Ambience,Negative,Aspect: Ambience [SEP] Dirty kitchen
+REV_04610,REV_04610_C04,1.0,Service,Negative,Aspect: Service [SEP] Horrible Staff and worst Manager
+REV_04655,REV_04655_C03,5.0,Ambience,Positive,"Aspect: Ambience [SEP] However, good food was also a priority to us, also being rainy season street food is a little matter of concern for hygiene"
+REV_04655,REV_04655_C03,5.0,Food,Positive,"Aspect: Food [SEP] However, good food was also a priority to us, also being rainy season street food is a little matter of concern for hygiene"
+REV_04655,REV_04655_C06,5.0,Ambience,Positive,"Aspect: Ambience [SEP] The restaurant has very cozy ambiance with simple decor, comfortable seating and dim lighting"
+REV_04655,REV_04655_C07,5.0,Ambience,Positive,Aspect: Ambience [SEP] So neat and clean that it was hard to believe when suhail Bhai told us that it's a 10 years old restaurant and his first one
+REV_04655,REV_04655_C09,5.0,Food,Negative,Aspect: Food [SEP] We started off with TOM KHA GHAI SOUP : Actually this was a great choice being succha cold weather outside and we being so tired
+REV_04655,REV_04655_C10,5.0,Food,Negative,Aspect: Food [SEP] The garlic and bamboo stick flavours could actually help our bad throat and the coconut flavoured soup with loads of fresh veggies and big chunks of chiken we're so refreshing
+REV_04655,REV_04655_C12,5.0,Food,Positive,"Aspect: Food [SEP] **Must try** and BAR B Q CHIKEN : this was perfect combination with the rice, lil sweet, spicy and flavoursome chiken cooked semi wet.**Must try**"
+REV_04655,REV_04655_C13,5.0,Food,Positive,Aspect: Food [SEP] Mix sea food soft noodles and mix sea food rice were amazing too
+REV_04655,REV_04655_C14,5.0,Food,Positive,Aspect: Food [SEP] Burmese khow sue was one amazing dish too ❤️❤️❤️
+REV_04655,REV_04655_C18,5.0,Food,Positive,"Aspect: Food [SEP] Oh my god, this is one AmaZing dish that I have tasted in recent times and if tell you about quantity, one take away of this is sufficient for three people"
+REV_04655,REV_04655_C19,5.0,Food,Positive,"Aspect: Food [SEP] Flat noodles cooked with garlic, fresh herbs, prawns and fish, with mushroom and sweet sauce"
+REV_04655,REV_04655_C20,5.0,Food,Positive,Aspect: Food [SEP] Also fresh red chilli
+REV_04655,REV_04655_C22,5.0,Food,Positive,Aspect: Food [SEP] Quantity of food served here is unbelievable
+REV_04655,REV_04655_C22,5.0,Service,Positive,Aspect: Service [SEP] Quantity of food served here is unbelievable
+REV_04655,REV_04655_C23,5.0,Food,Positive,Aspect: Food [SEP] For the taste and quantity and quality the VFM factor is best in the town
+REV_04655,REV_04655_C25,5.0,Service,Positive,Aspect: Service [SEP] Staff is very friendly and Aditya was great at service
+REV_04655,REV_04655_C27,5.0,General Experience,Positive,Aspect: General Experience [SEP] It was great meeting you
+REV_04697,REV_04697_C01,4.0,Food,Positive,"Aspect: Food [SEP] Good food, loved the south Indian dishes over here plus the ordering system is good"
+REV_04697,REV_04697_C04,4.0,General Experience,Positive,Aspect: General Experience [SEP] Overall nice experience
+REV_04876,REV_04876_C02,2.0,Ambience,Positive,"Aspect: Ambience [SEP] This place is at prime location , easily accessible and has good ambience"
+REV_04876,REV_04876_C04,2.0,Food,Negative,Aspect: Food [SEP] Both of them were under cooked and were not worth it
+REV_04876,REV_04876_C04,2.0,Price / Value,Negative,Aspect: Price / Value [SEP] Both of them were under cooked and were not worth it
+REV_04876,REV_04876_C05,2.0,General Experience,Negative,Aspect: General Experience [SEP] Main course was not good either
+REV_04901,REV_04901_C01,3.0,General Experience,Positive,Aspect: General Experience [SEP] not too good
+REV_05022,REV_05022_C01,5.0,Food,Negative,Aspect: Food [SEP] less quantity no chicken
+REV_05062,REV_05062_C01,3.0,Food,Positive,Aspect: Food [SEP] It is low spicy and good food
+REV_05062,REV_05062_C03,3.0,Food,Positive,Aspect: Food [SEP] Having a light dinner this place is good
+REV_05062,REV_05062_C04,3.0,Food,Positive,Aspect: Food [SEP] Food is good
+REV_05102,REV_05102_C05,4.0,Food,Positive,"Aspect: Food [SEP] Medium spicy, soft boneless starter"
+REV_05102,REV_05102_C06,4.0,Food,Positive,Aspect: Food [SEP] Paneer Tikka: Smoky soft paneer
+REV_05102,REV_05102_C07,4.0,Food,Positive,Aspect: Food [SEP] Ulvachuru Biryani: Yummy
+REV_05102,REV_05102_C08,4.0,Food,Positive,Aspect: Food [SEP] Rice along with some red colored gravy gave it a nice juicy touch
+REV_05102,REV_05102_C12,4.0,Service,Positive,Aspect: Service [SEP] Quick service and courteous staff
+REV_05155,REV_05155_C01,5.0,Food,Positive,"Aspect: Food [SEP] It was random plan to visit this place and turned out to be great, we ordered chicken biryani boneless had some different name i forgot"
+REV_05155,REV_05155_C03,5.0,Food,Positive,"Aspect: Food [SEP] Also we ordered paneer starter which was good too, loved the place"
+REV_05155,REV_05155_C03,5.0,General Experience,Positive,"Aspect: General Experience [SEP] Also we ordered paneer starter which was good too, loved the place"
+REV_05155,REV_05155_C04,5.0,Service,Negative,Aspect: Service [SEP] service was little slow
+REV_05165,REV_05165_C03,5.0,Food,Positive,Aspect: Food [SEP] Great food good starters timely service made the day
+REV_05165,REV_05165_C03,5.0,Service,Positive,Aspect: Service [SEP] Great food good starters timely service made the day
+REV_05165,REV_05165_C07,5.0,Food,Positive,Aspect: Food [SEP] Food 5/5
+REV_05165,REV_05165_C11,5.0,General Experience,Positive,Aspect: General Experience [SEP] Definitely I recommend this place to my friends
+REV_05169,REV_05169_C09,1.0,General Experience,Negative,Aspect: General Experience [SEP] I will never recommend this restaurant
+REV_05187,REV_05187_C01,4.0,Ambience,Positive,Aspect: Ambience [SEP] This place has the calm atmosphere and absolutely tasty food in a royal ambience
+REV_05187,REV_05187_C01,4.0,Food,Positive,Aspect: Food [SEP] This place has the calm atmosphere and absolutely tasty food in a royal ambience
+REV_05187,REV_05187_C02,4.0,Food,Positive,Aspect: Food [SEP] The staff is friendly and suggestive of their good dishes
+REV_05187,REV_05187_C02,4.0,Service,Positive,Aspect: Service [SEP] The staff is friendly and suggestive of their good dishes
+REV_05219,REV_05219_C05,1.0,Food,Negative,Aspect: Food [SEP] The butter chicken had gone stale and smelt pungent
+REV_05243,REV_05243_C01,4.0,Food,Positive,Aspect: Food [SEP] Meal box are value for money
+REV_05243,REV_05243_C01,4.0,Price / Value,Positive,Aspect: Price / Value [SEP] Meal box are value for money
+REV_05243,REV_05243_C02,4.0,Food,Positive,Aspect: Food [SEP] The tossed noodles are soft and much healthier than fried and chicken quality is also good
+REV_05243,REV_05243_C03,4.0,Food,Positive,Aspect: Food [SEP] The only con is that chicken is not spicy even after selecting the spicy option
+REV_05243,REV_05243_C04,4.0,Food,Positive,Aspect: Food [SEP] Overall taste is good
+REV_05265,REV_05265_C03,4.0,Food,Positive,Aspect: Food [SEP] I ordered Gobi Manchurian with Tossed Noodles & Veg Hot and Sour Soup
+REV_05265,REV_05265_C05,4.0,Food,Positive,Aspect: Food [SEP] The soup was spiced fine and was delicious to order again
+REV_05265,REV_05265_C05,4.0,Service,Positive,Aspect: Service [SEP] The soup was spiced fine and was delicious to order again
+REV_05265,REV_05265_C08,4.0,General Experience,Positive,"Aspect: General Experience [SEP] While everything seemed and tasted good, Gobi Manchurian missed the spot"
+REV_05355,REV_05355_C01,5.0,Food,Positive,Aspect: Food [SEP] My all time favorite for bakery items and pizza
+REV_05384,REV_05384_C01,5.0,Food,Positive,Aspect: Food [SEP] Superb quality
+REV_05384,REV_05384_C03,5.0,Food,Positive,"Aspect: Food [SEP] can customise their dishes, fresh bakery and healthy salad items just makes the best place for any kind of outing"
+REV_05386,REV_05386_C05,4.0,General Experience,Positive,Aspect: General Experience [SEP] Too good to have
+REV_05453,REV_05453_C01,5.0,Ambience,Positive,Aspect: Ambience [SEP] Location: It has a prime location being located in the heart of Financial District beside the huge ICICI Towers
+REV_05465,REV_05465_C01,5.0,General Experience,Positive,Aspect: General Experience [SEP] Nice place for Breakfast
+REV_05465,REV_05465_C04,5.0,Service,Positive,Aspect: Service [SEP] Waiters and staff are very helpful
+REV_05469,REV_05469_C02,4.0,Ambience,Positive,Aspect: Ambience [SEP] the ambience is amazing
+REV_05469,REV_05469_C05,4.0,Ambience,Positive,"Aspect: Ambience [SEP] While the building is not impressive from the outside, the set up is pretty good"
+REV_05469,REV_05469_C07,4.0,General Experience,Positive,Aspect: General Experience [SEP] Especially the desserts were amazing and are definitely the highlight of the buffet
+REV_05469,REV_05469_C10,4.0,Food,Positive,Aspect: Food [SEP] The staff was cordial and quite helpful when we needed cutlery or help with a dish
+REV_05469,REV_05469_C10,4.0,Service,Positive,Aspect: Service [SEP] The staff was cordial and quite helpful when we needed cutlery or help with a dish
+REV_05469,REV_05469_C11,4.0,General Experience,Positive,"Aspect: General Experience [SEP] Overall, definitely worth a visit"
+REV_05469,REV_05469_C11,4.0,Price / Value,Positive,"Aspect: Price / Value [SEP] Overall, definitely worth a visit"
+REV_05593,REV_05593_C01,3.0,Food,Positive,Aspect: Food [SEP] Loved the food
+REV_05605,REV_05605_C01,5.0,General Experience,Positive,Aspect: General Experience [SEP] good tast
+REV_05611,REV_05611_C01,2.0,Food,Negative,Aspect: Food [SEP] dal was really bad and Chinese veg Manchurian was actually pieces taken out from gravy
+REV_05634,REV_05634_C01,2.0,Food,Positive,Aspect: Food [SEP] not that great taste it quality id say
+REV_05651,REV_05651_C01,5.0,Ambience,Positive,Aspect: Ambience [SEP] Its a cozy place in gachibowli with the most awesome variety of milkshake and thickshakes
+REV_05651,REV_05651_C04,5.0,General Experience,Positive,Aspect: General Experience [SEP] The poppy corn was a nice change of pace
+REV_05651,REV_05651_C05,5.0,Food,Positive,Aspect: Food [SEP] The cookie caramel flavoured were my personal favorite
+REV_05651,REV_05651_C06,5.0,General Experience,Positive,Aspect: General Experience [SEP] Highly recommend this place to everyone
+REV_05665,REV_05665_C02,4.0,Food,Positive,Aspect: Food [SEP] It was really thick and the taste was amazing
+REV_05665,REV_05665_C03,4.0,General Experience,Positive,Aspect: General Experience [SEP] Keep up the good work
+REV_05665,REV_05665_C06,4.0,General Experience,Positive,Aspect: General Experience [SEP] Great shakes nevertheless
+REV_05680,REV_05680_C01,1.0,Food,Negative,Aspect: Food [SEP] extremely bad quality
+REV_05697,REV_05697_C01,5.0,Service,Positive,Aspect: Service [SEP] delivery man was good
+REV_05708,REV_05708_C02,4.0,Ambience,Positive,Aspect: Ambience [SEP] It has got a nice decor and the seating was very comfortable and relaxed
+REV_05708,REV_05708_C05,4.0,General Experience,Positive,Aspect: General Experience [SEP] Both the shakes were really nice and thick
+REV_05708,REV_05708_C07,4.0,Food,Positive,Aspect: Food [SEP] On my second visit to this place I tried it's Go Guava Shake [Rs.145] and it is my favorite
+REV_05708,REV_05708_C08,4.0,Food,Positive,Aspect: Food [SEP] It tasted awesome with plenty of ice cream blended with guava and topped with Guava crush
+REV_05785,REV_05785_C01,3.5,Food,Positive,Aspect: Food [SEP] chocolate truffle is great here
+REV_05806,REV_05806_C02,3.5,Food,Positive,Aspect: Food [SEP] The burger was nice with an overload of cheese
+REV_05806,REV_05806_C03,3.5,General Experience,Positive,Aspect: General Experience [SEP] Really liked the packaging
+REV_05806,REV_05806_C04,3.5,Food,Positive,Aspect: Food [SEP] Egg puff was also tasty
+REV_05806,REV_05806_C05,3.5,Food,Positive,Aspect: Food [SEP] A decent bakery with some good food and affordable prices
+REV_05806,REV_05806_C05,3.5,Price / Value,Positive,Aspect: Price / Value [SEP] A decent bakery with some good food and affordable prices
+REV_05882,REV_05882_C03,4.0,Food,Positive,"Aspect: Food [SEP] Preferred drinking a full bottle than sipping on shots along side ordered for Corn kernels, Chic Lollipop, Malai Broccoli as accompaniment to the alcohol and all were indeed severed on time, tasted good too"
+REV_05943,REV_05943_C01,4.0,Ambience,Positive,Aspect: Ambience [SEP] Only place in Hyderabad with really good music to party
+REV_05943,REV_05943_C02,4.0,Ambience,Positive,Aspect: Ambience [SEP] They have got huge dance floor with all the perfect light effects
+REV_05943,REV_05943_C03,4.0,Ambience,Positive,Aspect: Ambience [SEP] Awesome crowd as well
+REV_05948,REV_05948_C01,3.0,Ambience,Positive,Aspect: Ambience [SEP] Prism is touted to be the owner of a huge club space
+REV_05948,REV_05948_C10,3.0,Ambience,Positive,"Aspect: Ambience [SEP] A huge velvety door opens into this big sized covered arena (for a lack of better word), that tell you that it can never get overcrowded on the dance floor"
+REV_05948,REV_05948_C21,3.0,General Experience,Positive,Aspect: General Experience [SEP] and did a decent enough job
+REV_05948,REV_05948_C25,3.0,Food,Negative,"Aspect: Food [SEP] 🔹Burmese Roll with sweet chilli dip: A bit too oily, they were okay to munch on"
+REV_05948,REV_05948_C26,3.0,General Experience,Positive,Aspect: General Experience [SEP] They could have done with a bit more filling
+REV_05948,REV_05948_C34,3.0,Food,Positive,Aspect: Food [SEP] 🔹Prism Special Veggie Lover Pizza🌟: The dish that fared best with me
+REV_05948,REV_05948_C35,3.0,Food,Positive,Aspect: Food [SEP] It was thin crust and had a good amount of cheese
+REV_05948,REV_05948_C36,3.0,Price / Value,Negative,"Aspect: Price / Value [SEP] For the price, it may seem a bit costly"
+REV_05948,REV_05948_C37,3.0,Food,Positive,"Aspect: Food [SEP] but quite worth it, as compared to other dishes"
+REV_05948,REV_05948_C37,3.0,Price / Value,Positive,"Aspect: Price / Value [SEP] but quite worth it, as compared to other dishes"
+REV_05948,REV_05948_C39,3.0,General Experience,Positive,Aspect: General Experience [SEP] This was also decent
+REV_05948,REV_05948_C40,3.0,Food,Negative,"Aspect: Food [SEP] 🔹Penne Alfredo: This was just regular, nothing good or bad"
+REV_05948,REV_05948_C42,3.0,General Experience,Positive,Aspect: General Experience [SEP] I didn't find the Indian mains anything great
+REV_05948,REV_05948_C44,3.0,Food,Negative,Aspect: Food [SEP] The dessert was another downer
+REV_05948,REV_05948_C48,3.0,General Experience,Negative,Aspect: General Experience [SEP] but it wasn't great either
+REV_05948,REV_05948_C49,3.0,General Experience,Negative,Aspect: General Experience [SEP] Lacked the comfort of a regular oreo shake
+REV_05948,REV_05948_C50,3.0,Ambience,Positive,"Aspect: Ambience [SEP] If you are looking for a party place, that has a happening setup, good crowd and amazing ambience, this is your best bet"
+REV_05948,REV_05948_C52,3.0,Price / Value,Positive,Aspect: Price / Value [SEP] They would give you the best value for money
+REV_05948,REV_05948_C53,3.0,Price / Value,Negative,Aspect: Price / Value [SEP] The alcohol is also a little pricey
+REV_05960,REV_05960_C02,5.0,Ambience,Positive,"Aspect: Ambience [SEP] food is so good ,huge place is available for corporate parties ,dance floor is lit with all the music and bass,very good friendly staff"
+REV_05960,REV_05960_C02,5.0,Food,Positive,"Aspect: Food [SEP] food is so good ,huge place is available for corporate parties ,dance floor is lit with all the music and bass,very good friendly staff"
+REV_05960,REV_05960_C02,5.0,Service,Positive,"Aspect: Service [SEP] food is so good ,huge place is available for corporate parties ,dance floor is lit with all the music and bass,very good friendly staff"
+REV_05994,REV_05994_C01,1.0,General Experience,Negative,"Aspect: General Experience [SEP] Worst Place , first of all it is in outskirts"
+REV_06090,REV_06090_C01,4.0,Food,Positive,Aspect: Food [SEP] The Santosh Dhaba is one of the reliable place for north Indian food
+REV_06090,REV_06090_C02,4.0,Food,Negative,Aspect: Food [SEP] The food here is somewhat oily
+REV_06090,REV_06090_C03,4.0,Food,Positive,Aspect: Food [SEP] it tastes delicious
+REV_06090,REV_06090_C04,4.0,General Experience,Positive,Aspect: General Experience [SEP] Should visit it once
+REV_06100,REV_06100_C01,2.0,Price / Value,Positive,Aspect: Price / Value [SEP] offers are not good
+REV_06123,REV_06123_C01,5.0,Food,Positive,"Aspect: Food [SEP] We tried chicken hot n sour soup, chilli garlic chicken,singapore fish as starters and chicken fried rice with Schezwan chicken"
+REV_06123,REV_06123_C02,5.0,Food,Positive,Aspect: Food [SEP] Food was very delicious
+REV_06123,REV_06123_C03,5.0,Ambience,Positive,Aspect: Ambience [SEP] Good Ambience
+REV_06123,REV_06123_C04,5.0,Service,Positive,Aspect: Service [SEP] Nice staff
+REV_06123,REV_06123_C05,5.0,General Experience,Positive,Aspect: General Experience [SEP] I highly recommend this Restaurant
+REV_06135,REV_06135_C01,5.0,Food,Positive,Aspect: Food [SEP] Good quality sea food
+REV_06135,REV_06135_C02,5.0,Food,Positive,Aspect: Food [SEP] I love mixed pan fried noodles the most
+REV_06135,REV_06135_C03,5.0,Food,Positive,Aspect: Food [SEP] Too healthy food and the quantity is also good
+REV_06135,REV_06135_C04,5.0,General Experience,Positive,Aspect: General Experience [SEP] I feel dine o China as the best Chinese restaurant available here
+REV_06151,REV_06151_C05,5.0,Service,Positive,Aspect: Service [SEP] Service was also really good
+REV_06201,REV_06201_C01,1.0,Food,Negative,Aspect: Food [SEP] I ordered veg soft noodles and garlic burnt fried rice and both are undercooked
+REV_06201,REV_06201_C02,1.0,General Experience,Negative,Aspect: General Experience [SEP] Disappointed
+REV_06203,REV_06203_C01,5.0,Food,Positive,Aspect: Food [SEP] Perfect Hyderabadi spicy biryani we can find here
+REV_06203,REV_06203_C03,5.0,Food,Positive,Aspect: Food [SEP] curd rice jus yummy 😍
+REV_06208,REV_06208_C01,4.0,Food,Positive,Aspect: Food [SEP] I love to eat biryani in Hyderabad Chefs
+REV_06208,REV_06208_C02,4.0,Food,Positive,Aspect: Food [SEP] Food is very tasty with effortable price
+REV_06208,REV_06208_C02,4.0,Price / Value,Positive,Aspect: Price / Value [SEP] Food is very tasty with effortable price
+REV_06212,REV_06212_C01,1.0,Service,Negative,Aspect: Service [SEP] Worst service
+REV_06212,REV_06212_C02,1.0,Food,Negative,Aspect: Food [SEP] the food is pathetic
+REV_06212,REV_06212_C03,1.0,Food,Negative,Aspect: Food [SEP] Biryani is not at all hot and the chicken is stored one which smells very bad
+REV_06212,REV_06212_C06,1.0,Food,Negative,Aspect: Food [SEP] Food-1/5
+REV_06212,REV_06212_C08,1.0,Ambience,Negative,Aspect: Ambience [SEP] Ambiance-2/5
+REV_06267,REV_06267_C01,5.0,General Experience,Positive,Aspect: General Experience [SEP] Good as Always
+REV_06310,REV_06310_C05,5.0,Service,Positive,Aspect: Service [SEP] The bartender sonu was always ready to give good customer service with nice smilimg face
+REV_06310,REV_06310_C07,5.0,Service,Positive,Aspect: Service [SEP] the staff also very courteous
+REV_06310,REV_06310_C09,5.0,General Experience,Positive,Aspect: General Experience [SEP] Really you people are awesome
+REV_06377,REV_06377_C01,4.0,Food,Positive,Aspect: Food [SEP] Food :4/5
+REV_06377,REV_06377_C03,4.0,Ambience,Positive,Aspect: Ambience [SEP] Ambience :3.5/5
+REV_06377,REV_06377_C04,4.0,General Experience,Positive,Aspect: General Experience [SEP] Their happy hours are good
+REV_06377,REV_06377_C06,4.0,Food,Positive,Aspect: Food [SEP] Food is really good
+REV_06377,REV_06377_C07,4.0,Food,Positive,Aspect: Food [SEP] Drinks are also good
+REV_06407,REV_06407_C06,1.0,Food,Negative,Aspect: Food [SEP] the food was terrible
+REV_06512,REV_06512_C03,3.0,Food,Positive,"Aspect: Food [SEP] We were three people and ordered Sheesh Tawook starter & Chicken BBQ Mandi, overall good experience"
+REV_06512,REV_06512_C03,3.0,General Experience,Positive,"Aspect: General Experience [SEP] We were three people and ordered Sheesh Tawook starter & Chicken BBQ Mandi, overall good experience"
+REV_06512,REV_06512_C04,3.0,Food,Neutral,Aspect: Food [SEP] Food 3/5
+REV_06512,REV_06512_C05,3.0,Service,Positive,Aspect: Service [SEP] Service 4/5
+REV_06512,REV_06512_C06,3.0,Ambience,Positive,Aspect: Ambience [SEP] Ambiance 3.5/5
+REV_06534,REV_06534_C02,3.0,Ambience,Positive,Aspect: Ambience [SEP] They have different varieties of Mandi and the restro is designed very well with eye catching Ambience.🐪🐫🐪🐫
+REV_06534,REV_06534_C03,3.0,Food,Positive,Aspect: Food [SEP] Taste is quite different from other places of Hyderabad where we enjoy Biryani
+REV_06534,REV_06534_C04,3.0,Food,Positive,"Aspect: Food [SEP] But yes, The Biryani tasted equally good.😊😊😊"
+REV_06534,REV_06534_C05,3.0,Food,Positive,Aspect: Food [SEP] For my surprise Veg Biryani is served with French Fries and some patties which tasted good as well
+REV_06534,REV_06534_C05,3.0,Service,Positive,Aspect: Service [SEP] For my surprise Veg Biryani is served with French Fries and some patties which tasted good as well
+REV_06534,REV_06534_C06,3.0,Food,Positive,Aspect: Food [SEP] Food -4/5
+REV_06534,REV_06534_C09,3.0,Price / Value,Positive,Aspect: Price / Value [SEP] Value for money
+REV_06534,REV_06534_C11,3.0,Service,Positive,Aspect: Service [SEP] Service -4/5
+REV_06534,REV_06534_C12,3.0,General Experience,Positive,Aspect: General Experience [SEP] Thank you for a different experience
+REV_06534,REV_06534_C13,3.0,General Experience,Positive,Aspect: General Experience [SEP] MUST TRY PLACE
+REV_06537,REV_06537_C01,5.0,General Experience,Positive,Aspect: General Experience [SEP] This yum yum tree is peaceful and nice
+REV_06537,REV_06537_C02,5.0,Food,Positive,Aspect: Food [SEP] the food is really yummy 😋 the guy there called Sonu
+REV_06598,REV_06598_C03,3.0,Service,Positive,"Aspect: Service [SEP] Service-(4/5) They were good, they knew their job well"
+REV_06598,REV_06598_C04,3.0,Ambience,Positive,"Aspect: Ambience [SEP] Ambience-(3.5/5) It was good, could have been more eye catchy"
+REV_06598,REV_06598_C06,3.0,General Experience,Positive,"Aspect: General Experience [SEP] The singer sang very good songs, had the mood up"
+REV_06656,REV_06656_C02,5.0,Food,Positive,Aspect: Food [SEP] food was indeed a surprise factor and was really tasty with some quick service
+REV_06656,REV_06656_C02,5.0,Service,Positive,Aspect: Service [SEP] food was indeed a surprise factor and was really tasty with some quick service
+REV_06656,REV_06656_C04,5.0,Food,Positive,Aspect: Food [SEP] Food:5/5
+REV_06656,REV_06656_C05,5.0,Ambience,Positive,Aspect: Ambience [SEP] Ambience:5/5
+REV_06656,REV_06656_C06,5.0,Service,Positive,Aspect: Service [SEP] Service:5/5
+REV_06683,REV_06683_C02,5.0,Food,Positive,Aspect: Food [SEP] Food tasts good
+REV_06683,REV_06683_C04,5.0,Ambience,Positive,Aspect: Ambience [SEP] good ambience
+REV_06683,REV_06683_C06,5.0,Food,Positive,Aspect: Food [SEP] Good for team lunch with friends and family
+REV_06711,REV_06711_C03,5.0,Ambience,Positive,"Aspect: Ambience [SEP] food was very good , restaurants ambience is also nice"
+REV_06711,REV_06711_C03,5.0,Food,Positive,"Aspect: Food [SEP] food was very good , restaurants ambience is also nice"
+REV_06713,REV_06713_C01,5.0,Food,Positive,Aspect: Food [SEP] Food is really good
+REV_06713,REV_06713_C02,5.0,Service,Positive,"Aspect: Service [SEP] service is also awesome by Raza, Ritam and Ashraf"
+REV_06713,REV_06713_C03,5.0,Service,Positive,Aspect: Service [SEP] The staff is very polite
+REV_06713,REV_06713_C04,5.0,General Experience,Positive,Aspect: General Experience [SEP] This seems like a great place to be with friends and family
+REV_06735,REV_06735_C02,5.0,Service,Positive,Aspect: Service [SEP] service is really good
+REV_06735,REV_06735_C03,5.0,Service,Positive,Aspect: Service [SEP] Raza and subenthu are friendly staff
+REV_06735,REV_06735_C04,5.0,Food,Positive,Aspect: Food [SEP] Veg and non veg both are good including desert food
+REV_06769,REV_06769_C03,4.0,Ambience,Positive,Aspect: Ambience [SEP] Set up in ground and first floors has a decent ambience
+REV_06769,REV_06769_C07,4.0,Food,Positive,Aspect: Food [SEP] Welcomed by the friendly staff we have been served first with their welcome drink
+REV_06769,REV_06769_C07,4.0,Service,Positive,Aspect: Service [SEP] Welcomed by the friendly staff we have been served first with their welcome drink
+REV_06769,REV_06769_C09,4.0,Food,Positive,Aspect: Food [SEP] Fish and prawns tasted great
+REV_06769,REV_06769_C14,4.0,Food,Positive,Aspect: Food [SEP] Fresh minced mutton made into soft kebabs tasted amazing
+REV_06769,REV_06769_C16,4.0,Food,Positive,Aspect: Food [SEP] slow cooked and prepared in such a way that the flesh comes off easily tasted amazing
+REV_06769,REV_06769_C18,4.0,General Experience,Positive,Aspect: General Experience [SEP] their main course spread is huge too
+REV_06769,REV_06769_C23,4.0,Food,Positive,Aspect: Food [SEP] Strawberry pudding and phirni tasted good too
+REV_06771,REV_06771_C07,5.0,Food,Positive,Aspect: Food [SEP] The Real Bangkok Basa- It tastes so good
+REV_06771,REV_06771_C14,5.0,Food,Negative,"Aspect: Food [SEP] Service 4/5, little bit slow in bringing food"
+REV_06771,REV_06771_C14,5.0,Service,Negative,"Aspect: Service [SEP] Service 4/5, little bit slow in bringing food"
+REV_06771,REV_06771_C15,5.0,Ambience,Positive,Aspect: Ambience [SEP] Ambiance 4/5
+REV_06775,REV_06775_C02,5.0,Service,Positive,Aspect: Service [SEP] The waiters were so polite
+REV_06775,REV_06775_C03,5.0,Ambience,Positive,Aspect: Ambience [SEP] The best thing in this place is that it's calm and quiet
+REV_06775,REV_06775_C04,5.0,Food,Positive,Aspect: Food [SEP] It's a good place to relax and enjoy great food
+REV_06775,REV_06775_C04,5.0,General Experience,Positive,Aspect: General Experience [SEP] It's a good place to relax and enjoy great food
+REV_06797,REV_06797_C01,4.0,General Experience,Positive,"Aspect: General Experience [SEP] Amazing place with historical collection , collected from Rajasthan"
+REV_06797,REV_06797_C02,4.0,Food,Positive,Aspect: Food [SEP] Staff are so cooperative and Goody Foody is so so so tasty
+REV_06797,REV_06797_C02,4.0,Service,Positive,Aspect: Service [SEP] Staff are so cooperative and Goody Foody is so so so tasty
+REV_06813,REV_06813_C01,3.0,Food,Positive,Aspect: Food [SEP] Great food
+REV_06813,REV_06813_C03,3.0,Food,Positive,Aspect: Food [SEP] Starters were good as well
+REV_06813,REV_06813_C04,3.0,Service,Negative,Aspect: Service [SEP] Service by the attendants was poor
+REV_06813,REV_06813_C05,3.0,Service,Negative,Aspect: Service [SEP] Delayed orders after multiple follow ups
+REV_06813,REV_06813_C06,3.0,Ambience,Positive,Aspect: Ambience [SEP] Great ambience
+REV_06813,REV_06813_C07,3.0,Ambience,Neutral,Aspect: Ambience [SEP] Mild music
+REV_06813,REV_06813_C08,3.0,Ambience,Neutral,Aspect: Ambience [SEP] Mild air conditioning
+REV_06813,REV_06813_C09,3.0,Ambience,Positive,Aspect: Ambience [SEP] Very clean
+REV_06813,REV_06813_C11,3.0,General Experience,Positive,Aspect: General Experience [SEP] Wasabi needs to be more like the real wasabi
+REV_06813,REV_06813_C14,3.0,General Experience,Positive,Aspect: General Experience [SEP] And you had to ask for the wasabi as well
+REV_06813,REV_06813_C16,3.0,General Experience,Positive,Aspect: General Experience [SEP] Good to go there once in a while
+REV_06819,REV_06819_C01,5.0,Ambience,Positive,"Aspect: Ambience [SEP] delicious food for best price,good ambiance and awesome serving"
+REV_06819,REV_06819_C01,5.0,Food,Positive,"Aspect: Food [SEP] delicious food for best price,good ambiance and awesome serving"
+REV_06819,REV_06819_C01,5.0,Price / Value,Positive,"Aspect: Price / Value [SEP] delicious food for best price,good ambiance and awesome serving"
+REV_06819,REV_06819_C02,5.0,General Experience,Positive,Aspect: General Experience [SEP] Had good time here
+REV_06819,REV_06819_C03,5.0,Ambience,Neutral,Aspect: Ambience [SEP] this restaurant is a combination of good food and appearance with mild music
+REV_06819,REV_06819_C03,5.0,Food,Neutral,Aspect: Food [SEP] this restaurant is a combination of good food and appearance with mild music
+REV_06860,REV_06860_C06,4.0,Food,Positive,Aspect: Food [SEP] All of the items were delicious and the quantity for one plate is good enough for 3 ppl serving
+REV_06860,REV_06860_C07,4.0,Food,Positive,Aspect: Food [SEP] The prawns were fresh and tasty
+REV_06860,REV_06860_C08,4.0,Food,Positive,Aspect: Food [SEP] I loved the fried ice cream ( a must try if u visit this place)
+REV_06860,REV_06860_C09,4.0,General Experience,Positive,Aspect: General Experience [SEP] I would like to visit again
+REV_06875,REV_06875_C01,4.0,Ambience,Positive,Aspect: Ambience [SEP] Nice ambiance and is a treat for people to watch and enjoy
+REV_06875,REV_06875_C02,4.0,Price / Value,Negative,Aspect: Price / Value [SEP] It’s on little expensive side
+REV_07018,REV_07018_C02,5.0,Food,Positive,Aspect: Food [SEP] Loved the Coco Vanilla cake
+REV_07018,REV_07018_C03,5.0,Service,Positive,Aspect: Service [SEP] This place is so classy/ The guy on tills is very decent and friendly
+REV_07055,REV_07055_C03,4.5,Ambience,Positive,"Aspect: Ambience [SEP] Red velvet brownies are really great and something different, that not every place offers"
+REV_07055,REV_07055_C04,4.5,General Experience,Positive,"Aspect: General Experience [SEP] The packaging makes for a great gift, so give it a go"
+REV_07055,REV_07055_C06,4.5,Food,Positive,Aspect: Food [SEP] superb in terms of taste no doubt
+REV_07114,REV_07114_C01,4.0,General Experience,Positive,Aspect: General Experience [SEP] Love this place from the word go
+REV_07114,REV_07114_C06,4.0,Ambience,Positive,Aspect: Ambience [SEP] I visited this place on a bright Sunday morning and just fell in love with the place as I got a seat right next to muscular triumph
+REV_07114,REV_07114_C07,4.0,General Experience,Positive,"Aspect: General Experience [SEP] They have great collection of cars and bikes, which even one can hire on rent"
+REV_07114,REV_07114_C08,4.0,Food,Positive,"Aspect: Food [SEP] I ordered hazelnut coffee, paneer kulcha and my friend ordered some dry fruits crispy sweet croissant along with coffee"
+REV_07114,REV_07114_C09,4.0,Food,Positive,Aspect: Food [SEP] Paneer kulcha was too good and coffee was just fine
+REV_07147,REV_07147_C04,4.0,Food,Positive,"Aspect: Food [SEP] Shakes are very good, my personal favorite being black currant"
+REV_07147,REV_07147_C05,4.0,Food,Positive,Aspect: Food [SEP] n the brownie is also super yummy
+REV_07147,REV_07147_C06,4.0,Ambience,Positive,Aspect: Ambience [SEP] The main attraction would always be the awesome interiors which this place offers
+REV_07174,REV_07174_C01,1.0,General Experience,Negative,Aspect: General Experience [SEP] Worst experience with Faasos
+REV_07192,REV_07192_C01,2.0,General Experience,Positive,Aspect: General Experience [SEP] Was super excited to try out the special Navratri Thali from Faasos
+REV_07192,REV_07192_C04,2.0,Food,Positive,"Aspect: Food [SEP] Honestly, my excitement dropped down after tasting the parathas, as they were too greasy"
+REV_07192,REV_07192_C06,2.0,Food,Positive,Aspect: Food [SEP] What I liked about the thali was that it had more than enough food for 1 person
+REV_07192,REV_07192_C08,2.0,Food,Positive,Aspect: Food [SEP] I have very high expectations from Fassos and am sure they will take this feedback well and improve on the quality of parathas
+REV_07214,REV_07214_C01,4.0,Food,Positive,Aspect: Food [SEP] food was good
+REV_07328,REV_07328_C01,1.0,General Experience,Negative,Aspect: General Experience [SEP] Worst packing
+REV_07394,REV_07394_C02,4.0,General Experience,Positive,Aspect: General Experience [SEP] Loved the old school charm and new age tech enablement
+REV_07394,REV_07394_C06,4.0,Food,Positive,Aspect: Food [SEP] Masala omelette was good
+REV_07394,REV_07394_C07,4.0,Food,Positive,Aspect: Food [SEP] Breads of the sandwich were fresh and crisp
+REV_07394,REV_07394_C08,4.0,General Experience,Positive,Aspect: General Experience [SEP] Loved it
+REV_07428,REV_07428_C05,4.0,Food,Negative,Aspect: Food [SEP] Starting with veg white pasta and ending with a good cup of cold coffee
+REV_07456,REV_07456_C03,5.0,General Experience,Positive,Aspect: General Experience [SEP] It was amazing
+REV_07456,REV_07456_C10,5.0,Food,Positive,Aspect: Food [SEP] The birthday party was a huge hit with guests raving about the food
+REV_07456,REV_07456_C13,5.0,General Experience,Positive,Aspect: General Experience [SEP] Bajjis were very hot and good
+REV_07456,REV_07456_C20,5.0,Food,Positive,Aspect: Food [SEP] Dal was very tasty without onions and garlic
+REV_07456,REV_07456_C22,5.0,Food,Positive,Aspect: Food [SEP] One of my relatives commented that he ate such great spread after 10 years in a restaurant
+REV_07456,REV_07456_C24,5.0,Food,Positive,Aspect: Food [SEP] I strongly recommend lime for those who want great vegetarian food at best price
+REV_07456,REV_07456_C24,5.0,General Experience,Positive,Aspect: General Experience [SEP] I strongly recommend lime for those who want great vegetarian food at best price
+REV_07456,REV_07456_C24,5.0,Price / Value,Positive,Aspect: Price / Value [SEP] I strongly recommend lime for those who want great vegetarian food at best price
+REV_07494,REV_07494_C01,4.0,Ambience,Positive,Aspect: Ambience [SEP] Nice ambience for having buffet lunch
+REV_07494,REV_07494_C02,4.0,Food,Positive,"Aspect: Food [SEP] quick, hot and tasty servings"
+REV_07494,REV_07494_C02,4.0,Service,Positive,"Aspect: Service [SEP] quick, hot and tasty servings"
+REV_07530,REV_07530_C01,4.0,Food,Positive,Aspect: Food [SEP] Food was good and sufficient in quantity
+REV_07621,REV_07621_C01,4.0,Ambience,Positive,Aspect: Ambience [SEP] First of all the ambiance is lite and soft
+REV_07621,REV_07621_C03,4.0,Service,Positive,Aspect: Service [SEP] The service was good
+REV_07621,REV_07621_C04,4.0,Food,Positive,Aspect: Food [SEP] the food is good too
+REV_07621,REV_07621_C05,4.0,Food,Positive,Aspect: Food [SEP] The starters were really amazing
+REV_07621,REV_07621_C06,4.0,General Experience,Positive,Aspect: General Experience [SEP] Looking forward to visit again
+REV_07648,REV_07648_C01,4.0,Food,Positive,Aspect: Food [SEP] Good lunch and buffet menu
+REV_07648,REV_07648_C02,4.0,General Experience,Positive,Aspect: General Experience [SEP] Loved this place
+REV_07648,REV_07648_C05,4.0,Food,Positive,Aspect: Food [SEP] Food:4/5
+REV_07648,REV_07648_C06,4.0,Ambience,Neutral,Aspect: Ambience [SEP] Ambience: 3/5
+REV_07648,REV_07648_C07,4.0,Service,Positive,Aspect: Service [SEP] Service:4/5
+REV_07666,REV_07666_C02,3.0,Food,Positive,Aspect: Food [SEP] I loved the food from this place and this is the reason I ended up ordering from here multiple times
+REV_07666,REV_07666_C11,3.0,Food,Negative,Aspect: Food [SEP] I would still want to rate the food a 4 even after my bad exp with Biryani & Pualo
+REV_07679,REV_07679_C02,4.0,Food,Positive,Aspect: Food [SEP] The quantity was ample and taste was also good
+REV_07765,REV_07765_C02,3.0,General Experience,Positive,Aspect: General Experience [SEP] Packaging was nice
+REV_07765,REV_07765_C03,3.0,Food,Positive,Aspect: Food [SEP] But taste was not great
+REV_07765,REV_07765_C04,3.0,General Experience,Neutral,Aspect: General Experience [SEP] Okayish
+REV_07765,REV_07765_C05,3.0,Food,Positive,Aspect: Food [SEP] Butter masala was more sweet than spicy
+REV_07765,REV_07765_C06,3.0,Price / Value,Positive,Aspect: Price / Value [SEP] Pocket friendly
+REV_07765,REV_07765_C06,3.0,Service,Positive,Aspect: Service [SEP] Pocket friendly
+REV_07765,REV_07765_C07,3.0,General Experience,Neutral,Aspect: General Experience [SEP] definitely can be better
+REV_07777,REV_07777_C01,5.0,Service,Positive,Aspect: Service [SEP] The staff was very polite
+REV_07777,REV_07777_C03,5.0,General Experience,Positive,Aspect: General Experience [SEP] With no hesitation I would love to visit this place n number of times
+REV_07841,REV_07841_C05,1.0,Service,Negative,Aspect: Service [SEP] Service too slow
+REV_07871,REV_07871_C01,1.0,General Experience,Negative,Aspect: General Experience [SEP] all Nana were burnt
+REV_07894,REV_07894_C01,1.0,Food,Negative,Aspect: Food [SEP] Very poor quality food and service
+REV_07894,REV_07894_C01,1.0,Service,Negative,Aspect: Service [SEP] Very poor quality food and service
+REV_07970,REV_07970_C01,4.0,Food,Positive,Aspect: Food [SEP] good delivery and taste also
+REV_07970,REV_07970_C01,4.0,Service,Positive,Aspect: Service [SEP] good delivery and taste also
+REV_08018,REV_08018_C03,5.0,General Experience,Positive,Aspect: General Experience [SEP] Awesome must try cheers
+REV_08022,REV_08022_C02,3.0,Food,Positive,"Aspect: Food [SEP] No doubt, the burger was very juicy and tasty"
+REV_08028,REV_08028_C01,3.0,Food,Positive,"Aspect: Food [SEP] Have been hearing a lot about this amazing burger place opposite to DLF, what an amazing join with live grill and freshly made burgers, loved the friendly staff and a uniquely named menu"
+REV_08028,REV_08028_C01,3.0,Service,Positive,"Aspect: Service [SEP] Have been hearing a lot about this amazing burger place opposite to DLF, what an amazing join with live grill and freshly made burgers, loved the friendly staff and a uniquely named menu"
+REV_08028,REV_08028_C02,3.0,Food,Positive,"Aspect: Food [SEP] ordered Galaxy and milky way burger which were amazing and cooked to perfection, the charcoal grill gives the burger a unique BBQ taste with chunky chicken pieces in it"
+REV_08028,REV_08028_C03,3.0,Ambience,Positive,"Aspect: Ambience [SEP] On rush hours the service time can go lengthy, limit parking space the shop shares a juice center which is a plus point to grab some quick fresh juice or soft drink to go with your burger"
+REV_08028,REV_08028_C03,3.0,Food,Positive,"Aspect: Food [SEP] On rush hours the service time can go lengthy, limit parking space the shop shares a juice center which is a plus point to grab some quick fresh juice or soft drink to go with your burger"
+REV_08028,REV_08028_C03,3.0,Service,Positive,"Aspect: Service [SEP] On rush hours the service time can go lengthy, limit parking space the shop shares a juice center which is a plus point to grab some quick fresh juice or soft drink to go with your burger"
+REV_08028,REV_08028_C07,3.0,General Experience,Positive,Aspect: General Experience [SEP] and definitely it's a worth visiting place
+REV_08028,REV_08028_C07,3.0,Price / Value,Positive,Aspect: Price / Value [SEP] and definitely it's a worth visiting place
+REV_08030,REV_08030_C03,5.0,Food,Positive,Aspect: Food [SEP] this place serves the best burger
+REV_08030,REV_08030_C04,5.0,Food,Positive,Aspect: Food [SEP] The charcoal grilled chicken with cheese is very delicious
+REV_08121,REV_08121_C01,5.0,Food,Positive,Aspect: Food [SEP] The food is amazing good value for money
+REV_08121,REV_08121_C01,5.0,Price / Value,Positive,Aspect: Price / Value [SEP] The food is amazing good value for money
+REV_08121,REV_08121_C02,5.0,Ambience,Positive,"Aspect: Ambience [SEP] ambiance is beautiful, a good place to hangout, a must visit restaurant, a perfect place for friends and family"
+REV_08121,REV_08121_C02,5.0,General Experience,Positive,"Aspect: General Experience [SEP] ambiance is beautiful, a good place to hangout, a must visit restaurant, a perfect place for friends and family"
+REV_08129,REV_08129_C02,3.0,Ambience,Positive,Aspect: Ambience [SEP] The ambience is different one and very nice place to hangout with friends
+REV_08129,REV_08129_C02,3.0,General Experience,Positive,Aspect: General Experience [SEP] The ambience is different one and very nice place to hangout with friends
+REV_08129,REV_08129_C04,3.0,Food,Positive,"Aspect: Food [SEP] if you are a spicy food lover ,then this will disappoint you"
+REV_08159,REV_08159_C02,3.0,Service,Positive,Aspect: Service [SEP] Service is good
+REV_08181,REV_08181_C01,4.0,Ambience,Positive,Aspect: Ambience [SEP] A decent place to get away from the crowded restaurants
+REV_08181,REV_08181_C06,4.0,Food,Positive,Aspect: Food [SEP] the taste was good
+REV_08181,REV_08181_C07,4.0,Food,Positive,Aspect: Food [SEP] portion size ok
+REV_08181,REV_08181_C08,4.0,Food,Negative,Aspect: Food [SEP] Food is expensive relatively
+REV_08181,REV_08181_C08,4.0,Price / Value,Negative,Aspect: Price / Value [SEP] Food is expensive relatively
+REV_08229,REV_08229_C02,5.0,Food,Positive,Aspect: Food [SEP] We usually order kurkure momos its super tasty can give 5 stars for tht
+REV_08229,REV_08229_C02,5.0,Service,Positive,Aspect: Service [SEP] We usually order kurkure momos its super tasty can give 5 stars for tht
+REV_08262,REV_08262_C01,5.0,Food,Positive,Aspect: Food [SEP] Got delicious streamed veg momoz :)
+REV_08267,REV_08267_C01,4.0,General Experience,Positive,Aspect: General Experience [SEP] I loved it
+REV_08267,REV_08267_C03,4.0,Food,Negative,Aspect: Food [SEP] giving it rating of 4 as sauce and mayo quantity was very less
+REV_08311,REV_08311_C01,5.0,General Experience,Positive,Aspect: General Experience [SEP] The chocolate excess cake was awesome
+REV_08311,REV_08311_C04,5.0,Food,Positive,Aspect: Food [SEP] It isn't bitter in taste
+REV_08311,REV_08311_C05,5.0,Food,Positive,Aspect: Food [SEP] The cake was moist and juicy
+REV_08311,REV_08311_C06,5.0,Ambience,Positive,Aspect: Ambience [SEP] The ambience of this place is good
+REV_08311,REV_08311_C07,5.0,General Experience,Positive,Aspect: General Experience [SEP] Nice place to hangout with friends
+REV_08313,REV_08313_C03,2.0,Food,Negative,Aspect: Food [SEP] Both tasted bland and I couldnt quite get the crispyness of oreo and flavour of the KitKat
+REV_08351,REV_08351_C01,4.0,General Experience,Positive,Aspect: General Experience [SEP] This is one old good place to have deserts since years
+REV_08357,REV_08357_C02,2.0,Food,Negative,"Aspect: Food [SEP] Poor quality, the coffee already had sugar"
+REV_08357,REV_08357_C05,2.0,General Experience,Positive,Aspect: General Experience [SEP] Might not come again
+REV_08412,REV_08412_C02,4.0,Food,Positive,"Aspect: Food [SEP] Located in a buzy spot, this joint has definitely some good food to offer"
+REV_08412,REV_08412_C06,4.0,Food,Positive,Aspect: Food [SEP] Fried Chicken burger had a tender and juicy patty served along some good french fries
+REV_08412,REV_08412_C06,4.0,Service,Positive,Aspect: Service [SEP] Fried Chicken burger had a tender and juicy patty served along some good french fries
+REV_08412,REV_08412_C07,4.0,Food,Negative,Aspect: Food [SEP] Chicken popcorn were a major disappointment and the raw material used didn't look fresh
+REV_08412,REV_08412_C08,4.0,Food,Positive,Aspect: Food [SEP] Chicken drumsticks gave nice visual as well as taste appeal
+REV_08412,REV_08412_C12,4.0,Food,Positive,Aspect: Food [SEP] While food here is decent
+REV_08441,REV_08441_C02,5.0,Food,Positive,Aspect: Food [SEP] So good that we are getting food delivered deliciously
+REV_08441,REV_08441_C03,5.0,Food,Positive,Aspect: Food [SEP] We have found good packing and even burgers is taste is awsome
+REV_08443,REV_08443_C01,5.0,Ambience,Positive,Aspect: Ambience [SEP] very nice place to visit with a good ambiance
+REV_08443,REV_08443_C01,5.0,General Experience,Positive,Aspect: General Experience [SEP] very nice place to visit with a good ambiance
+REV_08443,REV_08443_C02,5.0,Food,Positive,Aspect: Food [SEP] the food is very tasty
+REV_08443,REV_08443_C03,5.0,Service,Positive,Aspect: Service [SEP] the staff is also very much friendly
+REV_08458,REV_08458_C01,1.0,Food,Negative,Aspect: Food [SEP] The wings were very bad in taste and please rather than packing the cold drinks its better to give Cans
+REV_08458,REV_08458_C02,1.0,Food,Negative,Aspect: Food [SEP] The cold drink was not packed well and all the drink fell down
+REV_08478,REV_08478_C03,4.0,Ambience,Positive,Aspect: Ambience [SEP] Ambience was good enough for families
+REV_08478,REV_08478_C04,4.0,Service,Positive,Aspect: Service [SEP] Service was good and polite
+REV_08502,REV_08502_C01,1.0,Food,Negative,Aspect: Food [SEP] The pizzas were delivered to me after 2 hours of placing the order and they were cold
+REV_08502,REV_08502_C01,1.0,Service,Negative,Aspect: Service [SEP] The pizzas were delivered to me after 2 hours of placing the order and they were cold
+REV_08502,REV_08502_C03,1.0,Food,Negative,"Aspect: Food [SEP] Needless to say, I wasn't even reimbursed for the late delivery and cold pizzas"
+REV_08502,REV_08502_C03,1.0,Service,Negative,"Aspect: Service [SEP] Needless to say, I wasn't even reimbursed for the late delivery and cold pizzas"
+REV_08585,REV_08585_C01,1.0,General Experience,Negative,Aspect: General Experience [SEP] worst shawarma ever
+REV_08625,REV_08625_C02,5.0,Service,Positive,Aspect: Service [SEP] hot served amazing
+REV_08645,REV_08645_C01,1.0,General Experience,Negative,Aspect: General Experience [SEP] horrible shawarma
+REV_08659,REV_08659_C01,4.0,General Experience,Positive,Aspect: General Experience [SEP] Located in midst of SLN terminus this place is a sports bar where you can enjoy a chilled beer along with a good match screening
+REV_08659,REV_08659_C02,4.0,Food,Negative,Aspect: Food [SEP] The service is a bit slow also the food is mediocre
+REV_08659,REV_08659_C02,4.0,Service,Negative,Aspect: Service [SEP] The service is a bit slow also the food is mediocre
+REV_08659,REV_08659_C03,4.0,Ambience,Positive,Aspect: Ambience [SEP] The ambience is good
+REV_08659,REV_08659_C04,4.0,Service,Positive,Aspect: Service [SEP] The manager is good who took feedback and there in ensured everything was up to mark
+REV_08659,REV_08659_C05,4.0,Food,Positive,Aspect: Food [SEP] Fish Tikka and crispy corn are good and goes well along with a good drink
+REV_08663,REV_08663_C01,5.0,Ambience,Positive,Aspect: Ambience [SEP] It was beautiful ambience and view are awsome
+REV_08663,REV_08663_C02,5.0,General Experience,Positive,Aspect: General Experience [SEP] Nice Place to hangout with friends
+REV_08663,REV_08663_C03,5.0,General Experience,Positive,Aspect: General Experience [SEP] Best Place to visit again
+REV_08663,REV_08663_C04,5.0,Service,Positive,Aspect: Service [SEP] Nice service start was polite i love the Place i will back soon again
+REV_08669,REV_08669_C01,5.0,General Experience,Positive,Aspect: General Experience [SEP] Amazing place
+REV_08669,REV_08669_C02,5.0,Ambience,Positive,Aspect: Ambience [SEP] It has a beautiful ambience and the view from the restaurant is just eye catchy
+REV_08669,REV_08669_C04,5.0,Food,Positive,Aspect: Food [SEP] The food and drinks are amazing
+REV_08669,REV_08669_C06,5.0,General Experience,Positive,Aspect: General Experience [SEP] Must visit place
+REV_08725,REV_08725_C05,2.0,Price / Value,Positive,"Aspect: Price / Value [SEP] Was it worth it, lets find out"
+REV_08725,REV_08725_C13,2.0,Ambience,Positive,Aspect: Ambience [SEP] The place has a cozy feeling and good vibes
+REV_08725,REV_08725_C14,2.0,General Experience,Positive,Aspect: General Experience [SEP] Liked it
+REV_08725,REV_08725_C18,2.0,General Experience,Negative,Aspect: General Experience [SEP] Pathetic
+REV_08725,REV_08725_C34,2.0,General Experience,Negative,Aspect: General Experience [SEP] The virgin mojito was pathetic
+REV_08725,REV_08725_C36,2.0,General Experience,Positive,Aspect: General Experience [SEP] The Pinacoladas were really good
+REV_08725,REV_08725_C39,2.0,Food,Negative,Aspect: Food [SEP] Well the service and food really disappointed
+REV_08725,REV_08725_C39,2.0,Service,Negative,Aspect: Service [SEP] Well the service and food really disappointed
+REV_08725,REV_08725_C42,2.0,Price / Value,Positive,Aspect: Price / Value [SEP] Value for Money
+REV_08725,REV_08725_C44,2.0,Food,Positive,Aspect: Food [SEP] High pricing along with lousy service and strictly average food never go hand in hand
+REV_08725,REV_08725_C44,2.0,Price / Value,Positive,Aspect: Price / Value [SEP] High pricing along with lousy service and strictly average food never go hand in hand
+REV_08725,REV_08725_C44,2.0,Service,Positive,Aspect: Service [SEP] High pricing along with lousy service and strictly average food never go hand in hand
+REV_08725,REV_08725_C51,2.0,General Experience,Positive,Aspect: General Experience [SEP] This place has all the potential to be nice a sports bar
+REV_08766,REV_08766_C02,3.0,General Experience,Positive,Aspect: General Experience [SEP] It was a mixed experience because they had things we loved
+REV_08766,REV_08766_C04,3.0,Service,Positive,"Aspect: Service [SEP] Service was really good, one of the best"
+REV_08766,REV_08766_C06,3.0,Service,Positive,Aspect: Service [SEP] Salim and staff really did a great job to host us
+REV_08766,REV_08766_C09,3.0,Ambience,Negative,"Aspect: Ambience [SEP] Floor was dirty (as you can see in some pics), chairs were dirty, even the water bottle was dirty"
+REV_08766,REV_08766_C11,3.0,Food,Negative,Aspect: Food [SEP] just bland
+REV_08766,REV_08766_C12,3.0,Ambience,Positive,Aspect: Ambience [SEP] If you want to go and have a good time and to enjoy the atmosphere this is a NO NO
+REV_08766,REV_08766_C13,3.0,Food,Positive,Aspect: Food [SEP] Food was on the good side
+REV_08766,REV_08766_C14,3.0,Food,Positive,Aspect: Food [SEP] It had good spread and some really good items as fish in butter sauce or polenta with mushroom ragou
+REV_08766,REV_08766_C15,3.0,Food,Neutral,Aspect: Food [SEP] Starters were average as desserts
+REV_08766,REV_08766_C16,3.0,Food,Positive,Aspect: Food [SEP] The best part on desserts was the fresh made waffles
+REV_08766,REV_08766_C18,3.0,Food,Positive,Aspect: Food [SEP] With some small exceptions has nothing special on menu
+REV_08766,REV_08766_C19,3.0,Food,Negative,Aspect: Food [SEP] not bad on taste
+REV_08766,REV_08766_C20,3.0,Price / Value,Negative,Aspect: Price / Value [SEP] When it comes to the price for the buffet I think is too expensive
+REV_08766,REV_08766_C22,3.0,Price / Value,Negative,Aspect: Price / Value [SEP] at full price definitely not worth it
+REV_08766,REV_08766_C23,3.0,Food,Neutral,Aspect: Food [SEP] Food 3/5
+REV_08766,REV_08766_C24,3.0,Ambience,Negative,Aspect: Ambience [SEP] Ambiance 2/5
+REV_08766,REV_08766_C25,3.0,Service,Positive,Aspect: Service [SEP] Service 5/5
+REV_08766,REV_08766_C26,3.0,Price / Value,Positive,Aspect: Price / Value [SEP] Value 3/5
+REV_08775,REV_08775_C01,1.0,Food,Negative,Aspect: Food [SEP] One of the most pathetic and tasteless food i ever had
+REV_08775,REV_08775_C07,1.0,Food,Negative,"Aspect: Food [SEP] First of all , all the menu in the buffet were cold, i felt like i am eating a day before's food"
+REV_08775,REV_08775_C08,1.0,Food,Positive,Aspect: Food [SEP] Not at all fresh
+REV_08775,REV_08775_C10,1.0,Food,Negative,"Aspect: Food [SEP] but when it comes to taste, disappointed"
+REV_08775,REV_08775_C11,1.0,Price / Value,Negative,Aspect: Price / Value [SEP] It was completely waste of money
+REV_08775,REV_08775_C12,1.0,Service,Positive,Aspect: Service [SEP] Services and hospitality was somewhat good
+REV_08806,REV_08806_C01,5.0,Ambience,Positive,Aspect: Ambience [SEP] Indeed a great ambience with tremendous choice of dishes
+REV_08806,REV_08806_C01,5.0,Food,Positive,Aspect: Food [SEP] Indeed a great ambience with tremendous choice of dishes
+REV_08806,REV_08806_C05,5.0,Ambience,Positive,Aspect: Ambience [SEP] Feels good when these people are around
+REV_08806,REV_08806_C07,5.0,General Experience,Positive,Aspect: General Experience [SEP] Good job folks
+REV_08832,REV_08832_C01,1.0,Food,Positive,Aspect: Food [SEP] Food is not at all good
+REV_08832,REV_08832_C02,1.0,Ambience,Negative,"Aspect: Ambience [SEP] and the staff is not professional, parking floors are worst"
+REV_08832,REV_08832_C02,1.0,Service,Negative,"Aspect: Service [SEP] and the staff is not professional, parking floors are worst"
+REV_08836,REV_08836_C01,3.5,General Experience,Positive,Aspect: General Experience [SEP] The place is amazing
+REV_08836,REV_08836_C02,3.5,Food,Positive,Aspect: Food [SEP] The food is of huge variety
+REV_08836,REV_08836_C03,3.5,Ambience,Positive,Aspect: Ambience [SEP] The view and cleanliness are appreciated
+REV_08888,REV_08888_C02,5.0,Food,Positive,Aspect: Food [SEP] soup salads Chinese were too good
+REV_08942,REV_08942_C03,1.5,General Experience,Negative,Aspect: General Experience [SEP] Truly disappointed to see the brunch at this level
+REV_08942,REV_08942_C04,1.5,Food,Negative,Aspect: Food [SEP] Very less options of non-veg on the buffet both in Indian & western
+REV_09048,REV_09048_C02,1.0,Food,Negative,Aspect: Food [SEP] it was not fresh and no taste
+REV_09048,REV_09048_C04,1.0,Food,Negative,Aspect: Food [SEP] It was not baked properly and taste was not good
+REV_09054,REV_09054_C01,1.0,Ambience,Negative,"Aspect: Ambience [SEP] I been to this place on a Saturday morning to have a 🍩, I was really disappointed with the service, in the first place the air conditioning was not working, I still compromised to have the donuts, after having the donuts the staff was not able to give me the bill saying that billing machine is not working, I had to pay the parking fee for my car, since I was not having the bill"
+REV_09054,REV_09054_C01,1.0,Price / Value,Negative,"Aspect: Price / Value [SEP] I been to this place on a Saturday morning to have a 🍩, I was really disappointed with the service, in the first place the air conditioning was not working, I still compromised to have the donuts, after having the donuts the staff was not able to give me the bill saying that billing machine is not working, I had to pay the parking fee for my car, since I was not having the bill"
+REV_09054,REV_09054_C01,1.0,Service,Negative,"Aspect: Service [SEP] I been to this place on a Saturday morning to have a 🍩, I was really disappointed with the service, in the first place the air conditioning was not working, I still compromised to have the donuts, after having the donuts the staff was not able to give me the bill saying that billing machine is not working, I had to pay the parking fee for my car, since I was not having the bill"
+REV_09054,REV_09054_C02,1.0,General Experience,Positive,Aspect: General Experience [SEP] I had a bad experience
+REV_09084,REV_09084_C03,4.0,General Experience,Positive,Aspect: General Experience [SEP] Very good place to sit and enjoy with friends
+REV_09084,REV_09084_C06,4.0,General Experience,Positive,Aspect: General Experience [SEP] Really mouth watering Donuts
+REV_09084,REV_09084_C07,4.0,Food,Positive,"Aspect: Food [SEP] Other food and baverages like burgers, coffee are good to have other than donuts Service"
+REV_09084,REV_09084_C07,4.0,Service,Positive,"Aspect: Service [SEP] Other food and baverages like burgers, coffee are good to have other than donuts Service"
+REV_09084,REV_09084_C09,4.0,Service,Positive,Aspect: Service [SEP] Really quick service don't make you wait alot
+REV_09091,REV_09091_C01,5.0,Food,Positive,Aspect: Food [SEP] good taste
+REV_09091,REV_09091_C02,5.0,General Experience,Positive,Aspect: General Experience [SEP] loved it
+REV_09138,REV_09138_C12,4.0,General Experience,Positive,Aspect: General Experience [SEP] Simple and goody good
+REV_09138,REV_09138_C17,4.0,Food,Positive,Aspect: Food [SEP] This was a fresh taste after so much chocolate
+REV_09138,REV_09138_C19,4.0,Food,Positive,Aspect: Food [SEP] This one had a delicious chocolate coating on top and center filled with gooey chocolate
+REV_09138,REV_09138_C21,4.0,General Experience,Positive,Aspect: General Experience [SEP] cream filling
+REV_09138,REV_09138_C23,4.0,Food,Positive,Aspect: Food [SEP] The last one again had a chocolate topping and a vanilla filling
+REV_09138,REV_09138_C24,4.0,General Experience,Positive,Aspect: General Experience [SEP] This one was good
+REV_09138,REV_09138_C34,4.0,Service,Positive,Aspect: Service [SEP] Service was good
+REV_09138,REV_09138_C36,4.0,General Experience,Positive,Aspect: General Experience [SEP] Would love to visit again
+REV_09155,REV_09155_C01,5.0,General Experience,Positive,Aspect: General Experience [SEP] Amazing place to unwind
+REV_09241,REV_09241_C05,1.0,Service,Negative,Aspect: Service [SEP] Very poor service i must say
+REV_09247,REV_09247_C02,5.0,Food,Positive,Aspect: Food [SEP] Such an amazing Hyderabadi Biryani ❤️Bit late for delivering the product so it was not tat hot
+REV_09247,REV_09247_C03,5.0,Food,Positive,Aspect: Food [SEP] but food was literally amazing
+REV_09378,REV_09378_C04,5.0,Food,Positive,Aspect: Food [SEP] the food is lip smacking good
+REV_09378,REV_09378_C06,5.0,Ambience,Positive,Aspect: Ambience [SEP] The ambience is beautiful with calming elements
+REV_09378,REV_09378_C07,5.0,Food,Positive,Aspect: Food [SEP] This my go-to comfort food restaurant that I would recommend to anyone looking for authentic pan Asian cuisine
+REV_09378,REV_09378_C07,5.0,General Experience,Positive,Aspect: General Experience [SEP] This my go-to comfort food restaurant that I would recommend to anyone looking for authentic pan Asian cuisine
+REV_09396,REV_09396_C02,5.0,Service,Positive,Aspect: Service [SEP] The staff are super friendly
+REV_09396,REV_09396_C04,5.0,Service,Positive,Aspect: Service [SEP] Sai your awesome man thanks for your superb service
+REV_09396,REV_09396_C05,5.0,Ambience,Positive,Aspect: Ambience [SEP] The ambience is really amazing
+REV_09396,REV_09396_C06,5.0,Food,Positive,"Aspect: Food [SEP] Mohit is amazing chef, we are fan of English sorted vegetables dish"
+REV_09396,REV_09396_C07,5.0,General Experience,Positive,Aspect: General Experience [SEP] Nice place to relax
+REV_09399,REV_09399_C03,4.0,Food,Positive,"Aspect: Food [SEP] We ordered for schezwan Flavoured chicken dumpling, tum kha, urumaki prawns and Hong Kong sweet and sour pork"
+REV_09399,REV_09399_C04,4.0,Food,Positive,Aspect: Food [SEP] Good food
+REV_09399,REV_09399_C05,4.0,Service,Positive,Aspect: Service [SEP] Decent service
+REV_09434,REV_09434_C01,4.0,General Experience,Positive,Aspect: General Experience [SEP] Great place to hangout with friends
+REV_09434,REV_09434_C04,4.0,Price / Value,Negative,Aspect: Price / Value [SEP] Cost is a little on the higher side
+REV_09434,REV_09434_C05,4.0,Price / Value,Positive,Aspect: Price / Value [SEP] well worth it
+REV_09459,REV_09459_C01,4.0,General Experience,Positive,Aspect: General Experience [SEP] Great parathas
+REV_09459,REV_09459_C04,4.0,Food,Positive,"Aspect: Food [SEP] However, corn and cheese, aaloo, chilly garlic parathas are delicious too"
+REV_09477,REV_09477_C01,4.0,Food,Positive,Aspect: Food [SEP] Tasty food
+REV_09484,REV_09484_C01,1.0,Food,Positive,"Aspect: Food [SEP] The food was not at all good, I have ordered chicken keema paratha and the chicken was not fresh it was smelling like any thing bad experience with the restaurant"
+REV_09484,REV_09484_C01,1.0,General Experience,Positive,"Aspect: General Experience [SEP] The food was not at all good, I have ordered chicken keema paratha and the chicken was not fresh it was smelling like any thing bad experience with the restaurant"
+REV_09499,REV_09499_C01,5.0,Service,Positive,Aspect: Service [SEP] super fast delivery
+REV_09560,REV_09560_C02,5.0,Ambience,Positive,Aspect: Ambience [SEP] Love their ambience
+REV_09560,REV_09560_C05,5.0,General Experience,Positive,Aspect: General Experience [SEP] truly amazing
+REV_09560,REV_09560_C06,5.0,General Experience,Positive,Aspect: General Experience [SEP] Keep up the good work guys
+REV_09630,REV_09630_C02,4.5,Ambience,Positive,"Aspect: Ambience [SEP] The food, the courteous staff, the serene ambience"
+REV_09630,REV_09630_C02,4.5,Food,Positive,"Aspect: Food [SEP] The food, the courteous staff, the serene ambience"
+REV_09630,REV_09630_C02,4.5,Service,Positive,"Aspect: Service [SEP] The food, the courteous staff, the serene ambience"
+REV_09630,REV_09630_C05,4.5,General Experience,Positive,Aspect: General Experience [SEP] As always it was awesome
+REV_09632,REV_09632_C01,4.0,Food,Positive,Aspect: Food [SEP] I personally love and prefer Chinese Food
+REV_09632,REV_09632_C03,4.0,Ambience,Positive,Aspect: Ambience [SEP] The ambiance of the place is very good
+REV_09632,REV_09632_C05,4.0,Service,Positive,Aspect: Service [SEP] The server was very polite

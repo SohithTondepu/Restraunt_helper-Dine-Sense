@@ -1,0 +1,5 @@
+Model,Accuracy (%),Macro-F1 (%),Weighted-F1 (%),Negative F1 (%),Neutral F1 (%),Positive F1 (%)
+Logistic Regression,94.16,83.63,94.48,89.24,64.86,96.77
+Linear SVM,93.27,81.09,93.4,86.47,60.61,96.19
+Random Forest,89.64,74.03,89.58,76.38,51.72,93.99
+XGBoost,92.94,82.02,93.36,86.79,63.29,95.98

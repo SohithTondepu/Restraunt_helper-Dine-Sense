@@ -1,0 +1,800 @@
+review_id,clause_id,aspect,clause_text,true_sentiment,pred_logistic_regression,conf_logistic_regression,pred_linear_svm,conf_linear_svm,pred_random_forest,conf_random_forest,pred_xgboost,conf_xgboost,pred_distilbert,conf_distilbert
+REV_00073,REV_00073_C02,Service,The staff is very friendly and the ambiance is awesome,Positive,Positive,0.991,Positive,0.847,Positive,0.648,Positive,0.981,Positive,0.985
+REV_00073,REV_00073_C03,Food,Good variety of food and beverages,Positive,Positive,0.944,Positive,0.699,Positive,0.571,Positive,0.976,Positive,0.983
+REV_01284,REV_01284_C05,Food,has nothing close to sizzler,Negative,Positive,0.73,Positive,0.554,Positive,0.404,Positive,0.647,Negative,0.888
+REV_01284,REV_01284_C06,Food,You guys really need to work on the art of making sizzler,Negative,Negative,0.539,Positive,0.461,Positive,0.466,Positive,0.646,Positive,0.93
+REV_02612,REV_02612_C01,Ambience,"Located in one of the prime locations of hyderabad, Mustang terrace lounge has an American Cowboy theme with some really good ambience providing both indoor and outdoor seating",Positive,Positive,0.96,Positive,0.741,Positive,0.567,Positive,0.945,Positive,0.974
+REV_02612,REV_02612_C02,Ambience,The outdoor seating has an amazing view of the city especially at night time,Positive,Positive,0.96,Positive,0.767,Positive,0.629,Positive,0.957,Positive,0.974
+REV_02612,REV_02612_C04,Food,The french fries and nachos items could have been way better,Negative,Positive,0.529,Positive,0.453,Negative,0.448,Positive,0.6,Negative,0.446
+REV_02612,REV_02612_C05,Food,Chicken tikka pizza was pretty bland,Negative,Negative,0.835,Negative,0.486,Negative,0.442,Negative,0.888,Negative,0.973
+REV_02612,REV_02612_C06,Food,Chilli fish was really good though,Positive,Positive,0.881,Positive,0.678,Positive,0.525,Positive,0.971,Positive,0.972
+REV_02612,REV_02612_C07,Food,"My friends had sex on the beach cocktail and i had virgin mojito mocktail and i must say, both of them were amazing",Positive,Positive,0.659,Positive,0.53,Positive,0.503,Positive,0.925,Positive,0.977
+REV_02612,REV_02612_C09,Food,i liked virgin mojito better,Positive,Positive,0.742,Positive,0.552,Negative,0.396,Positive,0.705,Positive,0.95
+REV_02612,REV_02612_C10,General Experience,Definitely worth a try,Positive,Positive,0.987,Positive,0.8,Positive,0.619,Positive,0.908,Positive,0.982
+REV_02612,REV_02612_C11,Ambience,The place has zomto gold on drinks which is great for people who’d like to drink,Positive,Positive,0.972,Positive,0.793,Positive,0.708,Positive,0.967,Positive,0.982
+REV_02612,REV_02612_C12,Food,Overall it was a pretty good experience at this place with some decent food and the ipl screening,Positive,Positive,0.946,Positive,0.731,Positive,0.625,Positive,0.973,Positive,0.978
+REV_02612,REV_02612_C12,General Experience,Overall it was a pretty good experience at this place with some decent food and the ipl screening,Positive,Positive,0.967,Positive,0.764,Positive,0.714,Positive,0.972,Positive,0.98
+REV_03272,REV_03272_C04,Price / Value,Also drinks are so cheap here,Positive,Positive,0.775,Positive,0.598,Negative,0.5,Positive,0.624,Positive,0.804
+REV_03272,REV_03272_C05,Price / Value,"Service was okay for me, nothing worth mentioning",Neutral,Neutral,0.898,Neutral,0.581,Negative,0.406,Neutral,0.863,Neutral,0.949
+REV_03272,REV_03272_C05,Service,"Service was okay for me, nothing worth mentioning",Neutral,Neutral,0.973,Neutral,0.639,Positive,0.336,Neutral,0.967,Neutral,0.963
+REV_03272,REV_03272_C06,Ambience,Music wasn’t that good,Positive,Positive,0.821,Positive,0.608,Positive,0.543,Positive,0.955,Positive,0.938
+REV_03272,REV_03272_C08,Food,Not so great food,Positive,Positive,0.87,Positive,0.639,Positive,0.455,Positive,0.921,Positive,0.948
+REV_03272,REV_03272_C09,General Experience,You got the good and bad about this place,Positive,Positive,0.85,Positive,0.646,Positive,0.735,Positive,0.89,Negative,0.958
+REV_03420,REV_03420_C04,General Experience,Open 24/7 this rooftop will have you falling in love all around the year,Positive,Positive,0.957,Positive,0.749,Positive,0.668,Positive,0.908,Positive,0.975
+REV_04979,REV_04979_C01,Food,Little less quantity,Negative,Negative,0.969,Negative,0.719,Negative,0.53,Negative,0.959,Negative,0.963
+REV_05236,REV_05236_C02,Food,Food was quite good,Positive,Positive,0.767,Positive,0.622,Positive,0.537,Positive,0.971,Positive,0.978
+REV_05236,REV_05236_C03,Service,Service was also nice,Positive,Positive,0.8,Positive,0.603,Positive,0.484,Positive,0.915,Positive,0.889
+REV_05236,REV_05236_C04,Ambience,Ambience is good,Positive,Positive,0.947,Positive,0.783,Positive,0.706,Positive,0.967,Positive,0.982
+REV_05475,REV_05475_C03,Price / Value,Inspite of many varities hardly it was worth,Negative,Positive,0.582,Positive,0.477,Negative,0.559,Positive,0.744,Negative,0.782
+REV_05475,REV_05475_C07,Food,FEAST tats really disgusting you guys are serving stale and contaminated food on this high cost,Positive,Positive,0.564,Positive,0.497,Positive,0.439,Negative,0.702,Negative,0.974
+REV_05475,REV_05475_C07,Price / Value,FEAST tats really disgusting you guys are serving stale and contaminated food on this high cost,Positive,Positive,0.501,Positive,0.462,Positive,0.464,Negative,0.802,Negative,0.974
+REV_05475,REV_05475_C08,General Experience,Hate to visit ur restaurant,Negative,Positive,0.982,Positive,0.779,Positive,0.701,Positive,0.919,Negative,0.959
+REV_05475,REV_05475_C09,Food,That was our last visit to this stale food restaurant,Negative,Negative,0.661,Negative,0.429,Positive,0.507,Negative,0.698,Negative,0.971
+REV_05475,REV_05475_C10,General Experience,LOOKS ALL OF YOUR GOOD REVIEWS ARE PAID REVIEWS,Positive,Positive,0.966,Positive,0.753,Positive,0.751,Positive,0.981,Positive,0.978
+REV_05475,REV_05475_C11,Food,MY BAD I VISITED YOU ON BASED OF ZOOMATO REVIEWS,Negative,Negative,0.885,Negative,0.577,Negative,0.561,Negative,0.974,Negative,0.968
+REV_07067,REV_07067_C01,Food,Hands down the best cup cakes and brownies in Hyderabad,Positive,Positive,0.956,Positive,0.743,Positive,0.45,Positive,0.785,Positive,0.978
+REV_07067,REV_07067_C02,Food,They don't compromise on quality and you can feel that in the rich flavors and amazing taste,Positive,Positive,0.733,Positive,0.585,Positive,0.516,Positive,0.952,Positive,0.966
+REV_07067,REV_07067_C03,General Experience,We had even ordered a cake from their for one of our directors birthday and good did that cake fly after it was cut,Positive,Positive,0.931,Positive,0.681,Positive,0.692,Positive,0.939,Positive,0.945
+REV_07067,REV_07067_C04,Price / Value,Pricing is a bit on the higher side,Negative,Negative,0.957,Negative,0.699,Negative,0.687,Negative,0.883,Negative,0.857
+REV_07067,REV_07067_C05,Price / Value,totally worth it,Positive,Positive,0.857,Positive,0.606,Negative,0.477,Positive,0.748,Positive,0.967
+REV_08010,REV_08010_C03,Food,The food is mostly try your luck kind of a thing can be extremely tasty one day or totally bland at times specially their mutton biryani and tandoori items,Negative,Negative,0.675,Negative,0.423,Positive,0.457,Negative,0.736,Negative,0.93
+REV_08010,REV_08010_C04,Price / Value,Good value for money,Positive,Positive,0.955,Positive,0.748,Positive,0.587,Positive,0.963,Positive,0.97
+REV_08010,REV_08010_C05,Food,surely needs to improve on customer service and consistency on quality,Negative,Positive,0.712,Positive,0.54,Positive,0.454,Negative,0.551,Positive,0.932
+REV_08010,REV_08010_C05,Service,surely needs to improve on customer service and consistency on quality,Negative,Positive,0.651,Positive,0.519,Positive,0.483,Negative,0.568,Positive,0.902
+REV_08253,REV_08253_C02,Food,Momos were cold,Negative,Negative,0.983,Negative,0.774,Negative,0.529,Negative,0.947,Negative,0.977
+REV_08937,REV_08937_C01,General Experience,Awesome hotel,Positive,Positive,0.995,Positive,0.846,Positive,0.716,Positive,0.894,Positive,0.977
+REV_08937,REV_08937_C03,General Experience,really enjoyed my stay here,Positive,Positive,0.974,Positive,0.781,Positive,0.62,Positive,0.789,Positive,0.984
+REV_09396,REV_09396_C02,Service,The staff are super friendly,Positive,Positive,0.922,Positive,0.71,Positive,0.533,Positive,0.924,Positive,0.982
+REV_09396,REV_09396_C04,Service,Sai your awesome man thanks for your superb service,Positive,Positive,0.932,Positive,0.695,Positive,0.48,Positive,0.901,Positive,0.98
+REV_09396,REV_09396_C05,Ambience,The ambience is really amazing,Positive,Positive,0.967,Positive,0.763,Positive,0.673,Positive,0.948,Positive,0.981
+REV_09396,REV_09396_C06,Food,"Mohit is amazing chef, we are fan of English sorted vegetables dish",Positive,Positive,0.944,Positive,0.723,Positive,0.529,Positive,0.95,Positive,0.98
+REV_09396,REV_09396_C07,General Experience,Nice place to relax,Positive,Positive,0.996,Positive,0.855,Positive,0.812,Positive,0.989,Positive,0.98
+REV_09629,REV_09629_C01,Service,Madhumathi Mahajan Well to start with nice courteous servers and staff,Positive,Positive,0.984,Positive,0.804,Positive,0.622,Positive,0.984,Positive,0.984
+REV_09629,REV_09629_C02,Service,Excellent serving time,Positive,Positive,0.891,Positive,0.661,Positive,0.421,Positive,0.763,Positive,0.982
+REV_09629,REV_09629_C03,Service,all items arrived on time infact for a change had folks asking if we want to hold a little,Positive,Positive,0.741,Positive,0.575,Positive,0.505,Positive,0.657,Positive,0.854
+REV_09629,REV_09629_C07,Food,"Jade chicken soup, nice spinach based creamy stuff, gud way to start the meal",Positive,Positive,0.828,Positive,0.617,Positive,0.537,Positive,0.945,Positive,0.977
+REV_09629,REV_09629_C08,Food,"Accompanied by house salad of cabbage and cucumber kimchi, nice dressing",Positive,Positive,0.947,Positive,0.721,Positive,0.51,Positive,0.943,Positive,0.98
+REV_09629,REV_09629_C10,General Experience,"Fish cakes were good, loved it and accompanying sauces were awesome",Positive,Positive,0.99,Positive,0.822,Positive,0.747,Positive,0.993,Positive,0.984
+REV_09629,REV_09629_C11,Food,"Main course was Mix XO rice of chicken and prawn, well that was the downer",Negative,Negative,0.495,Positive,0.501,Negative,0.448,Positive,0.749,Positive,0.575
+REV_09629,REV_09629_C12,Food,"Nothing exciting abt it, maybe shld have coupled with a curry",Positive,Neutral,0.598,Neutral,0.396,Positive,0.371,Neutral,0.907,Negative,0.658
+REV_09629,REV_09629_C15,Price / Value,"blue berry cheesecake, so here is where me and wifey differ, I thght it was worth it, she says the base wasn't crunchy engh",Positive,Negative,0.545,Positive,0.474,Negative,0.499,Positive,0.782,Negative,0.61
+REV_09629,REV_09629_C18,Ambience,was warm n eye soothing,Positive,Positive,0.816,Positive,0.589,Positive,0.434,Positive,0.654,Positive,0.961
+REV_09629,REV_09629_C19,Food,"Oh and I forgot, the orange pekoe tea, the best I had in lat few months",Positive,Positive,0.829,Positive,0.633,Negative,0.446,Positive,0.768,Positive,0.503
+REV_00005,REV_00005_C01,Food,Food is good,Positive,Positive,0.952,Positive,0.753,Positive,0.616,Positive,0.971,Positive,0.982
+REV_00005,REV_00005_C07,Ambience,Ambience is also very good,Positive,Positive,0.95,Positive,0.773,Positive,0.658,Positive,0.976,Positive,0.981
+REV_00065,REV_00065_C01,Food,Had a good food and good time at this place,Positive,Positive,0.973,Positive,0.779,Positive,0.701,Positive,0.983,Positive,0.982
+REV_00065,REV_00065_C02,Ambience,Ambience was really good and had a nice time,Positive,Positive,0.968,Positive,0.775,Positive,0.667,Positive,0.988,Positive,0.983
+REV_00105,REV_00105_C05,General Experience,They are nice to serve everyone,Positive,Positive,0.976,Positive,0.774,Positive,0.725,Positive,0.971,Positive,0.984
+REV_00111,REV_00111_C01,Food,As usual the food is always good,Positive,Positive,0.847,Positive,0.666,Positive,0.525,Positive,0.972,Positive,0.981
+REV_00111,REV_00111_C03,Food,I love to eat Paradise Biryani where ever i am,Positive,Positive,0.876,Positive,0.624,Positive,0.478,Positive,0.848,Positive,0.964
+REV_00111,REV_00111_C04,Ambience,Service n Ambiance are also very good,Positive,Positive,0.917,Positive,0.744,Positive,0.655,Positive,0.982,Positive,0.984
+REV_00111,REV_00111_C04,Service,Service n Ambiance are also very good,Positive,Positive,0.924,Positive,0.713,Positive,0.574,Positive,0.981,Positive,0.984
+REV_00178,REV_00178_C01,Food,The food was simple and tasty,Positive,Positive,0.917,Positive,0.683,Positive,0.474,Positive,0.857,Positive,0.97
+REV_00178,REV_00178_C03,General Experience,Service and the restaurant were overall good and soothing to one's mood,Positive,Positive,0.937,Positive,0.701,Positive,0.758,Positive,0.982,Positive,0.983
+REV_00178,REV_00178_C03,Service,Service and the restaurant were overall good and soothing to one's mood,Positive,Positive,0.839,Positive,0.619,Positive,0.611,Positive,0.978,Positive,0.983
+REV_00205,REV_00205_C02,Food,"Awesome service, great food",Positive,Positive,0.993,Positive,0.841,Positive,0.538,Positive,0.984,Positive,0.982
+REV_00205,REV_00205_C02,Service,"Awesome service, great food",Positive,Positive,0.986,Positive,0.805,Positive,0.534,Positive,0.984,Positive,0.983
+REV_00333,REV_00333_C02,Service,the way they use containers for delivery need to improve,Negative,Positive,0.495,Positive,0.468,Negative,0.499,Negative,0.592,Positive,0.514
+REV_00333,REV_00333_C04,Food,To be top all the facilities provided by restaurant should be in best quality😍,Positive,Positive,0.617,Positive,0.526,Positive,0.488,Positive,0.754,Positive,0.92
+REV_00342,REV_00342_C01,Food,The Chicken SP Biriyani was just delicious,Positive,Positive,0.869,Positive,0.632,Positive,0.482,Positive,0.918,Positive,0.974
+REV_00386,REV_00386_C01,General Experience,Most disappointing experience ever,Negative,Negative,0.598,Positive,0.451,Positive,0.494,Negative,0.63,Negative,0.978
+REV_00386,REV_00386_C03,Service,Delivery through swiggy was quick and swift,Positive,Positive,0.955,Positive,0.718,Positive,0.441,Positive,0.817,Positive,0.974
+REV_00386,REV_00386_C05,Food,Very bland taste too,Negative,Negative,0.979,Negative,0.716,Negative,0.424,Negative,0.871,Negative,0.973
+REV_00386,REV_00386_C07,General Experience,I would not recommend anyone to trust this restaurant,Negative,Negative,0.849,Negative,0.492,Positive,0.526,Negative,0.694,Negative,0.878
+REV_00501,REV_00501_C02,Ambience,"The have amazing ambience, delicious food and extremely courteous staff",Positive,Positive,0.988,Positive,0.83,Positive,0.683,Positive,0.994,Positive,0.983
+REV_00501,REV_00501_C02,Food,"The have amazing ambience, delicious food and extremely courteous staff",Positive,Positive,0.99,Positive,0.831,Positive,0.669,Positive,0.994,Positive,0.982
+REV_00501,REV_00501_C02,Service,"The have amazing ambience, delicious food and extremely courteous staff",Positive,Positive,0.984,Positive,0.808,Positive,0.657,Positive,0.994,Positive,0.983
+REV_00501,REV_00501_C04,Food,It is a must visit restaurant and has amazing North Indian food specially Dal Makhni and Paneer Butter Masala,Positive,Positive,0.975,Positive,0.785,Positive,0.596,Positive,0.971,Positive,0.98
+REV_00501,REV_00501_C04,General Experience,It is a must visit restaurant and has amazing North Indian food specially Dal Makhni and Paneer Butter Masala,Positive,Positive,0.986,Positive,0.815,Positive,0.735,Positive,0.98,Positive,0.981
+REV_00501,REV_00501_C05,Food,The desserts are also amazing,Positive,Positive,0.952,Positive,0.749,Positive,0.513,Positive,0.95,Positive,0.981
+REV_00501,REV_00501_C06,Price / Value,All in all complete value for money,Positive,Positive,0.6,Positive,0.572,Positive,0.487,Positive,0.668,Positive,0.946
+REV_00519,REV_00519_C02,General Experience,Had a great time with my team dinner,Positive,Positive,0.984,Positive,0.795,Positive,0.697,Positive,0.99,Positive,0.982
+REV_00519,REV_00519_C04,Price / Value,A bit expensive,Negative,Negative,0.976,Negative,0.746,Negative,0.646,Negative,0.962,Negative,0.976
+REV_00519,REV_00519_C06,Ambience,The private space was good at 'Margarita lounge',Positive,Positive,0.965,Positive,0.765,Positive,0.656,Positive,0.973,Positive,0.978
+REV_00541,REV_00541_C01,General Experience,Absolutely loved this place,Positive,Positive,0.96,Positive,0.755,Positive,0.717,Positive,0.969,Positive,0.983
+REV_00541,REV_00541_C03,Food,Food: Delicious,Positive,Positive,0.761,Positive,0.625,Positive,0.418,Positive,0.879,Positive,0.981
+REV_00541,REV_00541_C12,Ambience,Ambiance: Beautiful,Positive,Neutral,0.447,Positive,0.476,Positive,0.431,Positive,0.615,Positive,0.977
+REV_00541,REV_00541_C14,General Experience,Great lightening,Positive,Positive,0.999,Positive,0.898,Positive,0.756,Positive,0.942,Positive,0.982
+REV_00541,REV_00541_C15,General Experience,For parties and a nice dinner,Positive,Positive,0.976,Positive,0.761,Positive,0.679,Positive,0.975,Positive,0.984
+REV_00541,REV_00541_C19,Service,Waiters were polite and nice,Positive,Positive,0.9,Positive,0.65,Positive,0.521,Positive,0.963,Positive,0.98
+REV_00566,REV_00566_C01,Ambience,"The ambiance and setup, basically the theme is just superb",Positive,Positive,0.775,Positive,0.611,Positive,0.567,Positive,0.741,Positive,0.974
+REV_00566,REV_00566_C06,Price / Value,A bit expensive,Negative,Negative,0.976,Negative,0.746,Negative,0.646,Negative,0.962,Negative,0.976
+REV_00566,REV_00566_C07,Price / Value,but worth it,Positive,Positive,0.684,Positive,0.503,Positive,0.465,Positive,0.771,Positive,0.546
+REV_00649,REV_00649_C01,Food,Super delicious nutty dates pudding,Positive,Positive,0.943,Positive,0.71,Positive,0.462,Positive,0.913,Positive,0.975
+REV_00649,REV_00649_C07,Food,"One can feel raw pomegranate, coconut juice",Negative,Negative,0.851,Negative,0.492,Positive,0.401,Negative,0.792,Positive,0.679
+REV_00649,REV_00649_C08,Food,Satisfied with quantity for both items(bought on zomato offer),Positive,Positive,0.816,Positive,0.594,Positive,0.461,Positive,0.846,Positive,0.918
+REV_00713,REV_00713_C01,Food,"Some pieces of chicken are totally uncooked (raw) and important thing, I had ordered for two shawarmas and I got only one, I don't know what went and whose fault it is",Negative,Negative,0.879,Negative,0.544,Negative,0.473,Negative,0.796,Negative,0.956
+REV_00713,REV_00713_C04,Price / Value,Seems that no value for customer queries,Positive,Negative,0.632,Negative,0.419,Negative,0.465,Negative,0.739,Negative,0.936
+REV_00719,REV_00719_C01,Food,One of the best places where one can visit to taste Shawarmas and can get easily addicted,Positive,Positive,0.721,Positive,0.549,Positive,0.542,Positive,0.895,Positive,0.844
+REV_00719,REV_00719_C02,Food,"Just in love with your Chicken Malai Special, hands down",Positive,Positive,0.951,Positive,0.703,Positive,0.481,Positive,0.962,Positive,0.971
+REV_00727,REV_00727_C05,Food,The food will cool you down even if their behavior is not good,Negative,Negative,0.551,Positive,0.485,Positive,0.499,Negative,0.783,Negative,0.77
+REV_00741,REV_00741_C02,Food,This is a Shah Ghouse Chicken Special Rumali Shawarma,Positive,Positive,0.914,Positive,0.663,Positive,0.394,Positive,0.692,Positive,0.963
+REV_00741,REV_00741_C03,Food,"The chicken is so tender and juicy, the spicy shawarma with mayo/malai hits right on your taste buds",Positive,Positive,0.936,Positive,0.72,Positive,0.497,Positive,0.893,Positive,0.97
+REV_00741,REV_00741_C04,Food,The quantity is filling and overwhelming,Positive,Positive,0.945,Positive,0.708,Positive,0.443,Positive,0.804,Positive,0.629
+REV_00741,REV_00741_C05,General Experience,I love this place and I do recommend this place to all my non veg lover friends,Positive,Positive,0.977,Positive,0.805,Positive,0.756,Positive,0.975,Positive,0.98
+REV_00741,REV_00741_C06,Food,Great quality & quantity of food,Positive,Positive,0.976,Positive,0.76,Positive,0.529,Positive,0.978,Positive,0.98
+REV_00741,REV_00741_C07,General Experience,Keep it up,Positive,Positive,0.951,Positive,0.715,Positive,0.614,Positive,0.755,Positive,0.959
+REV_00748,REV_00748_C01,Food,very poor food,Negative,Negative,0.988,Negative,0.772,Negative,0.456,Negative,0.926,Negative,0.977
+REV_00800,REV_00800_C04,Food,The food is served in matte black plates which is my favourite part,Positive,Positive,0.879,Positive,0.666,Positive,0.442,Positive,0.68,Positive,0.755
+REV_00800,REV_00800_C06,Ambience,The place looks amazing and has a cost feel,Positive,Positive,0.986,Positive,0.821,Positive,0.714,Positive,0.977,Positive,0.952
+REV_00800,REV_00800_C07,Ambience,They have a setup on the balcony from where the view is just amazing,Positive,Positive,0.8,Positive,0.589,Positive,0.619,Positive,0.913,Positive,0.975
+REV_00823,REV_00823_C04,General Experience,I recommend each & everyone to have a great time,Positive,Positive,0.975,Positive,0.783,Positive,0.731,Positive,0.973,Positive,0.98
+REV_00885,REV_00885_C03,Ambience,"The place itself is located in a good, open area inside SLN terminus and has both indoor and outdoor sittings to offer",Positive,Positive,0.963,Positive,0.754,Positive,0.588,Positive,0.891,Positive,0.976
+REV_00885,REV_00885_C04,Food,My experience with their food was decent,Positive,Positive,0.968,Positive,0.745,Positive,0.504,Positive,0.949,Positive,0.967
+REV_00885,REV_00885_C04,General Experience,My experience with their food was decent,Positive,Positive,0.984,Positive,0.788,Positive,0.661,Positive,0.945,Positive,0.962
+REV_00885,REV_00885_C06,General Experience,I would have to say that they gave a decent shot to all these things,Positive,Positive,0.886,Positive,0.651,Positive,0.624,Positive,0.907,Positive,0.979
+REV_00885,REV_00885_C07,Food,My favorite of the lot was their Golgappe,Positive,Positive,0.951,Positive,0.731,Positive,0.43,Positive,0.671,Positive,0.94
+REV_00885,REV_00885_C10,Food,Their Chicken pizza and Chicken tikka were simply delicious,Positive,Positive,0.891,Positive,0.668,Positive,0.505,Positive,0.946,Positive,0.978
+REV_00885,REV_00885_C12,General Experience,The best part about the place was the drinks section,Positive,Positive,0.97,Positive,0.77,Positive,0.734,Positive,0.916,Positive,0.967
+REV_00885,REV_00885_C13,Food,"Loved the preparation of Wet Garden cocktail, Sangria and Cranberry Cooler",Positive,Positive,0.962,Positive,0.75,Positive,0.501,Positive,0.895,Positive,0.971
+REV_00885,REV_00885_C14,Food,Special mention to the bar tender for a lovely range of drinks,Positive,Positive,0.95,Positive,0.712,Positive,0.495,Positive,0.847,Positive,0.985
+REV_00900,REV_00900_C01,General Experience,Undoubtedly the best place to have ice creams nowadays is Cream stone,Positive,Positive,0.957,Positive,0.752,Positive,0.809,Positive,0.953,Positive,0.961
+REV_00900,REV_00900_C03,Service,Polite staff and friendly,Positive,Positive,0.97,Positive,0.759,Positive,0.54,Positive,0.95,Positive,0.98
+REV_01022,REV_01022_C03,Food,food is not as delicious as I expected it to be,Positive,Positive,0.672,Positive,0.498,Positive,0.485,Positive,0.804,Positive,0.703
+REV_01022,REV_01022_C04,Service,Service is quick though,Positive,Positive,0.812,Positive,0.6,Negative,0.424,Positive,0.784,Positive,0.971
+REV_01064,REV_01064_C01,General Experience,packing is not good,Positive,Positive,0.621,Positive,0.511,Positive,0.713,Positive,0.815,Negative,0.951
+REV_01189,REV_01189_C01,Food,Food is good,Positive,Positive,0.952,Positive,0.753,Positive,0.616,Positive,0.971,Positive,0.982
+REV_01189,REV_01189_C02,Service,The service from the staff is excellent,Positive,Positive,0.94,Positive,0.732,Positive,0.51,Positive,0.852,Positive,0.982
+REV_01189,REV_01189_C03,Price / Value,Worth every rupee,Positive,Positive,0.853,Positive,0.608,Negative,0.501,Positive,0.77,Positive,0.931
+REV_01189,REV_01189_C04,Price / Value,Reasonable price when compared to other barbeque,Positive,Positive,0.653,Positive,0.51,Positive,0.476,Positive,0.581,Positive,0.726
+REV_01189,REV_01189_C05,Service,service from the staff is excellent,Positive,Positive,0.934,Positive,0.712,Positive,0.476,Positive,0.847,Positive,0.982
+REV_01196,REV_01196_C02,Food,"What else a foodie like me can expect for lunch, good food and great hospitality",Positive,Positive,0.904,Positive,0.673,Positive,0.643,Positive,0.985,Positive,0.983
+REV_01196,REV_01196_C03,Service,I should take a minute from my routine to appreciate the service and hospitality provided by Mr,Positive,Positive,0.616,Positive,0.547,Positive,0.456,Positive,0.765,Positive,0.981
+REV_01196,REV_01196_C06,General Experience,Though you are the best the curiousness to improve by incorporating inputs/feedback from customers by you are great,Positive,Positive,0.933,Positive,0.732,Positive,0.669,Positive,0.89,Positive,0.981
+REV_01204,REV_01204_C01,Food,Visited for lunch today with colleagues and ordered one spicy chicken sizzler combo and two buffets,Positive,Positive,0.857,Positive,0.611,Positive,0.478,Positive,0.896,Positive,0.97
+REV_01204,REV_01204_C04,General Experience,The buffet was decent,Positive,Positive,0.962,Positive,0.723,Positive,0.64,Positive,0.894,Positive,0.933
+REV_01204,REV_01204_C05,Food,not great wrt variety and taste,Positive,Positive,0.837,Positive,0.617,Positive,0.482,Positive,0.936,Positive,0.627
+REV_01204,REV_01204_C06,Food,"the sizzler combo left us impressed with very good portions , perfectly cooked fresh chicken fillets loaded with veggies and garlic sauce",Positive,Positive,0.978,Positive,0.789,Positive,0.565,Positive,0.96,Positive,0.982
+REV_01204,REV_01204_C07,Food,Would recommend the sizzler combo over the buffet,Positive,Positive,0.759,Positive,0.597,Negative,0.434,Positive,0.629,Positive,0.937
+REV_01244,REV_01244_C02,Food,"Amazing food, tasty finger food I recommend Cheese stuffed mushroom & Fish n Chips and many more to try",Positive,Positive,0.972,Positive,0.778,Positive,0.583,Positive,0.985,Positive,0.981
+REV_01244,REV_01244_C05,General Experience,* highly recommended Best sizzlers restaurant,Positive,Positive,0.962,Positive,0.729,Positive,0.635,Positive,0.823,Positive,0.948
+REV_01244,REV_01244_C06,General Experience,We will visit again,Positive,Positive,0.978,Positive,0.78,Positive,0.672,Positive,0.912,Positive,0.973
+REV_01264,REV_01264_C01,General Experience,Had a bad experience today in Absolute sizzler,Positive,Positive,0.576,Positive,0.429,Positive,0.527,Positive,0.81,Negative,0.976
+REV_01264,REV_01264_C03,Food,Soft Drink served is not chilled its room temperature,Positive,Positive,0.693,Positive,0.539,Negative,0.49,Negative,0.631,Negative,0.909
+REV_01264,REV_01264_C04,Food,"The person who served soft drink has not informed us that the drink is not available in chilled temperature, staright way he served it and then informed us that it is no chilled",Positive,Negative,0.529,Positive,0.477,Negative,0.478,Negative,0.545,Negative,0.898
+REV_01264,REV_01264_C04,Service,"The person who served soft drink has not informed us that the drink is not available in chilled temperature, staright way he served it and then informed us that it is no chilled",Positive,Negative,0.582,Positive,0.46,Negative,0.502,Negative,0.57,Negative,0.907
+REV_01264,REV_01264_C05,General Experience,Overall experience is very bad,Negative,Negative,0.946,Negative,0.673,Negative,0.51,Negative,0.936,Negative,0.98
+REV_01285,REV_01285_C01,Food,Great sizzlers,Positive,Positive,0.988,Positive,0.809,Positive,0.509,Positive,0.951,Positive,0.971
+REV_01285,REV_01285_C03,General Experience,Nice place to hang around with colleagues or friends,Positive,Positive,0.986,Positive,0.797,Positive,0.843,Positive,0.991,Positive,0.982
+REV_01285,REV_01285_C04,Food,I recommend to try this place and food,Positive,Positive,0.898,Positive,0.692,Positive,0.63,Positive,0.903,Positive,0.973
+REV_01285,REV_01285_C04,General Experience,I recommend to try this place and food,Positive,Positive,0.954,Positive,0.747,Positive,0.783,Positive,0.927,Positive,0.978
+REV_01285,REV_01285_C05,General Experience,Amazing combos are offered by this restaurant,Positive,Positive,0.985,Positive,0.805,Positive,0.714,Positive,0.976,Positive,0.982
+REV_01296,REV_01296_C02,General Experience,absolute sizzlers best sizzlers restaurant in Hyderabad,Positive,Positive,0.97,Positive,0.742,Positive,0.656,Positive,0.846,Positive,0.974
+REV_01296,REV_01296_C03,Food,Today lunch we visited this place food was delicious,Positive,Positive,0.865,Positive,0.668,Positive,0.608,Positive,0.952,Positive,0.981
+REV_01296,REV_01296_C04,Service,service is simply amazing,Positive,Positive,0.898,Positive,0.668,Positive,0.485,Positive,0.921,Positive,0.979
+REV_01296,REV_01296_C05,Ambience,Nice ambiance,Positive,Positive,0.942,Positive,0.732,Positive,0.543,Positive,0.936,Positive,0.979
+REV_01296,REV_01296_C06,General Experience,This place highly recommend 😍,Positive,Positive,0.959,Positive,0.749,Positive,0.719,Positive,0.89,Positive,0.974
+REV_01304,REV_01304_C02,Ambience,"Great music, great service, great food",Positive,Positive,0.99,Positive,0.841,Positive,0.593,Positive,0.965,Positive,0.982
+REV_01304,REV_01304_C04,General Experience,"If you wanna spend some good time with your friends, dance your heart out",Positive,Positive,0.947,Positive,0.728,Positive,0.662,Positive,0.912,Positive,0.982
+REV_01318,REV_01318_C01,Ambience,"Cocktails were really good and service was cool and great atmosphere ,loved it, will be back again to enjoy the food and drinks",Positive,Positive,0.956,Positive,0.741,Positive,0.617,Positive,0.94,Positive,0.983
+REV_01318,REV_01318_C01,Food,"Cocktails were really good and service was cool and great atmosphere ,loved it, will be back again to enjoy the food and drinks",Positive,Positive,0.959,Positive,0.737,Positive,0.602,Positive,0.951,Positive,0.983
+REV_01318,REV_01318_C01,Service,"Cocktails were really good and service was cool and great atmosphere ,loved it, will be back again to enjoy the food and drinks",Positive,Positive,0.95,Positive,0.723,Positive,0.598,Positive,0.938,Positive,0.983
+REV_01318,REV_01318_C02,Ambience,Ambience 5/5,Positive,Neutral,0.734,Positive,0.473,Neutral,0.52,Neutral,0.748,Neutral,0.65
+REV_01318,REV_01318_C03,Service,Service 5/5,Positive,Neutral,0.696,Neutral,0.398,Neutral,0.456,Neutral,0.735,Neutral,0.628
+REV_01318,REV_01318_C04,Food,Food 5.5/5,Positive,Neutral,0.828,Neutral,0.5,Neutral,0.61,Neutral,0.824,Neutral,0.739
+REV_01389,REV_01389_C02,Food,The food is good and staff is cooperative,Positive,Positive,0.991,Positive,0.84,Positive,0.624,Positive,0.984,Positive,0.976
+REV_01398,REV_01398_C03,Price / Value,The starters n drinks are quite expensive,Negative,Negative,0.874,Negative,0.531,Negative,0.543,Negative,0.935,Negative,0.963
+REV_01398,REV_01398_C05,Food,The Ceaser salad here is the best I had in the city,Positive,Positive,0.789,Positive,0.632,Positive,0.466,Positive,0.715,Positive,0.964
+REV_01410,REV_01410_C01,Service,Very excellent sarvice very nice food and very nice staff very nice politley sarvice and srtaters very nice deserts very goood and very nice sarvice staff name shekhar and santhu sarvice nice,Positive,Positive,0.98,Positive,0.787,Positive,0.608,Positive,0.965,Positive,0.982
+REV_01463,REV_01463_C01,General Experience,Very good experience,Positive,Positive,0.995,Positive,0.85,Positive,0.696,Positive,0.977,Positive,0.984
+REV_01463,REV_01463_C02,General Experience,"great dinner,,,,awesome experience",Positive,Positive,0.999,Positive,0.905,Positive,0.694,Positive,0.986,Positive,0.982
+REV_01463,REV_01463_C07,General Experience,great team,Positive,Positive,0.996,Positive,0.859,Positive,0.693,Positive,0.976,Positive,0.981
+REV_01543,REV_01543_C01,General Experience,good as always,Positive,Positive,0.995,Positive,0.86,Positive,0.716,Positive,0.982,Positive,0.981
+REV_01582,REV_01582_C01,Food,worst,Negative,Negative,0.997,Negative,0.863,Negative,0.559,Negative,0.973,Negative,0.983
+REV_01602,REV_01602_C02,Food,the paneer was soft,Positive,Positive,0.779,Positive,0.608,Positive,0.419,Positive,0.658,Positive,0.78
+REV_01602,REV_01602_C03,General Experience,the gravy was just so amazing,Positive,Positive,0.96,Positive,0.739,Positive,0.698,Positive,0.962,Positive,0.981
+REV_01602,REV_01602_C04,Food,The dish was made to meet utmost perfection and I recommend it as well,Positive,Positive,0.838,Positive,0.637,Positive,0.502,Positive,0.761,Positive,0.973
+REV_01632,REV_01632_C06,Food,Chola masala : Paneer was dominating the quantity of Chola,Positive,Positive,0.831,Positive,0.633,Positive,0.444,Positive,0.753,Positive,0.696
+REV_01755,REV_01755_C01,General Experience,good job,Positive,Positive,0.996,Positive,0.854,Positive,0.668,Positive,0.978,Positive,0.984
+REV_01806,REV_01806_C01,Ambience,"It's in the other side of the SLN Terminus , out door seating is great , ambeince is good",Positive,Positive,0.928,Positive,0.72,Positive,0.635,Positive,0.94,Positive,0.984
+REV_01806,REV_01806_C03,Food,Food was good,Positive,Positive,0.94,Positive,0.76,Positive,0.646,Positive,0.964,Positive,0.982
+REV_01806,REV_01806_C04,Price / Value,"Ladies night on Thursday , worth the visit",Positive,Positive,0.832,Positive,0.623,Positive,0.485,Positive,0.897,Positive,0.974
+REV_01828,REV_01828_C02,General Experience,besides nice place to hangout,Positive,Positive,0.991,Positive,0.812,Positive,0.823,Positive,0.989,Positive,0.982
+REV_01828,REV_01828_C03,Ambience,ambiance is great and view from it is nice,Positive,Positive,0.974,Positive,0.788,Positive,0.663,Positive,0.988,Positive,0.984
+REV_01887,REV_01887_C03,Service,Service: 4/5,Positive,Neutral,0.696,Neutral,0.398,Neutral,0.456,Neutral,0.735,Neutral,0.732
+REV_01887,REV_01887_C04,Ambience,Ambience:3/5,Neutral,Neutral,0.734,Positive,0.473,Neutral,0.52,Neutral,0.748,Neutral,0.851
+REV_01887,REV_01887_C06,Food,Taste and Quantity: 3/5,Positive,Positive,0.762,Positive,0.575,Negative,0.43,Positive,0.795,Neutral,0.875
+REV_01935,REV_01935_C01,Food,Worst Biryani I have ever tasted,Negative,Negative,0.984,Negative,0.754,Negative,0.604,Negative,0.973,Negative,0.977
+REV_01935,REV_01935_C02,General Experience,Experience was not at all good,Positive,Positive,0.977,Positive,0.749,Positive,0.674,Positive,0.961,Positive,0.89
+REV_01935,REV_01935_C04,Ambience,Ambience is also not that good,Positive,Positive,0.681,Positive,0.556,Positive,0.589,Positive,0.942,Positive,0.695
+REV_01952,REV_01952_C01,Food,Nice food and biriyani here is really yummieee 😍😍,Positive,Positive,0.95,Positive,0.743,Positive,0.561,Positive,0.949,Positive,0.982
+REV_02093,REV_02093_C01,General Experience,Been to this place twice-once with friends and ordered ala carte and other with collegues for a buffet- loved both the experiences,Positive,Positive,0.909,Positive,0.679,Positive,0.694,Positive,0.974,Positive,0.972
+REV_02093,REV_02093_C02,Food,The food here is really good,Positive,Positive,0.942,Positive,0.754,Positive,0.558,Positive,0.974,Positive,0.984
+REV_02093,REV_02093_C03,Food,"Unlike others, I will start with the dessert-love their creme brule the best and followed by their baked cheesecakes",Positive,Positive,0.924,Positive,0.725,Positive,0.518,Positive,0.954,Positive,0.957
+REV_02093,REV_02093_C04,Food,"Have tried their chickn burgers, pizzas and thai cuisine as well--i loved the burgers the best, followed by Thai curry",Positive,Positive,0.976,Positive,0.79,Positive,0.523,Positive,0.91,Positive,0.974
+REV_02093,REV_02093_C05,Food,Buffet was less impressive than ala carte,Negative,Negative,0.865,Negative,0.552,Negative,0.53,Negative,0.965,Negative,0.966
+REV_02109,REV_02109_C03,Service,after 20 mins of waiting for water and asking a few times for someone to take the order we decided to leave when no one came,Positive,Positive,0.61,Positive,0.486,Positive,0.497,Positive,0.772,Negative,0.614
+REV_02109,REV_02109_C06,General Experience,Had heard good things,Positive,Positive,0.978,Positive,0.776,Positive,0.701,Positive,0.982,Positive,0.981
+REV_02201,REV_02201_C01,Service,Great staff #Bharathi has given her best in her service,Positive,Positive,0.968,Positive,0.751,Positive,0.571,Positive,0.977,Positive,0.98
+REV_02201,REV_02201_C02,Food,Good food and great service,Positive,Positive,0.99,Positive,0.836,Positive,0.68,Positive,0.988,Positive,0.983
+REV_02201,REV_02201_C02,Service,Good food and great service,Positive,Positive,0.983,Positive,0.809,Positive,0.677,Positive,0.988,Positive,0.982
+REV_02228,REV_02228_C01,General Experience,I loved this place,Positive,Positive,0.988,Positive,0.823,Positive,0.75,Positive,0.969,Positive,0.981
+REV_02228,REV_02228_C02,Service,Akhil had been a very friendly person who came up with good suggestions,Positive,Positive,0.936,Positive,0.715,Positive,0.614,Positive,0.99,Positive,0.981
+REV_02228,REV_02228_C03,Ambience,Ambience is very good with screens casting IPL,Positive,Positive,0.955,Positive,0.766,Positive,0.679,Positive,0.981,Positive,0.973
+REV_02272,REV_02272_C01,General Experience,The place is great,Positive,Positive,0.998,Positive,0.907,Positive,0.764,Positive,0.989,Positive,0.983
+REV_02272,REV_02272_C02,Food,Love the wings,Positive,Positive,0.964,Positive,0.755,Positive,0.436,Positive,0.819,Positive,0.973
+REV_02272,REV_02272_C03,Service,A very prompt and customer friendly staff,Positive,Positive,0.927,Positive,0.691,Positive,0.538,Positive,0.936,Positive,0.98
+REV_02272,REV_02272_C04,General Experience,Tried Hot BBQ and Hot sauces both were awesome,Positive,Positive,0.978,Positive,0.768,Positive,0.656,Positive,0.95,Positive,0.978
+REV_02469,REV_02469_C01,General Experience,A very bad experience,Negative,Negative,0.972,Negative,0.756,Negative,0.623,Negative,0.929,Negative,0.977
+REV_02469,REV_02469_C03,Service,but the staff made sure that we had the worst experience,Negative,Negative,0.949,Negative,0.663,Negative,0.634,Negative,0.977,Negative,0.979
+REV_02469,REV_02469_C04,Food,"The food was cold, served very late",Negative,Negative,0.944,Negative,0.669,Negative,0.513,Negative,0.953,Negative,0.974
+REV_02469,REV_02469_C05,Food,Drinks were of bad quality,Negative,Negative,0.966,Negative,0.697,Negative,0.52,Negative,0.982,Negative,0.978
+REV_02469,REV_02469_C06,Service,Staff behavior was also very bad,Negative,Negative,0.931,Negative,0.65,Negative,0.578,Negative,0.975,Negative,0.98
+REV_02567,REV_02567_C02,Ambience,Ambience was quite good -4/5,Positive,Positive,0.791,Positive,0.666,Positive,0.595,Positive,0.97,Positive,0.974
+REV_02567,REV_02567_C03,Service,Service was okay -3.5/5,Neutral,Neutral,0.995,Neutral,0.762,Neutral,0.593,Neutral,0.99,Neutral,0.974
+REV_02567,REV_02567_C04,Food,Food was average,Neutral,Neutral,1.0,Neutral,0.891,Neutral,0.686,Neutral,0.998,Neutral,0.979
+REV_02567,REV_02567_C07,Food,There weren’t many good options for veg starters and something veg that we ordered were just average at taste,Neutral,Neutral,0.645,Neutral,0.419,Positive,0.412,Neutral,0.994,Neutral,0.972
+REV_02567,REV_02567_C11,Ambience,Apart form Bhangra the dj was good was playing mostly bollywood music,Positive,Positive,0.921,Positive,0.684,Positive,0.63,Positive,0.961,Positive,0.961
+REV_02567,REV_02567_C12,Ambience,Overall if you want good bollywood music with not so great food you can surely try this place,Positive,Positive,0.96,Positive,0.76,Positive,0.628,Positive,0.825,Positive,0.975
+REV_02567,REV_02567_C12,Food,Overall if you want good bollywood music with not so great food you can surely try this place,Positive,Positive,0.954,Positive,0.754,Positive,0.612,Positive,0.879,Positive,0.975
+REV_02569,REV_02569_C01,Ambience,"Ambience is bit cozy, music is too loud",Positive,Positive,0.682,Positive,0.518,Positive,0.508,Positive,0.622,Negative,0.844
+REV_02569,REV_02569_C02,Food,The food is good,Positive,Positive,0.987,Positive,0.833,Positive,0.669,Positive,0.973,Positive,0.982
+REV_02569,REV_02569_C03,Service,service is little slow,Negative,Negative,0.952,Negative,0.697,Negative,0.561,Negative,0.952,Negative,0.976
+REV_02569,REV_02569_C05,Ambience,It need some modifications in ambience then sure it will be great place to hangout,Positive,Positive,0.882,Positive,0.644,Positive,0.704,Positive,0.968,Positive,0.974
+REV_02595,REV_02595_C01,General Experience,The place was good,Positive,Positive,0.998,Positive,0.9,Positive,0.801,Positive,0.988,Positive,0.984
+REV_02595,REV_02595_C02,Ambience,"the ambience felt nice until a few friends and I went out for a smoke and wanted to sit at the lounge just for a smoke, whole the so called ""supervisor"" came along and asked us to leave because the seats were reserved, we were ready to leave",Positive,Positive,0.581,Positive,0.516,Positive,0.564,Positive,0.962,Positive,0.788
+REV_02595,REV_02595_C05,Service,The people who work here have no concept of good customer service or politeness,Positive,Positive,0.638,Positive,0.54,Positive,0.5,Positive,0.931,Positive,0.523
+REV_02600,REV_02600_C03,Service,Staff is super friendly and they won't have nonsense rules for stags too,Positive,Positive,0.942,Positive,0.711,Positive,0.557,Positive,0.915,Positive,0.868
+REV_02600,REV_02600_C05,Ambience,Good ambiance with nice terrace,Positive,Positive,0.98,Positive,0.802,Positive,0.696,Positive,0.99,Positive,0.982
+REV_02600,REV_02600_C07,Price / Value,Great value for money,Positive,Positive,0.953,Positive,0.749,Positive,0.578,Positive,0.956,Positive,0.976
+REV_02634,REV_02634_C01,General Experience,The best place for food guys I have tried so many food items here trust me you will enjoy the food here,Positive,Positive,0.961,Positive,0.777,Positive,0.627,Positive,0.857,Positive,0.983
+REV_02654,REV_02654_C01,Ambience,"Good place to hangout and chill, the terrace seating is also good",Positive,Positive,0.981,Positive,0.796,Positive,0.764,Positive,0.989,Positive,0.978
+REV_02654,REV_02654_C03,Food,the food is good here,Positive,Positive,0.987,Positive,0.843,Positive,0.648,Positive,0.97,Positive,0.98
+REV_02654,REV_02654_C04,Food,And in frame1 The spicy chicken table-- which was not that spicy,Positive,Positive,0.882,Positive,0.61,Negative,0.458,Positive,0.644,Positive,0.69
+REV_02654,REV_02654_C06,Food,"and the pizza we ordered was chicken keema pizza-- which also good with thin crest, cheese was also good Mustang Terrace Lounge",Positive,Positive,0.936,Positive,0.713,Positive,0.577,Positive,0.946,Positive,0.97
+REV_02681,REV_02681_C01,General Experience,Great dining experience with my family at 3bs gochibowli,Positive,Positive,0.986,Positive,0.797,Positive,0.675,Positive,0.989,Positive,0.984
+REV_02681,REV_02681_C03,Service,Mainly service by giving and Sarah was really very nice,Positive,Positive,0.858,Positive,0.646,Positive,0.505,Positive,0.939,Positive,0.983
+REV_02695,REV_02695_C01,Food,Food is great,Positive,Positive,0.96,Positive,0.743,Positive,0.54,Positive,0.951,Positive,0.981
+REV_02695,REV_02695_C02,Service,Service from Govind is great,Positive,Positive,0.917,Positive,0.7,Positive,0.536,Positive,0.961,Positive,0.982
+REV_02695,REV_02695_C03,Food,I loved their mango icecream and special pan ice cream,Positive,Positive,0.916,Positive,0.684,Positive,0.49,Positive,0.959,Positive,0.982
+REV_02695,REV_02695_C04,Food,starters are very tasty and maincource also,Positive,Positive,0.955,Positive,0.737,Positive,0.474,Positive,0.904,Positive,0.975
+REV_02695,REV_02695_C05,Service,service was mainly very friendly,Positive,Positive,0.757,Positive,0.566,Positive,0.481,Positive,0.864,Positive,0.979
+REV_02700,REV_02700_C01,Food,Food is very tasty,Positive,Positive,0.907,Positive,0.681,Positive,0.452,Positive,0.85,Positive,0.976
+REV_02700,REV_02700_C02,Service,service is excellent,Positive,Positive,0.862,Positive,0.64,Positive,0.532,Positive,0.789,Positive,0.982
+REV_02700,REV_02700_C06,Food,They are very good at serving food for us,Positive,Positive,0.911,Positive,0.686,Positive,0.569,Positive,0.966,Positive,0.975
+REV_02700,REV_02700_C07,General Experience,We recommend this restaurant at Gachibowli,Positive,Positive,0.763,Positive,0.612,Positive,0.597,Positive,0.726,Positive,0.979
+REV_02711,REV_02711_C01,Service,Excellent service by Govind,Positive,Positive,0.928,Positive,0.705,Positive,0.436,Positive,0.791,Positive,0.981
+REV_02711,REV_02711_C02,Ambience,"Great starters, good environment",Positive,Positive,0.993,Positive,0.863,Positive,0.644,Positive,0.984,Positive,0.985
+REV_02711,REV_02711_C03,General Experience,Overall a great experience,Positive,Positive,0.988,Positive,0.803,Positive,0.661,Positive,0.968,Positive,0.983
+REV_02746,REV_02746_C02,General Experience,Your way of treating us is really good,Positive,Positive,0.984,Positive,0.805,Positive,0.717,Positive,0.981,Positive,0.984
+REV_02746,REV_02746_C04,General Experience,We will surely visit again,Positive,Positive,0.976,Positive,0.776,Positive,0.674,Positive,0.912,Positive,0.974
+REV_02787,REV_02787_C01,Food,Very less quantity,Negative,Negative,0.99,Negative,0.796,Negative,0.603,Negative,0.926,Negative,0.974
+REV_02858,REV_02858_C02,Food,The two accompanying complimentary side dish (raita and gulab jamun) were delicious as well,Positive,Positive,0.791,Positive,0.597,Positive,0.519,Positive,0.935,Positive,0.974
+REV_03032,REV_03032_C04,Food,Have a good team lunch,Positive,Positive,0.913,Positive,0.685,Positive,0.505,Positive,0.971,Positive,0.984
+REV_03111,REV_03111_C01,Food,This place was recommended by a local friend after learning that I do not favor spicy biriyani,Positive,Positive,0.767,Positive,0.599,Positive,0.564,Positive,0.822,Positive,0.618
+REV_03111,REV_03111_C04,Food,"Good packaging, prompt delivery, good taste",Positive,Positive,0.995,Positive,0.854,Positive,0.531,Positive,0.971,Positive,0.981
+REV_03157,REV_03157_C03,General Experience,Tastes good,Positive,Positive,0.988,Positive,0.811,Positive,0.701,Positive,0.982,Positive,0.984
+REV_03157,REV_03157_C04,Service,Deliver was quick and,Positive,Positive,0.907,Positive,0.664,Positive,0.432,Positive,0.815,Positive,0.972
+REV_03172,REV_03172_C01,General Experience,I liked the place,Positive,Positive,0.992,Positive,0.839,Positive,0.713,Positive,0.955,Positive,0.98
+REV_03172,REV_03172_C04,Food,We had Mutton juicy mandi,Positive,Positive,0.848,Positive,0.63,Positive,0.424,Positive,0.646,Positive,0.937
+REV_03180,REV_03180_C01,General Experience,Was really waiting to visit this place after all the good reviews,Positive,Positive,0.984,Positive,0.813,Positive,0.798,Positive,0.977,Positive,0.982
+REV_03180,REV_03180_C02,Food,Was quite disappointed with the food and the menu of the buffet,Negative,Negative,0.92,Negative,0.602,Negative,0.514,Negative,0.918,Negative,0.976
+REV_03180,REV_03180_C06,Food,"chicken was very dry , same case with the fish starter just horrible",Negative,Negative,0.701,Negative,0.42,Negative,0.479,Negative,0.833,Negative,0.971
+REV_03194,REV_03194_C01,General Experience,It such a worst experience will never come back again,Negative,Negative,0.821,Negative,0.543,Positive,0.468,Negative,0.976,Negative,0.977
+REV_03199,REV_03199_C02,Food,"No fresh food, all the deserts are from previous day",Positive,Positive,0.505,Positive,0.469,Negative,0.428,Positive,0.603,Negative,0.897
+REV_03199,REV_03199_C03,Service,Service is pathetic and no friendly environment,Positive,Negative,0.939,Negative,0.655,Negative,0.495,Negative,0.924,Negative,0.98
+REV_03331,REV_03331_C02,Food,it's a huge place with young IT crowd of hitec city pouring in,Positive,Positive,0.948,Positive,0.704,Positive,0.544,Positive,0.925,Positive,0.968
+REV_03331,REV_03331_C03,Ambience,"very good place, nice ambience and setting",Positive,Positive,0.994,Positive,0.858,Positive,0.793,Positive,0.989,Positive,0.984
+REV_03331,REV_03331_C04,Food,food is good and the party scene is electrifying,Positive,Positive,0.956,Positive,0.75,Positive,0.634,Positive,0.978,Positive,0.978
+REV_03357,REV_03357_C03,Ambience,They are very moderate and Ambiance is very good,Positive,Positive,0.984,Positive,0.811,Positive,0.678,Positive,0.985,Positive,0.899
+REV_03357,REV_03357_C06,Ambience,"Food is nice , DJ is good and with a dance floor this place rocks if you want to go mad and forget yourself dancing",Positive,Positive,0.984,Positive,0.821,Positive,0.692,Positive,0.985,Positive,0.904
+REV_03372,REV_03372_C03,Food,In both the dishes the fish were not served fresh,Positive,Positive,0.628,Positive,0.501,Negative,0.471,Positive,0.578,Negative,0.849
+REV_03372,REV_03372_C03,Service,In both the dishes the fish were not served fresh,Positive,Positive,0.547,Positive,0.475,Negative,0.491,Negative,0.517,Negative,0.866
+REV_03372,REV_03372_C04,Service,Service was not that great either as it was the busy hour and only one server was seen trying to serve everyone,Positive,Positive,0.698,Positive,0.503,Positive,0.467,Positive,0.814,Positive,0.737
+REV_03372,REV_03372_C07,Food,Food: 2,Negative,Neutral,0.828,Neutral,0.5,Neutral,0.61,Neutral,0.824,Neutral,0.689
+REV_03372,REV_03372_C08,Service,Service: 3,Neutral,Neutral,0.696,Neutral,0.398,Neutral,0.456,Neutral,0.735,Neutral,0.926
+REV_03372,REV_03372_C09,Ambience,Ambience: 5,Positive,Neutral,0.734,Positive,0.473,Neutral,0.52,Neutral,0.748,Neutral,0.627
+REV_03464,REV_03464_C02,Ambience,I must say overall ambience is good,Positive,Positive,0.973,Positive,0.774,Positive,0.609,Positive,0.97,Positive,0.981
+REV_03468,REV_03468_C02,Food,Horrible food,Negative,Negative,0.971,Negative,0.709,Negative,0.397,Negative,0.913,Negative,0.975
+REV_03468,REV_03468_C03,Food,Full of spices and oil even after giving specific instructions not to make it spicy,Positive,Positive,0.725,Positive,0.538,Positive,0.472,Positive,0.602,Positive,0.697
+REV_03473,REV_03473_C01,Food,Food is good,Positive,Positive,0.952,Positive,0.753,Positive,0.616,Positive,0.971,Positive,0.982
+REV_03473,REV_03473_C02,Ambience,not up to the mark and decor is not good at all,Positive,Positive,0.519,Positive,0.502,Positive,0.572,Positive,0.79,Negative,0.931
+REV_03503,REV_03503_C01,Food,"Taste less food,not well perpred & egg shell had mixed in food so please check once",Negative,Negative,0.868,Negative,0.558,Negative,0.546,Negative,0.974,Negative,0.967
+REV_03503,REV_03503_C02,Food,"preparing and quality is also not nice ,this is the reason",Positive,Positive,0.497,Positive,0.505,Positive,0.465,Positive,0.826,Negative,0.897
+REV_03552,REV_03552_C03,Food,sweet in Taste,Positive,Positive,0.848,Positive,0.605,Positive,0.404,Positive,0.629,Positive,0.967
+REV_03552,REV_03552_C05,Food,Paneer 65 and paneer majestic are good in taste,Positive,Positive,0.939,Positive,0.731,Positive,0.54,Positive,0.982,Positive,0.979
+REV_03552,REV_03552_C07,Food,Rotis and butternans are very good here,Positive,Positive,0.992,Positive,0.838,Positive,0.587,Positive,0.986,Positive,0.976
+REV_03552,REV_03552_C09,Food,not so spicy,Positive,Positive,0.769,Positive,0.592,Negative,0.459,Positive,0.617,Positive,0.791
+REV_03552,REV_03552_C10,Food,tasted good,Positive,Positive,0.968,Positive,0.754,Positive,0.495,Positive,0.971,Positive,0.984
+REV_03552,REV_03552_C12,Food,totally disappointed as the chicken was fried too much and biryani rice is okay in taste,Negative,Negative,0.661,Negative,0.413,Negative,0.449,Negative,0.935,Negative,0.971
+REV_03552,REV_03552_C15,Service,Staffa nd service are good,Positive,Positive,0.915,Positive,0.687,Positive,0.533,Positive,0.977,Positive,0.983
+REV_03552,REV_03552_C16,Food,Price s of dishes is reasonable,Positive,Positive,0.731,Positive,0.566,Positive,0.445,Positive,0.63,Positive,0.821
+REV_03552,REV_03552_C16,Price / Value,Price s of dishes is reasonable,Positive,Positive,0.663,Positive,0.527,Negative,0.499,Positive,0.527,Positive,0.84
+REV_03580,REV_03580_C01,Food,Good quality food,Positive,Positive,0.947,Positive,0.698,Positive,0.52,Positive,0.97,Positive,0.983
+REV_03704,REV_03704_C01,Service,Very nice delivery and very friendly,Positive,Positive,0.958,Positive,0.737,Positive,0.608,Positive,0.983,Positive,0.984
+REV_03742,REV_03742_C04,Food,The pickled carrot was stale and had fungus,Negative,Negative,0.921,Negative,0.621,Negative,0.454,Negative,0.88,Negative,0.976
+REV_03748,REV_03748_C01,Food,Can improve your main course and desserts spread,Positive,Positive,0.655,Positive,0.526,Negative,0.432,Negative,0.593,Positive,0.923
+REV_03748,REV_03748_C03,Service,I am giving a 1 because one of your servers' behavior was bad in our office party,Negative,Negative,0.82,Negative,0.55,Negative,0.572,Negative,0.984,Negative,0.977
+REV_03748,REV_03748_C05,Food,just because it's a soft drink,Positive,Positive,0.779,Positive,0.566,Negative,0.425,Positive,0.651,Positive,0.942
+REV_03781,REV_03781_C01,Ambience,Great ambience,Positive,Positive,0.978,Positive,0.808,Positive,0.581,Positive,0.963,Positive,0.98
+REV_03781,REV_03781_C02,Service,Very good service,Positive,Positive,0.957,Positive,0.738,Positive,0.611,Positive,0.972,Positive,0.984
+REV_03781,REV_03781_C03,General Experience,Its a great place to go out with dates or family,Positive,Positive,0.98,Positive,0.782,Positive,0.828,Positive,0.99,Positive,0.983
+REV_03826,REV_03826_C01,General Experience,It is a good place to eat,Positive,Positive,0.99,Positive,0.826,Positive,0.845,Positive,0.988,Positive,0.98
+REV_03826,REV_03826_C03,Price / Value,The food is a little expensive,Negative,Negative,0.956,Negative,0.707,Negative,0.584,Negative,0.954,Negative,0.969
+REV_03826,REV_03826_C05,Ambience,Ambience is good enough too,Positive,Positive,0.93,Positive,0.733,Positive,0.623,Positive,0.97,Positive,0.975
+REV_03834,REV_03834_C04,Ambience,Sat on the corner and loved the view it looks vintage,Positive,Positive,0.918,Positive,0.685,Positive,0.56,Positive,0.865,Positive,0.964
+REV_03834,REV_03834_C05,Ambience,Beautiful ambience,Positive,Positive,0.862,Positive,0.643,Positive,0.429,Positive,0.649,Positive,0.976
+REV_03834,REV_03834_C06,Food,"Coming to food, ordered lemon corainder soup, nachos and fried rice which tasted good",Positive,Positive,0.884,Positive,0.662,Positive,0.575,Positive,0.974,Positive,0.979
+REV_03838,REV_03838_C02,Food,The food quality is good,Positive,Positive,0.956,Positive,0.75,Positive,0.597,Positive,0.973,Positive,0.983
+REV_03838,REV_03838_C04,Food,"Overall, a nice place to have good food if not great :)",Positive,Positive,0.994,Positive,0.845,Positive,0.765,Positive,0.988,Positive,0.981
+REV_03838,REV_03838_C04,General Experience,"Overall, a nice place to have good food if not great :)",Positive,Positive,0.997,Positive,0.872,Positive,0.875,Positive,0.961,Positive,0.982
+REV_03842,REV_03842_C03,Service,staff super polite,Positive,Positive,0.943,Positive,0.709,Positive,0.434,Positive,0.784,Positive,0.92
+REV_03916,REV_03916_C01,Food,One of my favorite restaurants in the locality,Positive,Positive,0.8,Positive,0.572,Negative,0.438,Positive,0.727,Positive,0.973
+REV_03916,REV_03916_C02,Food,Great food,Positive,Positive,0.988,Positive,0.807,Positive,0.549,Positive,0.951,Positive,0.98
+REV_03916,REV_03916_C03,Ambience,Good interiors and good service,Positive,Positive,0.991,Positive,0.856,Positive,0.623,Positive,0.977,Positive,0.983
+REV_03916,REV_03916_C04,Food,I love their set of menu,Positive,Positive,0.959,Positive,0.74,Positive,0.439,Positive,0.808,Positive,0.982
+REV_03916,REV_03916_C05,Food,"The quality, portion size and the taste of food never disappoints",Positive,Positive,0.844,Positive,0.639,Positive,0.461,Positive,0.692,Negative,0.799
+REV_03958,REV_03958_C04,Food,"This was ok, what wasn't was delivery of chicken",Neutral,Neutral,0.604,Neutral,0.431,Positive,0.365,Neutral,0.826,Neutral,0.949
+REV_03958,REV_03958_C04,Service,"This was ok, what wasn't was delivery of chicken",Neutral,Neutral,0.595,Neutral,0.429,Negative,0.363,Neutral,0.813,Neutral,0.957
+REV_04014,REV_04014_C02,Food,Whenever feel like having good Italian food I come over this place and try different dishes,Positive,Positive,0.928,Positive,0.72,Positive,0.633,Positive,0.983,Positive,0.968
+REV_04014,REV_04014_C03,Food,"I love their garlic breads , pasta , thin crust pizza , some rice items etc etc",Positive,Positive,0.894,Positive,0.67,Positive,0.457,Positive,0.858,Positive,0.964
+REV_04014,REV_04014_C04,General Experience,if you love Italian food and cheesy food this is the must try place here,Positive,Positive,0.963,Positive,0.773,Positive,0.724,Positive,0.957,Positive,0.949
+REV_04014,REV_04014_C05,General Experience,"Recommendation : Do try the blueberry cheese cake (got it eggless here😀) , its really awesome",Positive,Positive,0.976,Positive,0.784,Positive,0.699,Positive,0.943,Positive,0.978
+REV_04014,REV_04014_C07,Ambience,Ambiance : 4.0,Positive,Neutral,0.649,Positive,0.403,Neutral,0.482,Neutral,0.682,Neutral,0.435
+REV_04014,REV_04014_C08,Food,Food : 4.0,Positive,Neutral,0.828,Neutral,0.5,Neutral,0.61,Neutral,0.824,Neutral,0.664
+REV_04014,REV_04014_C09,Service,Service : 4.0,Positive,Neutral,0.696,Neutral,0.398,Neutral,0.456,Neutral,0.735,Neutral,0.615
+REV_04051,REV_04051_C04,Price / Value,All the items here are pretty good and pocket friendly,Positive,Positive,0.989,Positive,0.832,Positive,0.642,Positive,0.981,Positive,0.982
+REV_04051,REV_04051_C05,General Experience,My favourite items from this place are:,Positive,Positive,0.974,Positive,0.773,Positive,0.757,Positive,0.965,Positive,0.979
+REV_04051,REV_04051_C06,Food,1) Karachi special pizza 2) Chocolate truffle and fruit cake 3) Creamy Alfredo pasta 4) Chocolate shake 5) Vegetable garden sandwich,Positive,Positive,0.898,Positive,0.655,Negative,0.442,Positive,0.843,Positive,0.742
+REV_04110,REV_04110_C02,Food,Loved their pasta and the jam roll was wow,Positive,Positive,0.959,Positive,0.744,Positive,0.49,Positive,0.915,Positive,0.973
+REV_04138,REV_04138_C03,Service,The staff is really courteous,Positive,Positive,0.938,Positive,0.742,Positive,0.521,Positive,0.782,Positive,0.98
+REV_04138,REV_04138_C05,Ambience,Love the ambience of the place,Positive,Positive,0.979,Positive,0.787,Positive,0.676,Positive,0.964,Positive,0.981
+REV_04222,REV_04222_C02,General Experience,waffle was very tasty and shawarma i loved it,Positive,Positive,0.994,Positive,0.853,Positive,0.667,Positive,0.951,Positive,0.98
+REV_04261,REV_04261_C01,General Experience,We visited this place with my friends the place was full with the monster posters the best place for hangout with friends and we recommend this place to all foodies,Positive,Positive,0.972,Positive,0.8,Positive,0.787,Positive,0.973,Positive,0.978
+REV_04326,REV_04326_C01,General Experience,The foods are awesome,Positive,Positive,0.96,Positive,0.742,Positive,0.69,Positive,0.961,Positive,0.982
+REV_04336,REV_04336_C09,Ambience,Ambience is good,Positive,Positive,0.947,Positive,0.783,Positive,0.706,Positive,0.967,Positive,0.982
+REV_04358,REV_04358_C01,Ambience,"A suppper amazing place with a great food, great music and a beautiful dim light ambience 💕 I went to this place with my friends on my birthday and enjoyed alot",Positive,Positive,0.989,Positive,0.831,Positive,0.783,Positive,0.994,Positive,0.983
+REV_04358,REV_04358_C01,Food,"A suppper amazing place with a great food, great music and a beautiful dim light ambience 💕 I went to this place with my friends on my birthday and enjoyed alot",Positive,Positive,0.99,Positive,0.83,Positive,0.761,Positive,0.995,Positive,0.983
+REV_04358,REV_04358_C01,General Experience,"A suppper amazing place with a great food, great music and a beautiful dim light ambience 💕 I went to this place with my friends on my birthday and enjoyed alot",Positive,Positive,0.994,Positive,0.85,Positive,0.825,Positive,0.995,Positive,0.983
+REV_04358,REV_04358_C02,Ambience,They had a very good DJ,Positive,Positive,0.95,Positive,0.719,Positive,0.615,Positive,0.975,Positive,0.981
+REV_04358,REV_04358_C03,Food,Their crispy corns and munchurian is super tasty,Positive,Positive,0.927,Positive,0.717,Positive,0.453,Positive,0.881,Positive,0.974
+REV_04358,REV_04358_C04,General Experience,A must visit place for all,Positive,Positive,0.992,Positive,0.828,Positive,0.778,Positive,0.962,Positive,0.982
+REV_04360,REV_04360_C01,Ambience,"went to this place for lunch buffet its quit busy, its small place with good ambiance and food",Positive,Positive,0.922,Positive,0.71,Positive,0.727,Positive,0.98,Positive,0.577
+REV_04360,REV_04360_C01,Food,"went to this place for lunch buffet its quit busy, its small place with good ambiance and food",Positive,Positive,0.915,Positive,0.703,Positive,0.666,Positive,0.98,Positive,0.663
+REV_04360,REV_04360_C03,Service,service 4/5,Positive,Neutral,0.696,Neutral,0.398,Neutral,0.456,Neutral,0.735,Neutral,0.621
+REV_04360,REV_04360_C04,Ambience,Ambiance 4/5,Positive,Neutral,0.649,Positive,0.403,Neutral,0.482,Neutral,0.682,Neutral,0.504
+REV_04360,REV_04360_C05,Service,service 4/5,Positive,Neutral,0.696,Neutral,0.398,Neutral,0.456,Neutral,0.735,Neutral,0.621
+REV_04372,REV_04372_C01,Food,They don't seem to use good quality ingredients for the food they serve,Positive,Positive,0.839,Positive,0.613,Positive,0.541,Positive,0.951,Positive,0.899
+REV_04372,REV_04372_C01,Service,They don't seem to use good quality ingredients for the food they serve,Positive,Positive,0.791,Positive,0.588,Positive,0.517,Positive,0.947,Positive,0.908
+REV_04372,REV_04372_C04,Food,"Starters were decent , same for the main course",Positive,Positive,0.743,Positive,0.543,Positive,0.455,Positive,0.85,Positive,0.702
+REV_04372,REV_04372_C05,Food,the desserts were horrible,Negative,Negative,0.755,Negative,0.466,Negative,0.431,Negative,0.896,Negative,0.972
+REV_04380,REV_04380_C01,Food,"Pathetic food, slow service, extremely spicy food",Negative,Negative,0.977,Negative,0.75,Negative,0.573,Negative,0.991,Negative,0.978
+REV_04380,REV_04380_C01,Service,"Pathetic food, slow service, extremely spicy food",Negative,Negative,0.981,Negative,0.758,Negative,0.62,Negative,0.992,Negative,0.978
+REV_04380,REV_04380_C04,Food,Even the fruits were stale,Negative,Negative,0.902,Negative,0.592,Negative,0.433,Negative,0.91,Negative,0.975
+REV_04391,REV_04391_C01,Ambience,"Ambience- Very relaxing seething and decoration are good ,",Positive,Positive,0.895,Positive,0.749,Positive,0.665,Positive,0.983,Positive,0.98
+REV_04391,REV_04391_C08,Service,Service was very good and impressive👍👏,Positive,Positive,0.919,Positive,0.709,Positive,0.602,Positive,0.979,Positive,0.982
+REV_04391,REV_04391_C09,Food,"Now coming to food all the dishes are awesome, Good taste and rich quality",Positive,Positive,0.975,Positive,0.786,Positive,0.605,Positive,0.979,Positive,0.984
+REV_04391,REV_04391_C10,Price / Value,Total value for money,Positive,Positive,0.557,Positive,0.531,Positive,0.472,Positive,0.594,Positive,0.805
+REV_04479,REV_04479_C04,General Experience,Don't recommend to anyone,Negative,Negative,0.813,Negative,0.442,Positive,0.568,Negative,0.745,Negative,0.808
+REV_04491,REV_04491_C01,Price / Value,Undoubtedly pocket friendly place,Positive,Positive,0.965,Positive,0.733,Positive,0.615,Positive,0.91,Positive,0.982
+REV_04491,REV_04491_C01,Service,Undoubtedly pocket friendly place,Positive,Positive,0.965,Positive,0.753,Positive,0.566,Positive,0.919,Positive,0.984
+REV_04491,REV_04491_C04,Food,We also had curd cutlet which was super yummy,Positive,Positive,0.837,Positive,0.639,Positive,0.476,Positive,0.803,Positive,0.972
+REV_04506,REV_04506_C01,Ambience,Great decor,Positive,Positive,0.978,Positive,0.794,Positive,0.546,Positive,0.961,Positive,0.982
+REV_04506,REV_04506_C04,Food,Excellent service and a nice place to enjoy food with family,Positive,Positive,0.987,Positive,0.807,Positive,0.7,Positive,0.993,Positive,0.985
+REV_04506,REV_04506_C04,General Experience,Excellent service and a nice place to enjoy food with family,Positive,Positive,0.993,Positive,0.839,Positive,0.837,Positive,0.994,Positive,0.985
+REV_04506,REV_04506_C04,Service,Excellent service and a nice place to enjoy food with family,Positive,Positive,0.982,Positive,0.791,Positive,0.69,Positive,0.986,Positive,0.985
+REV_04610,REV_04610_C03,Ambience,Dirty kitchen,Negative,Negative,0.558,Positive,0.406,Neutral,0.397,Negative,0.631,Negative,0.974
+REV_04610,REV_04610_C04,Service,Horrible Staff and worst Manager,Negative,Negative,0.987,Negative,0.775,Negative,0.579,Negative,0.992,Negative,0.98
+REV_04643,REV_04643_C01,General Experience,awesome awesome awesome,Positive,Positive,0.998,Positive,0.883,Positive,0.637,Positive,0.95,Positive,0.975
+REV_04674,REV_04674_C01,Food,Teriyaki chicken quantity was very little,Positive,Positive,0.558,Positive,0.461,Positive,0.407,Positive,0.791,Negative,0.936
+REV_04683,REV_04683_C01,Food,The food they prepare is very good than other udipi hotels,Positive,Positive,0.886,Positive,0.669,Positive,0.588,Positive,0.961,Positive,0.975
+REV_04683,REV_04683_C02,Food,The way they do parcel and the care they take for taste is good,Positive,Positive,0.894,Positive,0.689,Positive,0.602,Positive,0.97,Positive,0.981
+REV_04683,REV_04683_C03,Food,Good food at good price,Positive,Positive,0.983,Positive,0.789,Positive,0.596,Positive,0.972,Positive,0.98
+REV_04789,REV_04789_C06,Ambience,Ambience 3/5,Neutral,Neutral,0.734,Positive,0.473,Neutral,0.52,Neutral,0.748,Neutral,0.89
+REV_04789,REV_04789_C07,Food,Food 3/5,Neutral,Neutral,0.828,Neutral,0.5,Neutral,0.61,Neutral,0.824,Neutral,0.934
+REV_04789,REV_04789_C08,Service,Service 4/5,Positive,Neutral,0.696,Neutral,0.398,Neutral,0.456,Neutral,0.735,Neutral,0.621
+REV_04798,REV_04798_C01,General Experience,"This place was a good veg eatery earlier, with options of good thali",Positive,Positive,0.992,Positive,0.835,Positive,0.799,Positive,0.989,Positive,0.974
+REV_04798,REV_04798_C03,Food,Food was cold,Negative,Negative,0.963,Negative,0.721,Negative,0.486,Negative,0.948,Negative,0.976
+REV_04798,REV_04798_C04,Ambience,"service was very slow, dirty tables and wares and Ill maintained wash rooms",Negative,Negative,0.876,Negative,0.589,Positive,0.466,Negative,0.967,Negative,0.979
+REV_04798,REV_04798_C04,Service,"service was very slow, dirty tables and wares and Ill maintained wash rooms",Negative,Negative,0.953,Negative,0.659,Negative,0.521,Negative,0.981,Negative,0.98
+REV_04811,REV_04811_C02,Food,"the food quantity is good enough, quality is also great",Positive,Positive,0.974,Positive,0.796,Positive,0.627,Positive,0.99,Positive,0.981
+REV_04811,REV_04811_C04,Ambience,"ambience is nice, it is an efforable place for families",Positive,Positive,0.953,Positive,0.749,Positive,0.711,Positive,0.981,Positive,0.983
+REV_04814,REV_04814_C04,Ambience,The background music on Kanhaiyya was very soothing,Positive,Positive,0.8,Positive,0.589,Positive,0.53,Positive,0.723,Positive,0.967
+REV_04814,REV_04814_C05,Service,Service: Was ok,Neutral,Neutral,0.992,Neutral,0.695,Neutral,0.451,Neutral,0.973,Neutral,0.97
+REV_04814,REV_04814_C07,Food,"Food: Food was good, definitely not exceptional",Positive,Positive,0.826,Positive,0.6,Positive,0.512,Positive,0.877,Positive,0.922
+REV_04814,REV_04814_C09,Food,"The poori, poori's sabzi, pachadi, sweet & curd are very tasty",Positive,Positive,0.963,Positive,0.765,Positive,0.488,Positive,0.906,Positive,0.965
+REV_04814,REV_04814_C10,Price / Value,Price: Slightly expensive,Negative,Negative,0.927,Negative,0.642,Negative,0.56,Negative,0.952,Negative,0.975
+REV_04855,REV_04855_C01,Ambience,Decent place with good ambience,Positive,Positive,0.953,Positive,0.784,Positive,0.722,Positive,0.992,Positive,0.982
+REV_04855,REV_04855_C03,Service,service is a little slow,Negative,Negative,0.952,Negative,0.697,Negative,0.561,Negative,0.952,Negative,0.976
+REV_04855,REV_04855_C04,Food,Quality of food is good,Positive,Positive,0.959,Positive,0.739,Positive,0.544,Positive,0.971,Positive,0.983
+REV_04855,REV_04855_C06,Food,A decent family restraunt,Positive,Positive,0.867,Positive,0.621,Positive,0.429,Positive,0.799,Positive,0.976
+REV_04892,REV_04892_C02,Food,Finger licking Punjabi food,Positive,Positive,0.869,Positive,0.631,Negative,0.402,Positive,0.615,Positive,0.783
+REV_04892,REV_04892_C03,Food,Even a simple dal and roti tastes amazing here,Positive,Positive,0.932,Positive,0.697,Positive,0.53,Positive,0.955,Positive,0.979
+REV_04892,REV_04892_C05,Food,Very filling and taste satiating food,Positive,Positive,0.679,Positive,0.53,Positive,0.432,Positive,0.732,Negative,0.532
+REV_04892,REV_04892_C06,Ambience,Great ambience with Punjabi music on,Positive,Positive,0.97,Positive,0.775,Positive,0.632,Positive,0.975,Positive,0.983
+REV_04892,REV_04892_C07,Service,the staff is very courteous as well,Positive,Positive,0.964,Positive,0.766,Positive,0.571,Positive,0.843,Positive,0.978
+REV_04892,REV_04892_C09,General Experience,Love this place 🤟,Positive,Positive,0.987,Positive,0.817,Positive,0.726,Positive,0.965,Positive,0.98
+REV_04907,REV_04907_C03,Food,Food I would say was average,Neutral,Neutral,0.994,Neutral,0.767,Neutral,0.558,Neutral,0.998,Neutral,0.979
+REV_04907,REV_04907_C05,General Experience,Dal Makhani was awesome,Positive,Positive,0.98,Positive,0.777,Positive,0.658,Positive,0.941,Positive,0.983
+REV_04965,REV_04965_C01,Food,"Don't order Chicken Biryani Handi, they provide just one chicken piece in handi and the taste was average",Neutral,Neutral,0.693,Neutral,0.483,Neutral,0.387,Neutral,0.996,Neutral,0.972
+REV_04965,REV_04965_C02,Food,Rice was not tasty at all,Negative,Negative,0.77,Negative,0.518,Negative,0.52,Negative,0.804,Negative,0.921
+REV_04969,REV_04969_C03,Food,"i didn't get chicken piece in the biryani, worst service",Negative,Negative,0.977,Negative,0.7,Negative,0.566,Negative,0.973,Negative,0.981
+REV_04969,REV_04969_C03,Service,"i didn't get chicken piece in the biryani, worst service",Negative,Negative,0.981,Negative,0.712,Negative,0.608,Negative,0.97,Negative,0.981
+REV_05030,REV_05030_C01,Service,Good delivery time,Positive,Positive,0.974,Positive,0.769,Positive,0.567,Positive,0.969,Positive,0.982
+REV_05075,REV_05075_C01,Food,I liked the flavors of Andhra in their cuisine,Positive,Positive,0.958,Positive,0.736,Positive,0.447,Positive,0.762,Positive,0.973
+REV_05075,REV_05075_C04,Service,Nice customer service as they were always ready to serve,Positive,Positive,0.841,Positive,0.619,Positive,0.554,Positive,0.921,Positive,0.984
+REV_05075,REV_05075_C05,Ambience,Good ambience and locality,Positive,Positive,0.977,Positive,0.812,Positive,0.659,Positive,0.973,Positive,0.982
+REV_05075,REV_05075_C06,General Experience,I loved my experience at this restaurant in Gachibowli,Positive,Positive,0.919,Positive,0.691,Positive,0.676,Positive,0.948,Positive,0.981
+REV_05092,REV_05092_C04,Ambience,Ambience is not that good,Positive,Positive,0.762,Positive,0.561,Positive,0.573,Positive,0.94,Positive,0.674
+REV_05092,REV_05092_C05,Food,food tastes really good we ordered a few chicken starters and biryani,Positive,Positive,0.881,Positive,0.667,Positive,0.535,Positive,0.97,Positive,0.983
+REV_05092,REV_05092_C06,Price / Value,It was worth the money,Positive,Positive,0.72,Positive,0.545,Negative,0.485,Positive,0.751,Positive,0.941
+REV_05092,REV_05092_C08,Ambience,Ambience-3/5,Neutral,Neutral,0.734,Positive,0.473,Neutral,0.52,Neutral,0.748,Neutral,0.854
+REV_05092,REV_05092_C09,Food,Food-5/5,Positive,Neutral,0.828,Neutral,0.5,Neutral,0.61,Neutral,0.824,Neutral,0.812
+REV_05092,REV_05092_C10,Service,Service-3/5,Neutral,Neutral,0.696,Neutral,0.398,Neutral,0.456,Neutral,0.735,Neutral,0.876
+REV_05161,REV_05161_C03,Service,Service 3/5,Neutral,Neutral,0.696,Neutral,0.398,Neutral,0.456,Neutral,0.735,Neutral,0.848
+REV_05161,REV_05161_C04,Food,Food 2/5,Negative,Neutral,0.828,Neutral,0.5,Neutral,0.61,Neutral,0.824,Neutral,0.764
+REV_05161,REV_05161_C06,General Experience,Paneer butter masala was good,Positive,Positive,0.989,Positive,0.825,Positive,0.736,Positive,0.981,Positive,0.985
+REV_05169,REV_05169_C09,General Experience,I will never recommend this restaurant,Negative,Positive,0.626,Positive,0.551,Positive,0.625,Positive,0.701,Negative,0.9
+REV_05183,REV_05183_C03,Food,"The service was pathetic and every dish came in an average 30 mins after ordering, even the naan",Negative,Negative,0.868,Negative,0.553,Negative,0.472,Neutral,0.898,Negative,0.98
+REV_05183,REV_05183_C03,Service,"The service was pathetic and every dish came in an average 30 mins after ordering, even the naan",Negative,Negative,0.884,Negative,0.566,Negative,0.541,Neutral,0.774,Negative,0.98
+REV_05185,REV_05185_C04,Food,"Food was okay not that great taste, the chicken wings were good though",Positive,Positive,0.457,Positive,0.441,Positive,0.506,Positive,0.926,Positive,0.52
+REV_05227,REV_05227_C01,Ambience,Nice ambience-4/5,Positive,Positive,0.961,Positive,0.769,Positive,0.565,Positive,0.934,Positive,0.895
+REV_05247,REV_05247_C02,General Experience,They have good varieties of combo,Positive,Positive,0.978,Positive,0.778,Positive,0.728,Positive,0.979,Positive,0.984
+REV_05247,REV_05247_C03,Food,The taste of the good is average,Neutral,Neutral,0.796,Neutral,0.516,Positive,0.432,Neutral,0.99,Neutral,0.977
+REV_05247,REV_05247_C04,Price / Value,Value for money,Positive,Positive,0.705,Positive,0.623,Negative,0.463,Positive,0.552,Positive,0.823
+REV_05290,REV_05290_C02,Food,"Taste is not good, fake chicken wings",Negative,Negative,0.752,Negative,0.477,Negative,0.467,Negative,0.77,Negative,0.954
+REV_05331,REV_05331_C01,Food,the food was very bad,Negative,Negative,0.993,Negative,0.817,Negative,0.523,Negative,0.983,Negative,0.979
+REV_05343,REV_05343_C04,Food,"Mushroom soup came with grilled sourdough, everything was good about it",Positive,Positive,0.953,Positive,0.73,Positive,0.566,Positive,0.982,Positive,0.972
+REV_05343,REV_05343_C06,Food,The bread itself we ended up using as garlic bread with our pasta at home which was really good,Positive,Positive,0.952,Positive,0.741,Positive,0.543,Positive,0.917,Positive,0.976
+REV_05343,REV_05343_C10,Food,"Death by chocolate was delicious, rich chocolate",Positive,Positive,0.961,Positive,0.737,Positive,0.482,Positive,0.916,Positive,0.975
+REV_05343,REV_05343_C12,General Experience,Highly recommend this place,Positive,Positive,0.931,Positive,0.724,Positive,0.665,Positive,0.89,Positive,0.979
+REV_05355,REV_05355_C01,Food,My all time favorite for bakery items and pizza,Positive,Positive,0.931,Positive,0.692,Positive,0.445,Positive,0.741,Positive,0.973
+REV_05374,REV_05374_C03,Ambience,This review is not going to be about the food taste and quality and ambiance (which is good as reviewed by numerous others),Positive,Positive,0.811,Positive,0.631,Positive,0.552,Positive,0.582,Positive,0.489
+REV_05374,REV_05374_C05,Price / Value,how expensive the place is,Negative,Negative,0.73,Negative,0.502,Positive,0.486,Negative,0.837,Negative,0.967
+REV_05374,REV_05374_C07,Price / Value,but they are expensive because they are IN 5 star hotels,Negative,Negative,0.717,Negative,0.484,Negative,0.549,Negative,0.95,Negative,0.963
+REV_05374,REV_05374_C12,Price / Value,Value For Money,Positive,Positive,0.705,Positive,0.623,Negative,0.463,Positive,0.552,Positive,0.823
+REV_05432,REV_05432_C03,Food,"Unassuming place with great food, especially bakery products",Positive,Positive,0.981,Positive,0.78,Positive,0.602,Positive,0.987,Positive,0.975
+REV_05439,REV_05439_C01,Price / Value,It's a little expensive place I feel,Negative,Negative,0.938,Negative,0.655,Negative,0.562,Negative,0.837,Negative,0.964
+REV_05439,REV_05439_C02,Food,coffee was normal nothing great about it,Positive,Positive,0.879,Positive,0.639,Positive,0.455,Positive,0.954,Neutral,0.875
+REV_05439,REV_05439_C03,Food,But blueberry cheese cake was different and good,Positive,Positive,0.944,Positive,0.705,Positive,0.488,Positive,0.976,Positive,0.943
+REV_05447,REV_05447_C01,Food,"Went for lunch buffet,little disappointed with the spread, at this cost expect little more options",Negative,Negative,0.95,Negative,0.656,Negative,0.542,Negative,0.726,Negative,0.971
+REV_05447,REV_05447_C02,Food,Taste was okay some of the items were good others were ok ok,Neutral,Neutral,0.965,Neutral,0.625,Positive,0.456,Positive,0.725,Neutral,0.968
+REV_05447,REV_05447_C04,Ambience,Ambience 4/5,Positive,Neutral,0.734,Positive,0.473,Neutral,0.52,Neutral,0.748,Neutral,0.627
+REV_05447,REV_05447_C05,Food,Food 3.5/5,Positive,Neutral,0.828,Neutral,0.5,Neutral,0.61,Neutral,0.824,Neutral,0.865
+REV_05447,REV_05447_C06,Price / Value,Value for money 2/5,Negative,Positive,0.705,Positive,0.623,Negative,0.463,Positive,0.552,Negative,0.438
+REV_05455,REV_05455_C01,Food,Buffet is good,Positive,Positive,0.974,Positive,0.796,Positive,0.555,Positive,0.967,Positive,0.985
+REV_05455,REV_05455_C02,Price / Value,though expensive,Negative,Negative,0.952,Negative,0.666,Negative,0.587,Negative,0.948,Negative,0.971
+REV_05455,REV_05455_C03,Food,Great service and well spread food range,Positive,Positive,0.979,Positive,0.784,Positive,0.526,Positive,0.976,Positive,0.983
+REV_05455,REV_05455_C03,Service,Great service and well spread food range,Positive,Positive,0.968,Positive,0.759,Positive,0.535,Positive,0.977,Positive,0.983
+REV_05455,REV_05455_C04,Food,Decent ambience,Positive,Positive,0.871,Positive,0.641,Positive,0.448,Positive,0.859,Positive,0.95
+REV_05539,REV_05539_C01,Service,Have visited this place couple of times and as always their service is great and very quick,Positive,Positive,0.954,Positive,0.75,Positive,0.59,Positive,0.981,Positive,0.982
+REV_05539,REV_05539_C02,Service,Specially their staff is very friendly and caring,Positive,Positive,0.983,Positive,0.801,Positive,0.577,Positive,0.952,Positive,0.982
+REV_05539,REV_05539_C05,General Experience,The service by Mr Dharma made it even great experience for them as he served their requested order very swiftly and they enjoyed the evening,Positive,Positive,0.88,Positive,0.668,Positive,0.63,Positive,0.968,Positive,0.981
+REV_05555,REV_05555_C04,Food,All starters are simply superb,Positive,Positive,0.847,Positive,0.656,Positive,0.419,Positive,0.675,Positive,0.979
+REV_05555,REV_05555_C05,General Experience,I liked veg munchurian very much,Positive,Positive,0.971,Positive,0.757,Positive,0.587,Positive,0.776,Positive,0.968
+REV_05555,REV_05555_C06,Food,"coming to pulao and Biryanies, chicken items are simply superb",Positive,Positive,0.892,Positive,0.676,Positive,0.478,Positive,0.779,Positive,0.976
+REV_05555,REV_05555_C09,Food,If they would have been added little bit spices it would be great,Positive,Positive,0.781,Positive,0.562,Positive,0.5,Positive,0.945,Positive,0.96
+REV_05561,REV_05561_C01,Food,nice food value for money,Positive,Positive,0.965,Positive,0.772,Positive,0.523,Positive,0.935,Positive,0.984
+REV_05561,REV_05561_C01,Price / Value,nice food value for money,Positive,Positive,0.934,Positive,0.714,Positive,0.555,Positive,0.918,Positive,0.983
+REV_05577,REV_05577_C01,Food,very less quantity,Negative,Negative,0.99,Negative,0.796,Negative,0.603,Negative,0.926,Negative,0.974
+REV_05624,REV_05624_C02,Ambience,"pretty good ambiance to go with friends and it’s very close to DLF , that’s more than require to hang out here",Positive,Positive,0.929,Positive,0.71,Positive,0.581,Positive,0.912,Positive,0.974
+REV_05628,REV_05628_C01,General Experience,We have ordered from this place and it has some amazing choices we could choose from,Positive,Positive,0.926,Positive,0.69,Positive,0.721,Positive,0.964,Positive,0.981
+REV_05628,REV_05628_C04,Food,The shakes are super yummy and I had my best shakes here,Positive,Positive,0.951,Positive,0.743,Positive,0.484,Positive,0.932,Positive,0.98
+REV_05708,REV_05708_C02,Ambience,It has got a nice decor and the seating was very comfortable and relaxed,Positive,Positive,0.955,Positive,0.733,Positive,0.63,Positive,0.965,Positive,0.973
+REV_05708,REV_05708_C05,Food,Both the shakes were really nice and thick,Positive,Positive,0.927,Positive,0.694,Positive,0.519,Positive,0.946,Positive,0.958
+REV_05708,REV_05708_C07,Food,On my second visit to this place I tried it's Go Guava Shake [Rs.145] and it is my favorite,Positive,Positive,0.95,Positive,0.743,Positive,0.596,Positive,0.886,Positive,0.975
+REV_05708,REV_05708_C08,Food,It tasted awesome with plenty of ice cream blended with guava and topped with Guava crush,Positive,Positive,0.875,Positive,0.646,Positive,0.533,Positive,0.933,Positive,0.981
+REV_05806,REV_05806_C02,Food,The burger was nice with an overload of cheese,Positive,Positive,0.986,Positive,0.808,Positive,0.537,Positive,0.948,Positive,0.928
+REV_05806,REV_05806_C04,Food,Egg puff was also tasty,Positive,Positive,0.937,Positive,0.695,Positive,0.46,Positive,0.816,Positive,0.973
+REV_05806,REV_05806_C05,Food,A decent bakery with some good food and affordable prices,Positive,Positive,0.973,Positive,0.773,Positive,0.644,Positive,0.991,Positive,0.981
+REV_05806,REV_05806_C05,Price / Value,A decent bakery with some good food and affordable prices,Positive,Positive,0.976,Positive,0.747,Positive,0.659,Positive,0.984,Positive,0.98
+REV_05821,REV_05821_C01,Ambience,Ambience was great,Positive,Positive,0.923,Positive,0.741,Positive,0.558,Positive,0.966,Positive,0.981
+REV_05821,REV_05821_C02,Food,food was good too,Positive,Positive,0.956,Positive,0.736,Positive,0.57,Positive,0.971,Positive,0.979
+REV_05821,REV_05821_C03,Service,service was pretty fast,Positive,Positive,0.776,Positive,0.577,Negative,0.417,Positive,0.572,Positive,0.951
+REV_05821,REV_05821_C05,Service,Pradhan was my appointed guy and he was very respectful and fast in delivering my orders,Positive,Positive,0.804,Positive,0.612,Negative,0.448,Positive,0.672,Positive,0.977
+REV_05859,REV_05859_C01,Food,A decent place for party and a cozy climate too,Positive,Positive,0.941,Positive,0.685,Positive,0.594,Positive,0.958,Positive,0.976
+REV_05859,REV_05859_C02,Food,Veg manchurian was great and chicken kebabs were fine,Positive,Positive,0.919,Positive,0.68,Positive,0.507,Positive,0.964,Positive,0.981
+REV_05943,REV_05943_C01,Ambience,Only place in Hyderabad with really good music to party,Positive,Positive,0.982,Positive,0.797,Positive,0.768,Positive,0.993,Positive,0.977
+REV_05943,REV_05943_C02,Ambience,They have got huge dance floor with all the perfect light effects,Positive,Positive,0.95,Positive,0.73,Positive,0.568,Positive,0.813,Positive,0.971
+REV_05943,REV_05943_C03,Ambience,Awesome crowd as well,Positive,Positive,0.965,Positive,0.771,Positive,0.512,Positive,0.914,Positive,0.98
+REV_05949,REV_05949_C03,Ambience,As you enter you cross your way through a large parking space and pathway to overlook a huge monkey like figure enjoying music,Positive,Positive,0.795,Positive,0.594,Positive,0.535,Positive,0.665,Positive,0.954
+REV_05949,REV_05949_C05,Ambience,The ambience inside is amazing and is spread over two floors with the ground floor having the huge dance floor and pubs and a seating area upstairs,Positive,Positive,0.953,Positive,0.737,Positive,0.636,Positive,0.965,Positive,0.969
+REV_05949,REV_05949_C07,Food,There is also an outdoor seating where you can watch your favorite matches and when bored head to the dance floor back indoor,Positive,Positive,0.839,Positive,0.641,Positive,0.473,Positive,0.761,Positive,0.671
+REV_05949,REV_05949_C12,Food,Was not soft and requires lot of improvement,Positive,Positive,0.648,Positive,0.502,Negative,0.457,Negative,0.588,Negative,0.773
+REV_05949,REV_05949_C17,Food,The taste was delectable with the right balance of flavors and enhanced by the sweet chilli dip,Positive,Positive,0.872,Positive,0.676,Positive,0.473,Positive,0.829,Positive,0.979
+REV_05949,REV_05949_C18,Food,The only issue was not that crispy and a bit more oily,Negative,Negative,0.77,Negative,0.504,Negative,0.574,Negative,0.955,Negative,0.952
+REV_05949,REV_05949_C20,Food,"For the mains we had Exotic Vegetables in Black Pepper with Rice, the curry was just ok had a decent flavor",Positive,Positive,0.67,Positive,0.497,Positive,0.454,Positive,0.703,Positive,0.948
+REV_05949,REV_05949_C22,Food,Prism Special Veg Pizza:,Positive,Positive,0.853,Positive,0.62,Positive,0.386,Positive,0.689,Positive,0.933
+REV_05949,REV_05949_C24,Food,The pizza was decent in taste had not much of marinara base,Positive,Positive,0.554,Positive,0.467,Negative,0.472,Positive,0.648,Positive,0.75
+REV_05949,REV_05949_C25,Food,was not bland either,Negative,Negative,0.99,Negative,0.788,Negative,0.532,Negative,0.965,Negative,0.962
+REV_05949,REV_05949_C28,Food,Apart from these we were also served Veg Pulao and Meloni Tarkari curry which was completely average and to be skipped,Neutral,Neutral,0.557,Neutral,0.398,Positive,0.393,Neutral,0.992,Neutral,0.959
+REV_05949,REV_05949_C28,Service,Apart from these we were also served Veg Pulao and Meloni Tarkari curry which was completely average and to be skipped,Neutral,Neutral,0.568,Neutral,0.401,Positive,0.389,Neutral,0.978,Neutral,0.953
+REV_05949,REV_05949_C30,Food,Cucumber Coriander Mocktail: The cucumber coriander mocktail was too sweet,Positive,Positive,0.686,Positive,0.557,Negative,0.433,Positive,0.672,Negative,0.612
+REV_05949,REV_05949_C37,Food,The place is highly average in terms of food despite being an ideal place to enjoy the night life,Positive,Positive,0.822,Positive,0.568,Positive,0.547,Neutral,0.968,Neutral,0.962
+REV_05949,REV_05949_C39,Food,Food: 3/5,Neutral,Neutral,0.828,Neutral,0.5,Neutral,0.61,Neutral,0.824,Neutral,0.919
+REV_05949,REV_05949_C40,Ambience,Ambience: 5/5,Positive,Neutral,0.734,Positive,0.473,Neutral,0.52,Neutral,0.748,Neutral,0.639
+REV_05965,REV_05965_C03,Ambience,I recommend evryone to visit and enjoy the place whr yu can hve good food and good music together whr yu can chill and dance,Positive,Positive,0.979,Positive,0.789,Positive,0.718,Positive,0.983,Positive,0.977
+REV_05965,REV_05965_C03,Food,I recommend evryone to visit and enjoy the place whr yu can hve good food and good music together whr yu can chill and dance,Positive,Positive,0.981,Positive,0.787,Positive,0.695,Positive,0.983,Positive,0.977
+REV_05965,REV_05965_C03,General Experience,I recommend evryone to visit and enjoy the place whr yu can hve good food and good music together whr yu can chill and dance,Positive,Positive,0.989,Positive,0.817,Positive,0.818,Positive,0.986,Positive,0.979
+REV_06006,REV_06006_C01,General Experience,Too Good,Positive,Positive,0.992,Positive,0.831,Positive,0.71,Positive,0.981,Positive,0.814
+REV_06006,REV_06006_C04,Ambience,more over pub ambience is also good,Positive,Positive,0.924,Positive,0.711,Positive,0.568,Positive,0.97,Positive,0.956
+REV_06006,REV_06006_C06,Price / Value,it's worth for what they charge there,Positive,Positive,0.814,Positive,0.583,Negative,0.484,Positive,0.758,Positive,0.905
+REV_06064,REV_06064_C01,Food,paneer too spicy,Positive,Positive,0.84,Positive,0.638,Negative,0.405,Positive,0.824,Positive,0.861
+REV_06064,REV_06064_C02,Food,manchurian an naan were great,Positive,Positive,0.948,Positive,0.709,Positive,0.482,Positive,0.961,Positive,0.965
+REV_06072,REV_06072_C01,Service,on time delivery,Positive,Positive,0.9,Positive,0.664,Positive,0.431,Positive,0.618,Positive,0.842
+REV_06121,REV_06121_C01,Food,Had a great time enjoying the delicious food,Positive,Positive,0.986,Positive,0.811,Positive,0.574,Positive,0.985,Positive,0.984
+REV_06121,REV_06121_C03,Food,Each and every item was served and presented very nicely and was delicious,Positive,Positive,0.936,Positive,0.714,Positive,0.507,Positive,0.938,Positive,0.982
+REV_06121,REV_06121_C04,General Experience,To all those reading this try ordering the special foods that this place serves to have the best experience of eating out here and most importantly order an egg fu yang for sure to go with the main coarse,Positive,Positive,0.917,Positive,0.725,Positive,0.676,Positive,0.976,Positive,0.975
+REV_06121,REV_06121_C04,Service,To all those reading this try ordering the special foods that this place serves to have the best experience of eating out here and most importantly order an egg fu yang for sure to go with the main coarse,Positive,Positive,0.851,Positive,0.679,Positive,0.615,Positive,0.976,Positive,0.976
+REV_06121,REV_06121_C05,Ambience,Pricing is reasonable considering the food and ambience and a meal at this place will surely fit into the budget,Positive,Positive,0.922,Positive,0.696,Positive,0.577,Positive,0.819,Positive,0.965
+REV_06121,REV_06121_C05,Food,Pricing is reasonable considering the food and ambience and a meal at this place will surely fit into the budget,Positive,Positive,0.917,Positive,0.69,Positive,0.532,Positive,0.783,Positive,0.969
+REV_06121,REV_06121_C05,Price / Value,Pricing is reasonable considering the food and ambience and a meal at this place will surely fit into the budget,Positive,Positive,0.899,Positive,0.666,Positive,0.529,Positive,0.698,Positive,0.971
+REV_06146,REV_06146_C02,General Experience,both are just not good,Positive,Positive,0.762,Positive,0.56,Positive,0.728,Positive,0.887,Negative,0.913
+REV_06201,REV_06201_C01,Food,I ordered veg soft noodles and garlic burnt fried rice and both are undercooked,Negative,Positive,0.604,Positive,0.534,Positive,0.449,Negative,0.621,Negative,0.958
+REV_06213,REV_06213_C01,Service,Ambience was quite simple like a Cafe and the order will arrive to your table quick fast,Positive,Positive,0.587,Positive,0.514,Positive,0.532,Positive,0.853,Positive,0.969
+REV_06213,REV_06213_C02,Food,I have tried only chicken dum biryani (becoz my tummy was full) which was good,Positive,Positive,0.973,Positive,0.763,Positive,0.578,Positive,0.968,Positive,0.963
+REV_06213,REV_06213_C03,General Experience,not great,Positive,Positive,0.973,Positive,0.747,Positive,0.686,Positive,0.956,Positive,0.776
+REV_06213,REV_06213_C04,Food,It can be little more spicy and juicy,Positive,Positive,0.533,Positive,0.473,Negative,0.439,Positive,0.834,Negative,0.816
+REV_06267,REV_06267_C01,General Experience,Good as Always,Positive,Positive,0.995,Positive,0.86,Positive,0.716,Positive,0.982,Positive,0.981
+REV_06289,REV_06289_C01,General Experience,Worst experience ever,Negative,Negative,0.978,Negative,0.749,Negative,0.61,Negative,0.97,Negative,0.98
+REV_06289,REV_06289_C03,Food,Pathetic music,Negative,Negative,0.959,Negative,0.701,Negative,0.438,Negative,0.965,Negative,0.98
+REV_06289,REV_06289_C04,Food,Starters were cold,Negative,Negative,0.908,Negative,0.639,Negative,0.45,Negative,0.963,Negative,0.976
+REV_06419,REV_06419_C03,Food,Serivice is really poor,Negative,Negative,0.942,Negative,0.655,Negative,0.42,Negative,0.936,Negative,0.976
+REV_06419,REV_06419_C05,Food,Food 1/5,Negative,Neutral,0.828,Neutral,0.5,Neutral,0.61,Neutral,0.824,Neutral,0.881
+REV_06419,REV_06419_C06,Ambience,Ambience 1/5,Negative,Neutral,0.734,Positive,0.473,Neutral,0.52,Neutral,0.748,Neutral,0.768
+REV_06419,REV_06419_C07,Service,Service 1/5,Negative,Neutral,0.696,Neutral,0.398,Neutral,0.456,Neutral,0.735,Neutral,0.731
+REV_06484,REV_06484_C03,Food,"the required seasonings are not provided(fried onion which are main in a Mandi) and also I have seen them filling tap water in the bottles and serving the same as bottled water , so watch out at last you can rate the food at 4/5 , seasonings 2/5",Positive,Negative,0.657,Positive,0.429,Positive,0.462,Positive,0.617,Negative,0.615
+REV_06484,REV_06484_C04,Ambience,ambience 1/5 at last it is a great place to go with family and friends,Positive,Positive,0.952,Positive,0.745,Positive,0.738,Positive,0.987,Positive,0.982
+REV_06484,REV_06484_C04,General Experience,ambience 1/5 at last it is a great place to go with family and friends,Positive,Positive,0.973,Positive,0.779,Positive,0.823,Positive,0.99,Positive,0.983
+REV_06494,REV_06494_C04,Food,We were about 10 of us and got a chance to try a lot of starters and they were all good,Positive,Positive,0.933,Positive,0.7,Positive,0.559,Positive,0.848,Positive,0.976
+REV_06494,REV_06494_C07,Service,Service is good,Positive,Positive,0.915,Positive,0.715,Positive,0.646,Positive,0.97,Positive,0.983
+REV_06619,REV_06619_C01,General Experience,"The best place to chill out with friends , A best place to enjoy the food and alcohol",Positive,Positive,0.985,Positive,0.805,Positive,0.778,Positive,0.976,Positive,0.972
+REV_06619,REV_06619_C02,General Experience,The staff also good at serving,Positive,Positive,0.985,Positive,0.816,Positive,0.716,Positive,0.985,Positive,0.979
+REV_06619,REV_06619_C03,Ambience,Best place to hangout,Positive,Positive,0.955,Positive,0.728,Positive,0.644,Positive,0.909,Positive,0.967
+REV_06648,REV_06648_C03,Ambience,We went there thinking it would have good music and nice decor,Positive,Positive,0.94,Positive,0.698,Positive,0.625,Positive,0.982,Positive,0.983
+REV_06656,REV_06656_C02,Food,food was indeed a surprise factor and was really tasty with some quick service,Positive,Positive,0.922,Positive,0.693,Positive,0.455,Positive,0.961,Positive,0.981
+REV_06656,REV_06656_C02,Service,food was indeed a surprise factor and was really tasty with some quick service,Positive,Positive,0.9,Positive,0.674,Positive,0.467,Positive,0.952,Positive,0.981
+REV_06656,REV_06656_C04,Food,Food:5/5,Positive,Neutral,0.828,Neutral,0.5,Neutral,0.61,Neutral,0.824,Neutral,0.805
+REV_06656,REV_06656_C05,Ambience,Ambience:5/5,Positive,Neutral,0.734,Positive,0.473,Neutral,0.52,Neutral,0.748,Neutral,0.639
+REV_06656,REV_06656_C06,Service,Service:5/5,Positive,Neutral,0.696,Neutral,0.398,Neutral,0.456,Neutral,0.735,Neutral,0.736
+REV_06667,REV_06667_C05,Food,Other dishes were tasty too,Positive,Positive,0.691,Positive,0.543,Positive,0.415,Positive,0.805,Positive,0.971
+REV_06667,REV_06667_C06,Service,Liked their service,Positive,Positive,0.857,Positive,0.65,Negative,0.405,Positive,0.717,Positive,0.973
+REV_06667,REV_06667_C08,General Experience,Overall a good place to enjoy,Positive,Positive,0.987,Positive,0.806,Positive,0.854,Positive,0.989,Positive,0.985
+REV_06675,REV_06675_C01,Ambience,Ambiance is good,Positive,Positive,0.93,Positive,0.748,Positive,0.647,Positive,0.969,Positive,0.984
+REV_06675,REV_06675_C02,Food,Service is very nice with tasty food,Positive,Positive,0.967,Positive,0.765,Positive,0.52,Positive,0.982,Positive,0.984
+REV_06675,REV_06675_C03,Service,Raza made sure we get a good service and fulfilled our wishes,Positive,Positive,0.91,Positive,0.679,Positive,0.525,Positive,0.976,Positive,0.981
+REV_06675,REV_06675_C04,General Experience,A surprise cake for the occasion was nice gesture,Positive,Positive,0.964,Positive,0.744,Positive,0.696,Positive,0.963,Positive,0.984
+REV_06689,REV_06689_C03,Food,Not great spread on the buffet,Positive,Positive,0.677,Positive,0.534,Positive,0.477,Positive,0.934,Positive,0.736
+REV_06689,REV_06689_C04,Food,The starters were either too spicy or undercooked,Negative,Negative,0.598,Positive,0.412,Negative,0.451,Negative,0.579,Negative,0.963
+REV_06689,REV_06689_C05,Food,The main course spread was below average,Negative,Negative,0.837,Negative,0.523,Negative,0.454,Negative,0.882,Negative,0.95
+REV_06689,REV_06689_C06,Food,The fresh jalebi was a good addition to the otherwise below average dessert spread,Negative,Negative,0.529,Positive,0.439,Positive,0.437,Negative,0.817,Negative,0.828
+REV_06747,REV_06747_C01,Food,Food is good and lots of,Positive,Positive,0.948,Positive,0.726,Positive,0.573,Positive,0.976,Positive,0.982
+REV_06747,REV_06747_C03,Price / Value,and service is good by suvendu and taste is good with reasonable price,Positive,Positive,0.969,Positive,0.753,Positive,0.62,Positive,0.799,Positive,0.978
+REV_06747,REV_06747_C04,Ambience,ambience is really good,Positive,Positive,0.953,Positive,0.771,Positive,0.62,Positive,0.97,Positive,0.984
+REV_06760,REV_06760_C03,Ambience,Quite a big place with good decor,Positive,Positive,0.967,Positive,0.781,Positive,0.694,Positive,0.987,Positive,0.982
+REV_06760,REV_06760_C04,Service,Staff were helpful and service was quick,Positive,Positive,0.927,Positive,0.674,Positive,0.464,Positive,0.859,Positive,0.981
+REV_06760,REV_06760_C05,Food,I loved the starters there,Positive,Positive,0.929,Positive,0.698,Positive,0.516,Positive,0.865,Positive,0.977
+REV_06760,REV_06760_C06,Food,"Chicken leg kebab, other chicken starter were also very good",Positive,Positive,0.796,Positive,0.596,Positive,0.559,Positive,0.872,Positive,0.977
+REV_06760,REV_06760_C07,Food,"The best was prawns, tandoori prawns were just amazing",Positive,Positive,0.964,Positive,0.739,Positive,0.526,Positive,0.954,Positive,0.981
+REV_06760,REV_06760_C09,Food,"Main course also had good variety from chicken, mutton to fish",Positive,Positive,0.856,Positive,0.652,Positive,0.561,Positive,0.973,Positive,0.978
+REV_06760,REV_06760_C10,Food,Desserts were also good,Positive,Positive,0.953,Positive,0.721,Positive,0.511,Positive,0.969,Positive,0.982
+REV_06783,REV_06783_C04,Food,Chicken starter in bean sauce was bitter in taste,Positive,Positive,0.615,Positive,0.499,Positive,0.412,Positive,0.687,Negative,0.884
+REV_06783,REV_06783_C09,General Experience,Hope it would be fixed soon and we will not be disappointed when dining next time with our friends,Positive,Negative,0.562,Positive,0.438,Positive,0.507,Negative,0.787,Negative,0.965
+REV_06871,REV_06871_C01,Service,Went for my friend bday party with team'staff are very helpful And,Positive,Positive,0.912,Positive,0.662,Positive,0.492,Positive,0.863,Positive,0.983
+REV_06871,REV_06871_C02,Service,service was really great,Positive,Positive,0.859,Positive,0.632,Positive,0.468,Positive,0.961,Positive,0.984
+REV_06871,REV_06871_C03,Food,food is delicious specially Singapore prawn,Positive,Positive,0.927,Positive,0.69,Positive,0.444,Positive,0.915,Positive,0.979
+REV_06871,REV_06871_C06,Food,thank you Mr Srikanth for providing us excellent service And food,Positive,Positive,0.933,Positive,0.693,Positive,0.449,Positive,0.834,Positive,0.983
+REV_06871,REV_06871_C06,Service,thank you Mr Srikanth for providing us excellent service And food,Positive,Positive,0.91,Positive,0.672,Positive,0.454,Positive,0.821,Positive,0.983
+REV_06971,REV_06971_C02,Food,"Their brownies are to die for , they have a huge variety of cupcakes",Positive,Positive,0.921,Positive,0.714,Positive,0.493,Positive,0.673,Positive,0.944
+REV_06971,REV_06971_C03,Food,my personal favourite have always been the red velvet and chocolate brownies with walnut topping,Positive,Positive,0.95,Positive,0.727,Positive,0.472,Positive,0.864,Positive,0.972
+REV_06993,REV_06993_C01,Service,When we order something special for a loved ones birthday apart from the value there are always sentiments attached to it,Positive,Positive,0.873,Positive,0.66,Positive,0.485,Positive,0.927,Positive,0.968
+REV_06993,REV_06993_C10,Price / Value,Well since the cake held sentimental value for me I did leave immediately and rushed to the Gachibowli store,Positive,Positive,0.798,Positive,0.619,Positive,0.483,Positive,0.678,Positive,0.867
+REV_06993,REV_06993_C16,Price / Value,If they cannot value their customers and have no regard for others time and sentiments I do not think it would ever matter how their product is,Positive,Negative,0.514,Positive,0.469,Negative,0.553,Negative,0.824,Negative,0.856
+REV_06993,REV_06993_C17,Price / Value,My sister no longer considers them a role model as she values her customers more than having a fancy store with expensive products,Negative,Negative,0.841,Negative,0.54,Negative,0.524,Negative,0.942,Negative,0.938
+REV_06993,REV_06993_C21,General Experience,Update: I have a facebook post which certifies that minimum 5 friends of mine have dealt with similar bad experiences,Negative,Negative,0.755,Negative,0.508,Positive,0.571,Positive,0.824,Negative,0.969
+REV_06997,REV_06997_C01,Food,I have never denied I have sweet teeth,Positive,Positive,0.761,Positive,0.585,Negative,0.409,Positive,0.659,Negative,0.546
+REV_06997,REV_06997_C06,Food,"Cupcakes that edge sweet without being overpowering so I can share with the ""I don't like desserts that are actually sweet"" crowd",Positive,Positive,0.602,Positive,0.541,Positive,0.448,Positive,0.765,Positive,0.75
+REV_07018,REV_07018_C02,Food,Loved the Coco Vanilla cake,Positive,Positive,0.969,Positive,0.768,Positive,0.466,Positive,0.865,Positive,0.98
+REV_07018,REV_07018_C03,Service,This place is so classy/ The guy on tills is very decent and friendly,Positive,Positive,0.963,Positive,0.766,Positive,0.645,Positive,0.967,Positive,0.982
+REV_07047,REV_07047_C01,Food,Delicious chocolate brownies,Positive,Positive,0.97,Positive,0.752,Positive,0.445,Positive,0.903,Positive,0.981
+REV_07047,REV_07047_C02,General Experience,The packaging is awesome too,Positive,Positive,0.979,Positive,0.786,Positive,0.68,Positive,0.952,Positive,0.98
+REV_07047,REV_07047_C07,Food,I'm not too good with dessert consistency and stuff,Positive,Positive,0.7,Positive,0.565,Positive,0.507,Positive,0.928,Negative,0.631
+REV_07047,REV_07047_C08,Food,but all i can say is this is a place I would definitely recommend for dessert treats and parties,Positive,Positive,0.746,Positive,0.599,Positive,0.569,Positive,0.853,Positive,0.969
+REV_07047,REV_07047_C08,General Experience,but all i can say is this is a place I would definitely recommend for dessert treats and parties,Positive,Positive,0.858,Positive,0.655,Positive,0.701,Positive,0.869,Positive,0.976
+REV_07047,REV_07047_C09,Food,The brownies are moderately sweet and rich and not too moist,Positive,Positive,0.711,Positive,0.544,Negative,0.495,Negative,0.544,Negative,0.531
+REV_07075,REV_07075_C02,General Experience,The pizza was awesome along with the dessert,Positive,Positive,0.87,Positive,0.674,Positive,0.709,Positive,0.96,Positive,0.979
+REV_07075,REV_07075_C04,Food,The desserts are really good,Positive,Positive,0.975,Positive,0.793,Positive,0.543,Positive,0.977,Positive,0.984
+REV_07103,REV_07103_C01,Food,We ordered cold coffee and capacuino,Negative,Negative,0.964,Negative,0.678,Negative,0.537,Negative,0.954,Negative,0.967
+REV_07103,REV_07103_C02,Food,The cold coffee wasn't cold and the capacuino wasn't hot,Negative,Negative,0.995,Negative,0.819,Negative,0.575,Negative,0.956,Negative,0.962
+REV_07103,REV_07103_C03,Service,Disappointed with the temperature of the coffees served,Negative,Negative,0.981,Negative,0.735,Negative,0.56,Negative,0.953,Negative,0.979
+REV_07153,REV_07153_C01,General Experience,Very good frappe,Positive,Positive,0.997,Positive,0.87,Positive,0.782,Positive,0.978,Positive,0.984
+REV_07153,REV_07153_C02,General Experience,Thanks for the good experience,Positive,Positive,0.988,Positive,0.809,Positive,0.719,Positive,0.979,Positive,0.984
+REV_07174,REV_07174_C01,General Experience,Worst experience with Faasos,Negative,Negative,0.861,Negative,0.582,Negative,0.531,Negative,0.95,Negative,0.982
+REV_07192,REV_07192_C04,Food,"Honestly, my excitement dropped down after tasting the parathas, as they were too greasy",Positive,Positive,0.539,Positive,0.483,Negative,0.45,Positive,0.721,Negative,0.954
+REV_07192,REV_07192_C06,Food,What I liked about the thali was that it had more than enough food for 1 person,Positive,Positive,0.827,Positive,0.597,Negative,0.463,Positive,0.721,Positive,0.897
+REV_07192,REV_07192_C08,Food,I have very high expectations from Fassos and am sure they will take this feedback well and improve on the quality of parathas,Positive,Positive,0.615,Positive,0.537,Positive,0.478,Negative,0.51,Positive,0.966
+REV_07252,REV_07252_C02,Food,tasty,Positive,Positive,0.938,Positive,0.708,Positive,0.419,Positive,0.674,Positive,0.977
+REV_07274,REV_07274_C02,Food,find one of the best place for starters and wide range of variety of biryanis must try taste 5/5 quality 5/5 overall 5/5 thanks zomato,Positive,Positive,0.947,Positive,0.727,Positive,0.551,Positive,0.849,Positive,0.977
+REV_07281,REV_07281_C01,General Experience,"I have ordered food from the restaurant in the late night,they have the best biryani specially boneless chicken biryani,mutton keema biryani and kaju biryani are worth to try for,they have a wide spread of biryani still looking forward to try some more",Positive,Positive,0.919,Positive,0.718,Positive,0.552,Positive,0.896,Positive,0.973
+REV_07338,REV_07338_C01,Food,nice food,Positive,Positive,0.971,Positive,0.751,Positive,0.521,Positive,0.91,Positive,0.982
+REV_07338,REV_07338_C02,Food,thank you for the nice food,Positive,Positive,0.919,Positive,0.687,Positive,0.488,Positive,0.938,Positive,0.984
+REV_07373,REV_07373_C01,Food,Bagels 🥯 is what I have most loved here and the pasta is great as always,Positive,Positive,0.978,Positive,0.794,Positive,0.555,Positive,0.982,Positive,0.982
+REV_07373,REV_07373_C02,Service,The staff is friendly and quick,Positive,Positive,0.989,Positive,0.829,Positive,0.575,Positive,0.957,Positive,0.983
+REV_07373,REV_07373_C03,Price / Value,Overall it is a bit expensive,Negative,Negative,0.909,Negative,0.622,Negative,0.576,Negative,0.963,Negative,0.975
+REV_07409,REV_07409_C01,Service,The croissants served with scrambled eggs is an awesome start for the day,Positive,Positive,0.877,Positive,0.665,Positive,0.507,Positive,0.937,Positive,0.982
+REV_07409,REV_07409_C02,Food,"The scream led eggs are really nice, soft and delicious",Positive,Positive,0.995,Positive,0.864,Positive,0.597,Positive,0.988,Positive,0.981
+REV_07409,REV_07409_C03,Food,"I was disappointed by the special omelette, which is costlier than the scrambled eggs",Negative,Negative,0.834,Negative,0.518,Negative,0.499,Negative,0.922,Negative,0.976
+REV_07428,REV_07428_C05,Food,Starting with veg white pasta and ending with a good cup of cold coffee,Negative,Positive,0.668,Positive,0.539,Positive,0.466,Negative,0.524,Negative,0.851
+REV_07442,REV_07442_C01,Ambience,"I liked the ambience, the wooden tables looked great and I was able to take some beautiful snaps",Positive,Positive,0.951,Positive,0.738,Positive,0.616,Positive,0.986,Positive,0.982
+REV_07442,REV_07442_C04,Food,"The Victoria cake had a layer of cream and blueberry sauce sandwiched between two slices of sponge cake, it tasted delicious",Positive,Positive,0.748,Positive,0.57,Positive,0.497,Positive,0.938,Positive,0.975
+REV_07442,REV_07442_C05,Food,"In the croissant, the chocolate reminded me of Cadbury diary milk and red velvet brownie was good too",Positive,Positive,0.959,Positive,0.712,Positive,0.56,Positive,0.967,Positive,0.975
+REV_07458,REV_07458_C02,Food,Very reasonable and awesome food,Positive,Positive,0.929,Positive,0.672,Positive,0.474,Positive,0.936,Positive,0.984
+REV_07458,REV_07458_C03,Service,Staff is very friendly,Positive,Positive,0.972,Positive,0.769,Positive,0.561,Positive,0.922,Positive,0.983
+REV_07458,REV_07458_C05,Ambience,Very nice arrangements,Positive,Positive,0.936,Positive,0.697,Positive,0.567,Positive,0.949,Positive,0.983
+REV_07544,REV_07544_C01,Ambience,Ambience was good and Ofcourse food too :) we ordered some spicy chicken which was a bit spicy 🌶,Positive,Positive,0.944,Positive,0.713,Positive,0.583,Positive,0.958,Positive,0.944
+REV_07544,REV_07544_C01,Food,Ambience was good and Ofcourse food too :) we ordered some spicy chicken which was a bit spicy 🌶,Positive,Positive,0.949,Positive,0.709,Positive,0.556,Positive,0.955,Positive,0.949
+REV_07544,REV_07544_C02,Food,tastes good,Positive,Positive,0.964,Positive,0.747,Positive,0.511,Positive,0.97,Positive,0.983
+REV_07575,REV_07575_C01,General Experience,"This is the worst place in Zomato gold I ever visited,waste of money",Negative,Negative,0.982,Negative,0.761,Negative,0.55,Negative,0.996,Negative,0.977
+REV_07575,REV_07575_C01,Price / Value,"This is the worst place in Zomato gold I ever visited,waste of money",Negative,Negative,0.992,Negative,0.816,Negative,0.634,Negative,0.997,Negative,0.977
+REV_07575,REV_07575_C02,Service,service is worst,Negative,Negative,0.934,Negative,0.661,Negative,0.456,Negative,0.976,Negative,0.983
+REV_07575,REV_07575_C06,General Experience,worst worst worst experience,Negative,Negative,0.998,Negative,0.886,Negative,0.552,Negative,0.963,Negative,0.978
+REV_07607,REV_07607_C01,Food,Very good food and friendly staff with great manegment,Positive,Positive,0.998,Positive,0.894,Positive,0.708,Positive,0.998,Positive,0.984
+REV_07607,REV_07607_C01,Service,Very good food and friendly staff with great manegment,Positive,Positive,0.996,Positive,0.876,Positive,0.729,Positive,0.997,Positive,0.984
+REV_07607,REV_07607_C02,Food,the starters were so yummy lal mrichi ka teeka tikka and tundey kebab,Positive,Positive,0.838,Positive,0.606,Positive,0.476,Positive,0.847,Positive,0.976
+REV_07607,REV_07607_C03,Food,"Murgh kandhar was delicious , we finished our dinner with gulab jamoon",Positive,Positive,0.964,Positive,0.754,Positive,0.486,Positive,0.95,Positive,0.978
+REV_07607,REV_07607_C04,Food,Overall a best place to visit if you are a kebab fan,Positive,Positive,0.93,Positive,0.72,Positive,0.639,Positive,0.959,Positive,0.98
+REV_07633,REV_07633_C07,Price / Value,not worth it,Negative,Negative,0.935,Negative,0.653,Negative,0.625,Negative,0.869,Negative,0.955
+REV_07633,REV_07633_C10,Food,Highly costly food,Negative,Negative,0.797,Negative,0.489,Negative,0.417,Negative,0.817,Negative,0.973
+REV_07633,REV_07633_C10,Price / Value,Highly costly food,Negative,Negative,0.837,Negative,0.547,Negative,0.53,Negative,0.874,Negative,0.97
+REV_07654,REV_07654_C01,Food,Food is good,Positive,Positive,0.952,Positive,0.753,Positive,0.616,Positive,0.971,Positive,0.982
+REV_07654,REV_07654_C02,General Experience,Good for ordering for team lunch if you prefer not to go out,Positive,Positive,0.9,Positive,0.692,Positive,0.651,Positive,0.791,Positive,0.972
+REV_07654,REV_07654_C03,Ambience,Ambience is not very good,Positive,Positive,0.809,Positive,0.623,Positive,0.609,Positive,0.913,Negative,0.871
+REV_07737,REV_07737_C04,Food,Bit oily and taste was ok,Negative,Negative,0.728,Negative,0.532,Negative,0.42,Neutral,0.555,Neutral,0.914
+REV_07737,REV_07737_C05,Food,the mint chutney served with it was delicious,Positive,Positive,0.871,Positive,0.68,Positive,0.504,Positive,0.955,Positive,0.977
+REV_07737,REV_07737_C06,Food,Chicken tikka biriyani was good,Positive,Positive,0.967,Positive,0.759,Positive,0.538,Positive,0.971,Positive,0.981
+REV_07737,REV_07737_C07,Food,Chicken was tender soft and biriyani flavour was good,Positive,Positive,0.993,Positive,0.839,Positive,0.586,Positive,0.98,Positive,0.976
+REV_07737,REV_07737_C10,Service,Service was quick,Positive,Positive,0.751,Positive,0.575,Positive,0.395,Positive,0.788,Positive,0.969
+REV_07759,REV_07759_C07,General Experience,Overall a good experience,Positive,Positive,0.985,Positive,0.789,Positive,0.717,Positive,0.979,Positive,0.985
+REV_07772,REV_07772_C02,Food,Fast delivery and taste good,Positive,Positive,0.978,Positive,0.785,Positive,0.53,Positive,0.977,Positive,0.983
+REV_07772,REV_07772_C02,Service,Fast delivery and taste good,Positive,Positive,0.965,Positive,0.757,Positive,0.546,Positive,0.976,Positive,0.983
+REV_07772,REV_07772_C03,Price / Value,The price is not that high it's all within the range,Positive,Positive,0.674,Positive,0.527,Negative,0.538,Positive,0.621,Negative,0.482
+REV_07772,REV_07772_C05,Food,a little less in rice,Negative,Negative,0.985,Negative,0.756,Negative,0.523,Negative,0.941,Negative,0.965
+REV_07776,REV_07776_C01,Food,Good food and excellent service,Positive,Positive,0.98,Positive,0.799,Positive,0.632,Positive,0.988,Positive,0.984
+REV_07776,REV_07776_C01,Service,Good food and excellent service,Positive,Positive,0.969,Positive,0.771,Positive,0.635,Positive,0.987,Positive,0.984
+REV_07776,REV_07776_C02,Food,the quality of the food was fantastic and they served it well for me I am happy with the way they have provide the delicious food,Positive,Positive,0.883,Positive,0.682,Positive,0.553,Positive,0.978,Positive,0.983
+REV_07776,REV_07776_C02,Service,the quality of the food was fantastic and they served it well for me I am happy with the way they have provide the delicious food,Positive,Positive,0.855,Positive,0.662,Positive,0.543,Positive,0.977,Positive,0.983
+REV_07828,REV_07828_C01,Food,Taste is good(chicken tikka biryani),Positive,Positive,0.811,Positive,0.622,Positive,0.543,Positive,0.972,Positive,0.98
+REV_07828,REV_07828_C02,Food,As per the quantity not value for money,Positive,Positive,0.672,Positive,0.522,Negative,0.449,Positive,0.514,Negative,0.916
+REV_07828,REV_07828_C02,Price / Value,As per the quantity not value for money,Positive,Positive,0.613,Positive,0.492,Negative,0.496,Negative,0.547,Negative,0.866
+REV_07944,REV_07944_C01,Food,They have really good bryani and starters,Positive,Positive,0.964,Positive,0.772,Positive,0.554,Positive,0.976,Positive,0.982
+REV_07944,REV_07944_C02,Food,Overall food quality is good,Positive,Positive,0.777,Positive,0.594,Positive,0.515,Positive,0.971,Positive,0.983
+REV_07944,REV_07944_C04,General Experience,"Staff is good, they will help you in choosing the menus recomendations etc",Positive,Positive,0.985,Positive,0.82,Positive,0.754,Positive,0.973,Positive,0.983
+REV_08018,REV_08018_C03,General Experience,Awesome must try cheers,Positive,Positive,0.994,Positive,0.847,Positive,0.665,Positive,0.95,Positive,0.978
+REV_08022,REV_08022_C02,Food,"No doubt, the burger was very juicy and tasty",Positive,Positive,0.893,Positive,0.66,Positive,0.458,Positive,0.858,Positive,0.974
+REV_08028,REV_08028_C01,Food,"Have been hearing a lot about this amazing burger place opposite to DLF, what an amazing join with live grill and freshly made burgers, loved the friendly staff and a uniquely named menu",Positive,Positive,0.994,Positive,0.864,Positive,0.684,Positive,0.995,Positive,0.982
+REV_08028,REV_08028_C01,Service,"Have been hearing a lot about this amazing burger place opposite to DLF, what an amazing join with live grill and freshly made burgers, loved the friendly staff and a uniquely named menu",Positive,Positive,0.993,Positive,0.855,Positive,0.684,Positive,0.995,Positive,0.982
+REV_08028,REV_08028_C02,Food,"ordered Galaxy and milky way burger which were amazing and cooked to perfection, the charcoal grill gives the burger a unique BBQ taste with chunky chicken pieces in it",Positive,Positive,0.84,Positive,0.604,Positive,0.546,Positive,0.943,Positive,0.969
+REV_08028,REV_08028_C03,Ambience,"On rush hours the service time can go lengthy, limit parking space the shop shares a juice center which is a plus point to grab some quick fresh juice or soft drink to go with your burger",Positive,Positive,0.878,Positive,0.668,Positive,0.533,Positive,0.899,Negative,0.762
+REV_08028,REV_08028_C03,Food,"On rush hours the service time can go lengthy, limit parking space the shop shares a juice center which is a plus point to grab some quick fresh juice or soft drink to go with your burger",Positive,Positive,0.862,Positive,0.659,Positive,0.516,Positive,0.902,Negative,0.774
+REV_08028,REV_08028_C03,Service,"On rush hours the service time can go lengthy, limit parking space the shop shares a juice center which is a plus point to grab some quick fresh juice or soft drink to go with your burger",Positive,Positive,0.839,Positive,0.647,Positive,0.504,Positive,0.896,Negative,0.777
+REV_08028,REV_08028_C07,General Experience,and definitely it's a worth visiting place,Positive,Positive,0.981,Positive,0.774,Positive,0.719,Positive,0.977,Positive,0.984
+REV_08028,REV_08028_C07,Price / Value,and definitely it's a worth visiting place,Positive,Positive,0.923,Positive,0.662,Positive,0.551,Positive,0.928,Positive,0.982
+REV_08065,REV_08065_C01,Food,This place is epic for anyone who wants to have a luscious juicy BBQ burger,Positive,Positive,0.872,Positive,0.693,Positive,0.655,Positive,0.867,Positive,0.979
+REV_08065,REV_08065_C04,Price / Value,It’s totally worth it,Positive,Positive,0.811,Positive,0.58,Negative,0.488,Positive,0.746,Positive,0.97
+REV_08143,REV_08143_C02,Food,"Unlike other speciality restaurants, the preparation is mild, less spicy and less masala",Negative,Negative,0.962,Negative,0.646,Negative,0.501,Negative,0.794,Negative,0.909
+REV_08143,REV_08143_C03,Food,Loved the taste,Positive,Positive,0.979,Positive,0.787,Positive,0.498,Positive,0.865,Positive,0.978
+REV_08143,REV_08143_C04,Food,Ordered curd rice which actually is not good,Negative,Negative,0.776,Negative,0.488,Negative,0.466,Negative,0.772,Negative,0.933
+REV_08143,REV_08143_C06,General Experience,Overall nice dining place in that part of Hyderabad,Positive,Positive,0.957,Positive,0.71,Positive,0.778,Positive,0.988,Positive,0.982
+REV_08157,REV_08157_C01,Ambience,Super b biryani and also paya is awesome here and coming to non veg starters you will love it great taste with the cool environment,Positive,Positive,0.981,Positive,0.811,Positive,0.647,Positive,0.992,Positive,0.982
+REV_08157,REV_08157_C05,Food,Biryani and also pulao will be great than biryani,Positive,Positive,0.829,Positive,0.639,Positive,0.509,Positive,0.951,Positive,0.972
+REV_08212,REV_08212_C02,Food,Worst food ever,Negative,Negative,0.985,Negative,0.761,Negative,0.6,Negative,0.976,Negative,0.979
+REV_08212,REV_08212_C03,Price / Value,Too costly for the worst food,Negative,Negative,0.997,Negative,0.861,Negative,0.655,Negative,0.997,Negative,0.976
+REV_08212,REV_08212_C04,Food,All the chicken curries are worst and never recommended for anyone,Negative,Negative,0.88,Negative,0.554,Negative,0.54,Negative,0.961,Negative,0.981
+REV_08212,REV_08212_C04,General Experience,All the chicken curries are worst and never recommended for anyone,Negative,Negative,0.75,Negative,0.483,Positive,0.545,Negative,0.959,Negative,0.981
+REV_08212,REV_08212_C05,General Experience,Worst experience ever,Negative,Negative,0.978,Negative,0.749,Negative,0.61,Negative,0.97,Negative,0.98
+REV_08215,REV_08215_C02,Food,"chicken kebab, chicken drumsticks like tangdi kebabs, fish kebab was all very tasty and good",Positive,Positive,0.935,Positive,0.712,Positive,0.536,Positive,0.964,Positive,0.981
+REV_08215,REV_08215_C03,Food,chicken biryani was not that great,Positive,Positive,0.84,Positive,0.608,Positive,0.476,Positive,0.924,Positive,0.935
+REV_08215,REV_08215_C05,Food,Overall a nice place for starters,Positive,Positive,0.956,Positive,0.724,Positive,0.624,Positive,0.974,Positive,0.984
+REV_08215,REV_08215_C06,Ambience,Outside sit out place is good than inside,Positive,Positive,0.961,Positive,0.759,Positive,0.683,Positive,0.976,Positive,0.978
+REV_08235,REV_08235_C04,Service,Delivery was delayed and that made me lil upset,Negative,Positive,0.739,Positive,0.57,Negative,0.461,Positive,0.678,Negative,0.976
+REV_08235,REV_08235_C07,Food,The filling of the momo wasnt really pleasing and was not tasty enuf to swat my mood,Negative,Negative,0.574,Positive,0.463,Positive,0.492,Negative,0.666,Negative,0.816
+REV_08235,REV_08235_C08,Food,The veggies seemed to be over burnt and they didnt smell good either,Negative,Negative,0.564,Positive,0.459,Positive,0.56,Positive,0.973,Negative,0.938
+REV_08235,REV_08235_C09,Food,The schezwan chutney that they usually setve with momos was more lookinglike tomato ketchup and the quantity was so lil that it cud just suffice 1 momo,Positive,Positive,0.785,Positive,0.591,Positive,0.481,Positive,0.802,Negative,0.508
+REV_08243,REV_08243_C04,Food,Red momos jauce is spicy and many,Positive,Positive,0.918,Positive,0.692,Positive,0.431,Positive,0.824,Positive,0.947
+REV_08243,REV_08243_C06,Ambience,Packaging is also nice and clean,Positive,Positive,0.966,Positive,0.766,Positive,0.607,Positive,0.956,Positive,0.979
+REV_08245,REV_08245_C01,Food,Food quality is very poor,Negative,Negative,0.923,Negative,0.587,Negative,0.439,Negative,0.931,Negative,0.977
+REV_08245,REV_08245_C03,Food,this quality of food is very worst,Negative,Negative,0.908,Negative,0.616,Negative,0.522,Negative,0.97,Negative,0.98
+REV_08252,REV_08252_C01,General Experience,"I orderedered fried veg momos from this place which were pretty good, not very spicy, filled with veggies,not too oily",Positive,Positive,0.739,Positive,0.579,Positive,0.602,Positive,0.852,Negative,0.579
+REV_08252,REV_08252_C02,Food,but the quantity was disappointing for the price it came for,Positive,Negative,0.804,Negative,0.466,Positive,0.446,Negative,0.533,Negative,0.971
+REV_08252,REV_08252_C02,Price / Value,but the quantity was disappointing for the price it came for,Positive,Negative,0.83,Negative,0.507,Negative,0.5,Negative,0.648,Negative,0.972
+REV_08352,REV_08352_C04,Service,"but the service is so appalling, probably you’ll die of hunger waiting for your order to arrive",Positive,Positive,0.76,Positive,0.569,Positive,0.485,Positive,0.672,Negative,0.946
+REV_08352,REV_08352_C09,Food,But I’ve heard they have a good offering among sandwiches and nachos,Positive,Positive,0.939,Positive,0.701,Positive,0.546,Positive,0.973,Positive,0.947
+REV_08352,REV_08352_C10,Food,So that would keep my review limited only to the sweet dishes,Positive,Positive,0.909,Positive,0.688,Positive,0.464,Positive,0.8,Positive,0.88
+REV_08352,REV_08352_C13,Price / Value,The chocolate brownie is really a waste of money: you’ve probably had much better brownies all over Hyderabad,Negative,Negative,0.818,Negative,0.523,Negative,0.556,Negative,0.907,Negative,0.957
+REV_08352,REV_08352_C14,Food,Nutella Waffles and Death by Chocolate pancakes: so good,Positive,Positive,0.989,Positive,0.832,Positive,0.519,Positive,0.976,Positive,0.956
+REV_08352,REV_08352_C18,General Experience,but worth a try,Positive,Positive,0.962,Positive,0.727,Positive,0.581,Positive,0.908,Positive,0.917
+REV_08352,REV_08352_C18,Price / Value,but worth a try,Positive,Positive,0.814,Positive,0.581,Positive,0.459,Positive,0.747,Positive,0.619
+REV_08455,REV_08455_C01,Food,Fantastic taste of american foods and awesome taste of varities,Positive,Positive,0.856,Positive,0.625,Positive,0.5,Positive,0.923,Positive,0.981
+REV_08458,REV_08458_C01,Food,The wings were very bad in taste and please rather than packing the cold drinks its better to give Cans,Negative,Negative,0.973,Negative,0.699,Negative,0.687,Negative,0.997,Negative,0.978
+REV_08458,REV_08458_C02,Food,The cold drink was not packed well and all the drink fell down,Negative,Negative,0.638,Negative,0.452,Negative,0.591,Negative,0.976,Negative,0.97
+REV_08473,REV_08473_C01,Food,Food was really good,Positive,Positive,0.921,Positive,0.706,Positive,0.555,Positive,0.97,Positive,0.983
+REV_08579,REV_08579_C02,General Experience,It was the worst experience I had attempted by ordering from here,Negative,Negative,0.914,Negative,0.619,Negative,0.559,Negative,0.978,Negative,0.978
+REV_08579,REV_08579_C03,Food,I order special chicken shwarma,Positive,Positive,0.919,Positive,0.655,Negative,0.41,Positive,0.689,Positive,0.97
+REV_08643,REV_08643_C03,Food,folld is stale cold and half is missing,Negative,Negative,0.995,Negative,0.841,Negative,0.533,Negative,0.994,Negative,0.976
+REV_08707,REV_08707_C02,General Experience,worst possible experience one can possible have,Negative,Negative,0.94,Negative,0.651,Negative,0.507,Negative,0.97,Negative,0.98
+REV_08707,REV_08707_C03,Food,"people pay so much to get a proper experience, nobody comes down to have a bitter experience",Positive,Positive,0.896,Positive,0.664,Positive,0.489,Positive,0.795,Negative,0.926
+REV_08707,REV_08707_C04,General Experience,Don't recommend,Negative,Negative,0.845,Negative,0.464,Positive,0.52,Negative,0.742,Negative,0.926
+REV_08715,REV_08715_C01,Food,Good food,Positive,Positive,0.968,Positive,0.773,Positive,0.587,Positive,0.964,Positive,0.982
+REV_08715,REV_08715_C02,Service,Service poor,Negative,Negative,0.871,Negative,0.609,Negative,0.434,Negative,0.936,Negative,0.981
+REV_08715,REV_08715_C04,General Experience,all tasted good,Positive,Positive,0.991,Positive,0.839,Positive,0.715,Positive,0.982,Positive,0.984
+REV_08733,REV_08733_C01,Food,Paneer kebab was yummy,Positive,Positive,0.872,Positive,0.647,Positive,0.421,Positive,0.798,Positive,0.972
+REV_08733,REV_08733_C05,Ambience,"Ambiance was good ,can rate 8/10",Positive,Positive,0.894,Positive,0.681,Positive,0.605,Positive,0.97,Positive,0.929
+REV_08736,REV_08736_C02,Ambience,Ambiance: The ambiance here is nice and pleasant,Positive,Positive,0.865,Positive,0.679,Positive,0.636,Positive,0.96,Positive,0.983
+REV_08736,REV_08736_C07,Food,🥣Soup: Chicken hot and spicy soup: I have to admit that this is one the items that i loved the most of this place,Positive,Positive,0.908,Positive,0.695,Positive,0.587,Positive,0.962,Positive,0.966
+REV_08736,REV_08736_C11,Food,🍨 Dessert: Loved the gajar ka halwa,Positive,Positive,0.853,Positive,0.624,Positive,0.466,Positive,0.867,Positive,0.965
+REV_08736,REV_08736_C12,Food,it was melting in mouth with the perfect sweet taste garnished with cashew nuts,Positive,Positive,0.876,Positive,0.643,Negative,0.451,Positive,0.728,Positive,0.959
+REV_08741,REV_08741_C02,Ambience,Decent ambience and good music,Positive,Positive,0.974,Positive,0.803,Positive,0.663,Positive,0.985,Positive,0.976
+REV_08741,REV_08741_C04,Food,Food was not that great 👎🏻,Positive,Positive,0.716,Positive,0.514,Positive,0.461,Positive,0.923,Positive,0.889
+REV_08784,REV_08784_C01,Food,Dinner Buffet has an amazing varieties of veg and non-veg,Positive,Positive,0.941,Positive,0.725,Positive,0.543,Positive,0.952,Positive,0.976
+REV_08784,REV_08784_C02,Food,Quality & Quantity of food on offer was good,Positive,Positive,0.975,Positive,0.75,Positive,0.552,Positive,0.979,Positive,0.983
+REV_08784,REV_08784_C03,Food,Food was very tasty,Positive,Positive,0.836,Positive,0.638,Positive,0.449,Positive,0.812,Positive,0.976
+REV_08784,REV_08784_C05,Service,"Staff were very friendly, polite and respectful",Positive,Positive,0.97,Positive,0.75,Positive,0.558,Positive,0.958,Positive,0.978
+REV_08784,REV_08784_C06,General Experience,Overall a great dining experience,Positive,Positive,0.967,Positive,0.74,Positive,0.665,Positive,0.972,Positive,0.984
+REV_08784,REV_08784_C07,General Experience,I would strongly recommend this place for family and office gatherings,Positive,Positive,0.871,Positive,0.69,Positive,0.773,Positive,0.883,Positive,0.975
+REV_08832,REV_08832_C01,Food,Food is not at all good,Positive,Positive,0.911,Positive,0.646,Positive,0.489,Positive,0.957,Positive,0.69
+REV_08832,REV_08832_C02,Service,"and the staff is not professional, parking floors are worst",Negative,Negative,0.934,Negative,0.617,Negative,0.562,Negative,0.97,Negative,0.983
+REV_08848,REV_08848_C04,Food,Food variety: Very less compared to any star rated hotels in similar bracket,Negative,Negative,0.901,Negative,0.576,Negative,0.503,Negative,0.939,Negative,0.969
+REV_08848,REV_08848_C08,Service,The service was poor and slow,Negative,Negative,0.988,Negative,0.787,Negative,0.601,Negative,0.996,Negative,0.978
+REV_08848,REV_08848_C09,Food,I am not sure whether that is for quantity of staff or the quality of staff,Positive,Positive,0.758,Positive,0.556,Negative,0.454,Positive,0.561,Negative,0.846
+REV_08848,REV_08848_C10,Service,None of the staff was nice or responsive in a way that makes you feel good,Positive,Positive,0.978,Positive,0.78,Positive,0.642,Positive,0.99,Positive,0.978
+REV_08848,REV_08848_C13,Food,Even the ice creams were too sweet,Positive,Positive,0.615,Positive,0.502,Negative,0.438,Positive,0.65,Negative,0.501
+REV_08870,REV_08870_C01,Ambience,Great place and ambience bad service from Tushar was awesome,Negative,Positive,0.932,Positive,0.677,Positive,0.65,Positive,0.524,Negative,0.902
+REV_08870,REV_08870_C01,General Experience,Great place and ambience bad service from Tushar was awesome,Negative,Positive,0.967,Positive,0.728,Positive,0.726,Positive,0.989,Negative,0.934
+REV_08870,REV_08870_C01,Service,Great place and ambience bad service from Tushar was awesome,Negative,Positive,0.892,Positive,0.637,Positive,0.577,Negative,0.525,Negative,0.919
+REV_08928,REV_08928_C13,General Experience,and this is what I like this restaurant the best,Positive,Positive,0.901,Positive,0.664,Positive,0.672,Positive,0.844,Positive,0.981
+REV_08928,REV_08928_C17,Food,"In addition, they study Korean food or other Asian food and cook for me as special treatment to please me",Positive,Positive,0.788,Positive,0.562,Positive,0.485,Positive,0.867,Positive,0.969
+REV_08928,REV_08928_C19,Food,and they cook some special food as per my special request,Positive,Positive,0.784,Positive,0.562,Positive,0.403,Positive,0.823,Positive,0.979
+REV_08928,REV_08928_C21,General Experience,I strongly recommend everyone that Collage is a place you must have meals during your stay at Hyderabad,Positive,Positive,0.924,Positive,0.706,Positive,0.723,Positive,0.865,Positive,0.973
+REV_08956,REV_08956_C04,Food,"Berry blast: Loved it, i would say it is my version of a drink",Positive,Positive,0.89,Positive,0.662,Positive,0.479,Positive,0.912,Positive,0.974
+REV_08956,REV_08956_C05,Food,The right maroon version of the combination of the flavor of sweetness more than sour,Positive,Positive,0.599,Positive,0.505,Positive,0.439,Positive,0.656,Positive,0.684
+REV_08956,REV_08956_C08,Food,A little sour,Positive,Positive,0.544,Positive,0.44,Negative,0.418,Positive,0.614,Negative,0.95
+REV_08956,REV_08956_C09,General Experience,although i liked it,Positive,Positive,0.946,Positive,0.71,Positive,0.615,Positive,0.844,Positive,0.82
+REV_08956,REV_08956_C12,Food,Nothing special about its taste,Positive,Neutral,0.844,Neutral,0.479,Negative,0.357,Neutral,0.931,Negative,0.835
+REV_08956,REV_08956_C14,Food,Beef & Pork kimchi bokkum bap: I just liked the flavor of the rice,Positive,Positive,0.881,Positive,0.652,Negative,0.435,Positive,0.755,Positive,0.969
+REV_08956,REV_08956_C17,Food,They were mixed with the right quantity of pork/beef,Positive,Positive,0.783,Positive,0.577,Positive,0.441,Positive,0.821,Positive,0.898
+REV_08956,REV_08956_C19,Food,and not much chewy,Negative,Negative,0.593,Negative,0.429,Negative,0.491,Negative,0.622,Negative,0.952
+REV_08956,REV_08956_C29,Food,Food (worth the money),Positive,Positive,0.794,Positive,0.569,Positive,0.378,Positive,0.819,Positive,0.967
+REV_08956,REV_08956_C29,Price / Value,Food (worth the money),Positive,Positive,0.745,Positive,0.527,Negative,0.453,Positive,0.751,Positive,0.929
+REV_08956,REV_08956_C31,Service,Service: 3.5/5,Positive,Neutral,0.696,Neutral,0.398,Neutral,0.456,Neutral,0.735,Neutral,0.83
+REV_08970,REV_08970_C02,Food,Great quality and taste,Positive,Positive,0.965,Positive,0.75,Positive,0.517,Positive,0.97,Positive,0.983
+REV_08970,REV_08970_C03,Food,Fresh meat served with awesome tasting gravy,Positive,Positive,0.977,Positive,0.768,Positive,0.501,Positive,0.949,Positive,0.982
+REV_08984,REV_08984_C03,Food,"First up, we were greeted with a distinct smell of raw pork which was mildly unpleasant",Negative,Negative,0.781,Negative,0.456,Positive,0.459,Negative,0.705,Negative,0.963
+REV_08984,REV_08984_C04,Food,The starters were quite good- spicy chicken momos and the pork preparations (pork belly and some kind of chilly fried pork),Positive,Positive,0.891,Positive,0.646,Positive,0.558,Positive,0.947,Positive,0.941
+REV_08984,REV_08984_C06,Food,"however, was disappointing, or perhaps we expected something else",Negative,Negative,0.8,Negative,0.458,Negative,0.441,Negative,0.666,Negative,0.974
+REV_08984,REV_08984_C07,Food,The Ramyum noodles tasted like a bland version of Top Ramen and the noodles had a strange texture to them,Negative,Negative,0.777,Negative,0.455,Negative,0.476,Negative,0.872,Negative,0.957
+REV_08984,REV_08984_C09,Food,The Teriyaki chicken rice was a tad too sweet for my palette personally,Positive,Positive,0.798,Positive,0.604,Positive,0.44,Positive,0.695,Negative,0.643
+REV_08984,REV_08984_C15,Price / Value,Value for money- 3.5/5,Positive,Positive,0.705,Positive,0.623,Negative,0.463,Positive,0.552,Neutral,0.375
+REV_08984,REV_08984_C16,Service,Service- 2.5,Negative,Neutral,0.696,Neutral,0.398,Neutral,0.456,Neutral,0.735,Neutral,0.727
+REV_08984,REV_08984_C17,Ambience,Ambience- 3/5,Neutral,Neutral,0.734,Positive,0.473,Neutral,0.52,Neutral,0.748,Neutral,0.854
+REV_09070,REV_09070_C02,Food,"Ordered some donuts and hazelnut iced coffee, I'd give a 5 for the donuts as they were delicious",Positive,Positive,0.818,Positive,0.603,Positive,0.5,Positive,0.938,Positive,0.976
+REV_09070,REV_09070_C03,Food,"the hazelnut iced coffee was bad, it was very diluted and tasted almost like flavored water",Negative,Negative,0.946,Negative,0.658,Negative,0.571,Negative,0.975,Negative,0.977
+REV_09070,REV_09070_C04,Food,I love their donuts,Positive,Positive,0.971,Positive,0.762,Positive,0.418,Positive,0.848,Positive,0.975
+REV_09086,REV_09086_C01,General Experience,Well it is as good as it gets,Positive,Positive,0.967,Positive,0.759,Positive,0.739,Positive,0.98,Positive,0.982
+REV_09091,REV_09091_C01,Food,good taste,Positive,Positive,0.981,Positive,0.781,Positive,0.548,Positive,0.971,Positive,0.984
+REV_09119,REV_09119_C03,Food,"The burger was pretty decent, not so great I would say",Positive,Positive,0.956,Positive,0.749,Positive,0.49,Positive,0.933,Positive,0.977
+REV_09119,REV_09119_C07,Food,Naughty Lucy chicken burger ( 4/5 and for people who love cheese it is 4.5/5 ),Positive,Positive,0.956,Positive,0.739,Positive,0.486,Positive,0.858,Positive,0.772
+REV_09119,REV_09119_C10,Ambience,Finally I would say the ambience is good,Positive,Positive,0.931,Positive,0.696,Positive,0.68,Positive,0.969,Positive,0.977
+REV_09119,REV_09119_C12,Food,Food is decent with an exception for donuts (they are very good),Positive,Positive,0.992,Positive,0.833,Positive,0.627,Positive,0.993,Positive,0.956
+REV_09127,REV_09127_C01,Service,Its was very great service from you Dunkin donuts,Positive,Positive,0.923,Positive,0.688,Positive,0.498,Positive,0.966,Positive,0.98
+REV_09127,REV_09127_C02,Ambience,the ambience was really awesome and the taste was really yummy and we and our friends like visit again,Positive,Positive,0.975,Positive,0.781,Positive,0.626,Positive,0.976,Positive,0.983
+REV_09127,REV_09127_C02,Food,the ambience was really awesome and the taste was really yummy and we and our friends like visit again,Positive,Positive,0.974,Positive,0.776,Positive,0.581,Positive,0.976,Positive,0.983
+REV_09127,REV_09127_C02,General Experience,the ambience was really awesome and the taste was really yummy and we and our friends like visit again,Positive,Positive,0.985,Positive,0.808,Positive,0.686,Positive,0.981,Positive,0.983
+REV_09187,REV_09187_C01,Food,FOOD WAS TASTY,Positive,Positive,0.771,Positive,0.594,Positive,0.365,Positive,0.812,Positive,0.975
+REV_09187,REV_09187_C02,Food,QUANTITY OF CHOKHA WAS SUFFICIENT,Positive,Positive,0.899,Positive,0.641,Negative,0.419,Positive,0.741,Positive,0.898
+REV_09187,REV_09187_C06,Price / Value,NOT WORTH IT,Negative,Negative,0.935,Negative,0.653,Negative,0.625,Negative,0.869,Negative,0.955
+REV_09193,REV_09193_C01,Food,not bad,Negative,Negative,0.998,Negative,0.869,Negative,0.64,Negative,0.991,Negative,0.973
+REV_09259,REV_09259_C05,Food,Hyderabadi Daawat is that place which will bring back your memories of going to a restaurant to enjoy a good sumptuous meal with your family or friends,Positive,Positive,0.881,Positive,0.667,Positive,0.576,Positive,0.943,Positive,0.978
+REV_09259,REV_09259_C07,Food,"Starting with the mocktails section, there is a huge variety",Positive,Positive,0.909,Positive,0.66,Positive,0.454,Positive,0.749,Positive,0.972
+REV_09259,REV_09259_C18,General Experience,This place has amazing Mutton biryani which is flavoured so well,Positive,Positive,0.974,Positive,0.818,Positive,0.795,Positive,0.983,Positive,0.981
+REV_09259,REV_09259_C22,Food,This dish was superb in taste as well as presentation,Positive,Positive,0.87,Positive,0.634,Positive,0.476,Positive,0.729,Positive,0.981
+REV_09259,REV_09259_C24,Food,Matka Firni and Double ka meetha were amazing here and should be eneded with after the meal,Positive,Positive,0.784,Positive,0.594,Positive,0.563,Positive,0.97,Positive,0.979
+REV_09259,REV_09259_C25,Service,The staff here is very polite and friendly,Positive,Positive,0.98,Positive,0.817,Positive,0.608,Positive,0.958,Positive,0.981
+REV_09259,REV_09259_C28,Food,The place has a huge space of sitting area,Positive,Positive,0.877,Positive,0.67,Positive,0.542,Positive,0.839,Positive,0.966
+REV_09259,REV_09259_C29,Ambience,The indoors are done very finely with good cravings on the ceiling,Positive,Positive,0.953,Positive,0.724,Positive,0.672,Positive,0.985,Positive,0.958
+REV_09259,REV_09259_C30,General Experience,Overall its a place you can go to with your family for an amazing Lunch or Dinner,Positive,Positive,0.858,Positive,0.644,Positive,0.647,Positive,0.949,Positive,0.984
+REV_09367,REV_09367_C03,Ambience,"must visit for foodies , loads of varieties and spoilt for choices , great ambience and food served with loads of Love",Positive,Positive,0.973,Positive,0.77,Positive,0.65,Positive,0.987,Positive,0.971
+REV_09413,REV_09413_C01,Ambience,Great ambiance and food,Positive,Positive,0.956,Positive,0.742,Positive,0.563,Positive,0.975,Positive,0.982
+REV_09425,REV_09425_C01,General Experience,Nice place,Positive,Positive,0.997,Positive,0.879,Positive,0.753,Positive,0.986,Positive,0.983
+REV_09425,REV_09425_C04,Food,Have very less options for indian cuisine,Negative,Negative,0.9,Negative,0.6,Negative,0.531,Negative,0.953,Negative,0.969
+REV_09425,REV_09425_C05,Food,Had tasty dimsums and chicken chilli as starters,Positive,Positive,0.905,Positive,0.658,Positive,0.439,Positive,0.849,Positive,0.976
+REV_09512,REV_09512_C01,General Experience,good,Positive,Positive,0.999,Positive,0.904,Positive,0.782,Positive,0.953,Positive,0.983

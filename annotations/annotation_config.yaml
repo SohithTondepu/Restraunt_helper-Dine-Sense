@@ -1,0 +1,102 @@
+# Annotation Configuration for DineSense AI Pilot
+version: "1.0.0"
+run_date: "2026-09-30"
+annotator_version: "gemini-3.8-flash-preannotator-v1.0"
+entity_type: "establishment"
+
+pilot_sampling:
+  total_reviews: 100
+  establishments: 100  # Exactly 1 review per establishment
+  rating_distribution_target:
+    low: 25   # 1.0 - 2.5
+    mid: 25   # 3.0 - 3.5
+    high: 50  # 4.0 - 5.0
+  length_distribution_target:
+    short: 30   # <150 chars
+    medium: 40  # 150 - 350 chars
+    long: 30    # >350 chars
+
+taxonomy:
+  aspects:
+    - "Food / Dining"
+    - "Staff / Service"
+    - "Facilities / Amenities"
+    - "Price / Value"
+    - "Cleanliness"
+    - "Location"
+    - "Booking / Check-in / Check-out"
+    - "Safety / Security"
+    - "Room"
+    - "Other"
+  
+  sentiments:
+    - "Positive"
+    - "Negative"
+    - "Neutral"
+    - "Unclear"
+
+  annotation_statuses:
+    - "Annotated"
+    - "Needs Review"
+    - "No Aspect Opinion"
+
+  theme_taxonomy:
+    "Food / Dining":
+      - "Food quality"
+      - "Taste / Flavor"
+      - "Portion size"
+      - "Menu variety"
+      - "Food temperature"
+      - "Drink / Beverage quality"
+      - "Freshness"
+      - "Presentation"
+      - "Buffet / Spread"
+      - "Unspecified"
+    "Staff / Service":
+      - "Staff courtesy"
+      - "Staff helpfulness"
+      - "Service speed / Wait time"
+      - "Attentiveness"
+      - "Order accuracy"
+      - "Staff professionalism"
+      - "Unspecified"
+    "Facilities / Amenities":
+      - "Ambience / Atmosphere"
+      - "Music / Noise level"
+      - "Seating / Comfort"
+      - "Decor / Interior"
+      - "Air conditioning / Ventilation"
+      - "Parking"
+      - "Washroom / Restroom facilities"
+      - "Unspecified"
+    "Price / Value":
+      - "Value for money"
+      - "Pricing / Overpriced"
+      - "Discounts / Offers"
+      - "Taxes / Hidden charges"
+      - "Unspecified"
+    "Cleanliness":
+      - "Table cleanliness"
+      - "Utensils / Cutlery hygiene"
+      - "General hygiene"
+      - "Washroom cleanliness"
+      - "Unspecified"
+    "Location":
+      - "Accessibility / Ease of finding"
+      - "Surroundings / View"
+      - "Unspecified"
+    "Booking / Check-in / Check-out":
+      - "Reservation / Table booking"
+      - "Billing / Payment process"
+      - "Unspecified"
+    "Safety / Security":
+      - "Food safety / Health"
+      - "Physical safety"
+      - "Unspecified"
+    "Room":
+      - "Room comfort"
+      - "Unspecified"
+    "Other":
+      - "Overall experience"
+      - "Social dining"
+      - "Unspecified"

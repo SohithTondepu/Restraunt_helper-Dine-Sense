@@ -1,0 +1,6 @@
+Metric,Value
+Total Clauses Evaluated,11631.0
+Overall Exact Match Accuracy,0.7267
+Macro F1-Score (5 Aspects),0.7912
+Micro F1-Score (5 Aspects),0.787
+Average Jaccard Similarity,0.7401

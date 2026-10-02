@@ -1,0 +1,20 @@
+{
+  "transformer_macro_f1": 0.7471,
+  "macro_f1_95_ci": [
+    0.7164,
+    0.7758
+  ],
+  "ece": 0.0164,
+  "mcnemar_p_value": 3.2155986651183355e-08,
+  "mcnemar_contingency_table": [
+    [
+      1144,
+      139
+    ],
+    [
+      60,
+      124
+    ]
+  ],
+  "statistically_significant_improvement": true
+}

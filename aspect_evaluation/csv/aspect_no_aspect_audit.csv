@@ -1,0 +1,6 @@
+Metric,Count,Share_of_Total_Clauses
+1. Reference clauses with no aspect (No Aspect Opinion),6677,57.41%
+2. Predicted clauses with no aspect (Empty Prediction),2811,24.17%
+3. Correct no-aspect detections (Ref=None & Pred=None),2232,33.43% of ref no-aspect
+"4. False no-aspect predictions (Ref has aspect, Pred=None)",579,11.69% of annotated clauses
+5. Aspect predictions made on ref No Aspect Opinion (False Alarms),4445,66.57% of ref no-aspect

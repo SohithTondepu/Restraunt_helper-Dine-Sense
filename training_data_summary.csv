@@ -1,0 +1,17 @@
+aspect,sentiment,assertion_count,unique_clauses,unique_reviews
+Food,Positive,1864,1862,1050
+Food,Negative,575,575,413
+Food,Neutral,83,83,74
+Service,Positive,606,605,515
+Service,Negative,225,224,181
+Service,Neutral,24,24,23
+Price / Value,Positive,256,251,216
+Price / Value,Negative,132,128,118
+Price / Value,Neutral,4,4,4
+Ambience,Positive,560,559,471
+Ambience,Negative,72,71,64
+Ambience,Neutral,27,27,25
+General Experience,Positive,1086,1085,789
+General Experience,Negative,123,122,110
+General Experience,Neutral,12,12,12
+TOTAL,ALL,5649,5212,1806
